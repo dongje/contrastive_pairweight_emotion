@@ -1,0 +1,1620 @@
+,wav_id,sentences,상황,1번 감정,2번 감정,3번 감정,4번 감정,5번 감정,emotion,label
+14563,5f62c0fc54b2361621284ca0,장마철이라서 곰팡이가 많이 생기는데 신경이 쓰여.,angry,neutral,angry,disgust,sadness,sadness,sad,2
+14564,5f60146b54b2361621284a78,지금은 진정됐지 하지만 또 그럴까 봐 무서워.,surprise,fear,fear,sadness,fear,fear,fear,5
+14565,5f60920d2e23c7161accd2ec,누가 싸운 거 같긴 하더라고.,neutral,neutral,fear,sadness,neutral,neutral,neutral,0
+14566,5fb87b5f576e9378b67ac227,그새낀 왜 나한테만 지랄이지?,angry,angry,surprise,angry,angry,angry,angry,3
+14567,5f3d06268a3c1005aa97c88a,그동안 얼마나 열심히 했는지 말도 못하게 힘들었는데 이제 완전히 끝났어!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14568,5f87b3c69e04b149046ccdca,나 축하해줘. 기분 좋은 일이 있어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14569,5fbcc751cb503578af9ee94c,어떤 식으로 풀어보면 좋을까?,angry,neutral,neutral,neutral,happiness,neutral,neutral,0
+14570,5f699858f8fac448cc0a5c7c,너무 우울해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+14571,5f71505d111dfd48d40fd468,내가 좋아하는 유튜버가 뒷 광고를 했다고 사과하는 영상을 올렸어.,angry,disgust,angry,angry,angry,angry,angry,3
+14572,5fbc9cf4cb503578af9ee7ea,마스크 쓰는 것도 너무 지겹고 귀찮아 죽겠어. 불편하고.,sadness,sadness,disgust,neutral,sadness,sadness,sad,2
+14573,5fba3dc4cb503578af9ee1ae,그만하자. 우리 싸울 거 같다.,neutral,sadness,sadness,neutral,neutral,neutral,neutral,0
+14574,5fb9e96ccb503578af9edf72,모르겠어.,neutral,angry,angry,neutral,neutral,neutral,neutral,0
+14575,5fb388dc75b0a9389bf39790,얼른 찾아와.,disgust,neutral,neutral,neutral,neutral,neutral,neutral,0
+14576,5f69490af8fac448cc0a5c0a,그래. 빨리 처리해야겠어.,disgust,neutral,disgust,disgust,disgust,disgust,disgust,4
+14577,5f62132eb878131628349d6c,냄새 나기 전에 버렸어야 하는 건데 못 버렸어.,disgust,disgust,disgust,disgust,disgust,sadness,disgust,4
+14578,5f5e0e9554b23616212848ee,200만원짜리 노트북을 구입했는데 배송이 늦어져서 엄청 걱정했어. 오늘 도착해서 너무 기분이 좋아.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14579,5f6ad498d338b948c4e685e9,"좀 먼데, 강남역에서 만나려구요.",neutral,neutral,happiness,sadness,neutral,neutral,neutral,0
+14580,5fb9ff35cb503578af9edfda,그니까 지금 곰팡이 제거제 살까 생각중이야.,angry,sadness,neutral,neutral,neutral,neutral,neutral,0
+14581,5f67f19a9e04b149046cb7ac,그런 거 같긴 해.,angry,sadness,surprise,sadness,sadness,sadness,sad,2
+14582,5fb4d23c44697678c497ac0b,아니 저번에 버린 음식물 쓰레기가 썩고 있잖아!,disgust,angry,angry,angry,angry,disgust,angry,3
+14583,5fbb161e44697678c497b4ef,인스타에 자랑하려고. 인스타로 봐!,happiness,happiness,neutral,neutral,happiness,happiness,happy,1
+14584,5fbc6832576e9378b67acd64,"아니, 못찍었어.",disgust,sadness,neutral,sadness,neutral,sadness,sad,2
+14585,5f5b5b653bd6941613f6d068,응. 너무너무 실망스러워.,angry,sadness,sadness,sadness,disgust,sadness,sad,2
+14586,5fbcc54344697678c497bbf5,그러게. 내 생각에는 테러가 난 것 같아.,neutral,neutral,neutral,neutral,neutral,fear,neutral,0
+14587,5fb37fa175b0a9389bf39713,알겠어. 알겠어.,sadness,neutral,neutral,neutral,happiness,neutral,neutral,0
+14588,5fb875fb576e9378b67ac1ef,나 요즘 주식 시작했어.,sadness,sadness,angry,neutral,sadness,sadness,sad,2
+14589,5f894f75111dfd48d40fe56a,이거 전화해야겠지?,disgust,disgust,angry,sadness,disgust,disgust,disgust,4
+14590,5fbe293244697678c497bff4,아니 아까 해피 산책시키다가 엄청 놀랬어.,surprise,fear,neutral,neutral,surprise,angry,neutral,0
+14591,5fb894a844697678c497ae47,너무 열받아. 어떻게해야 좋을까?,angry,sadness,neutral,neutral,sadness,sadness,sad,2
+14592,5fbdc6e44c55eb78bd7cebe8,응. 날씨 좋았어.,neutral,happiness,neutral,neutral,neutral,angry,neutral,0
+14593,5fb874bf4c55eb78bd7cdc22,거의 선수죠.,happiness,sadness,neutral,neutral,neutral,neutral,neutral,0
+14594,5fb8e33b44697678c497b001,선수는 아니고. 다행인 거지.,happiness,happiness,sadness,neutral,neutral,neutral,neutral,0
+14595,5f6a1d45d338b948c4e68533,사람들이 너무 많아서 무슨 일이 있는지 알 수가 없었어.,neutral,neutral,fear,sadness,neutral,neutral,neutral,0
+14596,5fbe1099cb503578af9eec8d,좀 나눠줄게.,happiness,disgust,sadness,neutral,neutral,angry,neutral,0
+14597,5f6b43b8111dfd48d40fcfc4,할 게 얼마나 많은데. 영화랑 음악 다운받아야 되고 프로젝트도 해야되고.,happiness,neutral,happiness,sadness,happiness,surprise,happy,1
+14598,5f3e79929dd513131eace283,지난 번에 음식물 쓰레기를 내가 그곳에 버려서 그래.,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+14599,5f86e1f6f8fac448cc0a6f0a,집에서 일만 하니까 찌푸둥하고 몸이 더 안 좋아.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+14600,5f90d3c9d338b948c4e6a743,바리케이드를 치는 바람에 제대로 못 봤어.,neutral,neutral,fear,angry,neutral,neutral,neutral,0
+14601,5f984789111dfd48d40ff69a,오늘은 날씨가 좋은데 내일 비 소식이 있는 거야 나 사무실에 우산 없어.,neutral,fear,angry,sadness,neutral,fear,fear,5
+14602,5f85c4839e04b149046ccad8,곰팡이를 제거하는데 곰팡이 제거제가 효과가 있다고 하니까 나 사용해볼래.,angry,neutral,angry,sadness,disgust,sadness,sad,2
+14603,5fbb59d144697678c497b6d7,아니 글쎄 누가 칼에 맞았더라고.,neutral,fear,disgust,sadness,neutral,sadness,sad,2
+14604,5f6984fcd338b948c4e68468,간신히 낸 휴간데 지금 장마 때문에 가지도 못해!,angry,sadness,angry,angry,angry,angry,angry,3
+14605,5fbb8c3144697678c497b83e,알았어. 덕분에 기분이 많이 풀렸어.,sadness,sadness,sadness,neutral,neutral,sadness,sad,2
+14606,5f9a2febf8fac448cc0a8796,기분도 좋은데 신나는 음악 듣는 거 정말 좋을 거 같아.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14607,5fb872e244697678c497ad38,"아니, 아까 해피 산책시키다가 엄청 놀랐어.",surprise,surprise,angry,neutral,surprise,surprise,surprise,6
+14608,5f655a7cf8fac448cc0a5860,영화까지 찾아주면 정말 고맙지.,sadness,happiness,happiness,sadness,sadness,happiness,happy,1
+14609,5fb9c5ed576e9378b67ac57b,방향제 좋다. 뭐 추천해줄만한 거 있어?,disgust,sadness,sadness,sadness,neutral,neutral,sad,2
+14610,5fba0197cb503578af9edff5,쓰레기 안 버린게 썩어가지고 냄새가 장난이 아니야.,disgust,neutral,disgust,neutral,neutral,disgust,neutral,0
+14611,5f8ea2acf8fac448cc0a7ace,그래. 보여줄게. 얼마나 예쁜지.,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+14612,5fba3730576e9378b67ac83a,그래. 너 말이 맞는 거 같애. 앞으로 한 30분 정도만 환기 계속 시켜야겠어.,angry,sadness,neutral,neutral,neutral,neutral,neutral,0
+14613,5fbe08194c55eb78bd7cecf5,나 축하해줘! 이번에 좋은 일이 생겼어.,happiness,happiness,neutral,neutral,happiness,neutral,neutral,0
+14614,5fbb2ed24c55eb78bd7ce405,올라가고 있었는데 갑자기 멈추더니 움직이질 않아.,fear,sadness,neutral,sadness,neutral,sadness,sad,2
+14615,5f5ebed93bd6941613f6d2d5,나 갇힌 것 같아.,fear,fear,fear,fear,fear,fear,fear,5
+14616,5fb3420648cdda3a922e4eb7,아니. 더 안 좋아지는 것 같아.,neutral,neutral,neutral,neutral,neutral,neutral,neutral,0
+14617,5f8d7181111dfd48d40feb88,헐! 나 이벤트에 당첨되었어.,happiness,surprise,happiness,happiness,happiness,happiness,happy,1
+14618,5fb33bef0fb0f33aa31ca194,나 이벤트 당첨됐어.,happiness,happiness,happiness,happiness,fear,happiness,happy,1
+14619,5fb88978cb503578af9edb67,사진 찍어서 보내줄려고.,disgust,surprise,angry,neutral,neutral,neutral,neutral,0
+14620,5fbe2e3f4c55eb78bd7cee58,"아, 짜증나. 그 새끼는 할 일 없으면 집에나 갈 것이지 왜 나한테만 뭐라 해!",angry,sadness,angry,disgust,angry,angry,angry,3
+14621,5f8af180d338b948c4e69e3a,나 아무래도 혼자 갇힌 것 같아.,fear,fear,fear,fear,fear,fear,fear,5
+14622,5fbb1a57cb503578af9ee27c,그렇게 하려고.,angry,neutral,neutral,neutral,neutral,neutral,neutral,0
+14623,5fbc65abcb503578af9ee63e,어제 먹다 남은 음식을 버렸더니 그런 것 같아.,disgust,happiness,neutral,neutral,surprise,neutral,neutral,0
+14624,5f6ae871d338b948c4e685ff,코로나 때문에 밖에 나갈 수가 없어. 집에서 일을 하니까 답답해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+14625,5fb9e8af576e9378b67ac671,나는 괜찮아.,neutral,happiness,angry,sadness,happiness,neutral,happy,1
+14626,5fbe097ccb503578af9eec32,아 씨발 여기서 어떻게 더 자세히 얘기해. 무섭다구.,fear,disgust,angry,angry,angry,angry,angry,3
+14627,5f894bd5d338b948c4e69bff,나 오늘 짭새 새끼들이 몰려 있길래 궁금해서 구경 다녀왔어.,neutral,neutral,fear,happiness,happiness,happiness,happy,1
+14628,5fbc9e97cb503578af9ee7ff,그지. 다 먹고 살기 힘들지. 아휴. 나도 똑같아. ,neutral,sadness,sadness,sadness,neutral,disgust,sad,2
+14629,5f6016ce2e23c7161accd27f,다행히 천둥만 몇 번 치더니 사그라 들었어.,surprise,neutral,surprise,sadness,neutral,neutral,neutral,0
+14630,5fba1f994c55eb78bd7ce200,나 오늘 대학교에 짭새가 몰려있어서 궁금해서 구경하고 왔어.,neutral,sadness,neutral,neutral,neutral,neutral,neutral,0
+14631,5f6163d63bd6941613f6d4f9,그렇지. 우리 집 빼고 다 물로 싸여져 있어서 나갈 수가 없어.,fear,fear,fear,sadness,fear,sadness,fear,5
+14632,5fb88cdc4c55eb78bd7cdcf6,추첨을 통해서 화장품 주는 건데 그거 당첨됐어.,happiness,neutral,neutral,neutral,neutral,neutral,neutral,0
+14633,5f6fffd4111dfd48d40fd370,내가 막 달려가서 해피를 안았기 때문에 다행히 아무 일도 안생겼어.,surprise,neutral,surprise,sadness,fear,surprise,surprise,6
+14634,5f41446c9dd513131eacee43,"아니. 선수처럼 그렇게 기록이 좋진 않지만, 그 동안의 내가 노력한 결과에, 결과를 얻은 것 같애서 좋다는 거야.",happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14635,5fb8e21644697678c497aff5,너무 무서워. 어떻게 해야될지 모르겠어.,fear,neutral,angry,neutral,fear,neutral,neutral,0
+14636,5f693de1111dfd48d40fcd8b,내가 들고 있는 주식은 괜찮은 주식이야. 생명과학 분야야.,sadness,neutral,neutral,sadness,sadness,sadness,sad,2
+14637,5f5fd2163bd6941613f6d3b2,모든 일을 비대면으로 처리하다 보니까 외출할 일이 없어져서 그런지 몸이 많이 처지고 의욕도 없어.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+14638,5fbd0f73cb503578af9ee9ff,다행히 아무도 없었어.,surprise,neutral,neutral,neutral,happiness,neutral,neutral,0
+14639,5f90cdcb111dfd48d40ff00b,곰팡이 제거제를 쓰면 좀 곰팡이가 사라진다고 하니까 나 사용해볼래!,angry,disgust,angry,sadness,disgust,neutral,disgust,4
+14640,5fbcde6044697678c497bc81,냄새가 사라질까?,disgust,neutral,surprise,surprise,neutral,neutral,neutral,0
+14641,5f917454f8fac448cc0a7e61,영화까지 찾아주면 정말 고맙지.,sadness,happiness,happiness,happiness,sadness,neutral,happy,1
+14642,5fbcd3afcb503578af9ee977,나 요즘 주식 시작했어.,sadness,sadness,sadness,sadness,neutral,sadness,sad,2
+14643,5fb4d657cb503578af9ed9ec,짭새가 몰려 있길래 구경하다 왔어.,neutral,neutral,neutral,neutral,neutral,neutral,neutral,0
+14644,5f5f87b63bd6941613f6d3a9,진짜 알겠어. 고마워.,angry,neutral,happiness,happiness,neutral,neutral,neutral,0
+14645,5f3fe8479dd513131eace944,그런것도 있었어? 좋은 정보 정말 고마워.,happiness,surprise,happiness,happiness,surprise,happiness,happy,1
+14646,5fbb31d54c55eb78bd7ce425,그거랑은 다른 의견이지 않아?,angry,surprise,angry,neutral,happiness,neutral,neutral,0
+14647,5fba3d604c55eb78bd7ce2ce,나 너무 우울해.,sadness,sadness,sadness,sadness,neutral,sadness,sad,2
+14648,5fb37d4a75b0a9389bf396ef,집에만 있으니까 친구도 못 만나고 너무 심심하고 그래.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+14649,5f9179f5f8fac448cc0a7e78,음악을 들으면 나의 기분이 조금 나아질 수 있을까?,sadness,neutral,sadness,sadness,sadness,sadness,sad,2
+14650,5f6fe51ff8fac448cc0a6177,친구가 같이 하자고 연락 왔더라고. 그래서 하게 됐어.,sadness,neutral,sadness,sadness,sadness,sadness,sad,2
+14651,5f989b5c9e04b149046ce179,너의 말대로 푹 쉬고 여행 계획도 잡아볼게.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14652,5f989f96111dfd48d40ff6d3,쓰레기통에서 역겨운 냄새가 나고 있어! ,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+14653,5fbdf226cb503578af9eebd9,쓰레기통에서 역겨운 냄새가 나고 있어.,disgust,neutral,sadness,neutral,disgust,angry,neutral,0
+14654,5f9a390ad338b948c4e6b0e3,아니 그런 건 아닌 거 같고 그냥 누가 물건 훔쳐간 거 같던데?,neutral,neutral,fear,surprise,neutral,neutral,neutral,0
+14655,5fba32aa576e9378b67ac7f6,그니까. 완전 배고파가지고 지금 기다리고 있어 근데.,disgust,sadness,sadness,sadness,neutral,disgust,sad,2
+14656,5fb33d380fb0f33aa31ca1a1,어. 다친 덴 없어.,surprise,neutral,neutral,neutral,surprise,neutral,neutral,0
+14657,5fb37dfe75b0a9389bf396fa,아직 다 안끝났어.,happiness,neutral,neutral,neutral,happiness,neutral,neutral,0
+14658,5fb8e0f8576e9378b67ac47f,좋아. 꼭 보여줄게. 완전 마음에 들어.,happiness,neutral,neutral,happiness,neutral,happiness,neutral,0
+14659,5f88ebc5111dfd48d40fe4a5,선물이 마음에 들어서 신청 했지.,happiness,neutral,happiness,happiness,happiness,angry,happy,1
+14660,5fbc71eccb503578af9ee6ca,응! 밖에 경찰차가 있었다니까.,neutral,neutral,neutral,neutral,neutral,surprise,neutral,0
+14661,5fba1a60576e9378b67ac783,회사 동료가 소개시켜줬어.,sadness,sadness,neutral,sadness,neutral,neutral,neutral,0
+14662,5f653d94111dfd48d40fc9d4,창문으로 집 밖을 봤는데 집 주변까지 물이 차올라서 밖으로 나갈 수가 없어.,fear,sadness,fear,sadness,fear,fear,fear,5
+14663,5fb878a9cb503578af9edae3,그래. 고마워. ,disgust,neutral,neutral,neutral,neutral,neutral,neutral,0
+14664,5f788dbed338b948c4e68cb6,ㅏ 드디어 프로젝트가 끝났어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14665,5f8da2a7111dfd48d40fec01,아니 아까 해피 산책 시키다가 엄청 놀랬어! ,surprise,surprise,surprise,surprise,neutral,surprise,surprise,6
+14666,5f6f591ff8fac448cc0a610f,조금 더 지켜보다보면 내 주식도 오를 날이 오겠지?,sadness,sadness,sadness,sadness,sadness,neutral,sad,2
+14667,5f924d619e04b149046cdc61,아무래도 밖에 나갈 수가 없어.,fear,sadness,sadness,fear,fear,sadness,sad,2
+14668,5fb8e0ae576e9378b67ac477,나 프로젝트가 끝났어!,happiness,happiness,neutral,happiness,happiness,happiness,happy,1
+14669,5f708a05111dfd48d40fd3ce,"믿을 수 있을진 모르겠지만, 노래 추천해줘.",angry,neutral,happiness,sadness,angry,sadness,sad,2
+14670,5fbce11acb503578af9ee9de,경찰이 힘들겠어.,neutral,surprise,neutral,neutral,neutral,neutral,neutral,0
+14671,5f9a85e6d338b948c4e6b1ae,쓰레기통에서 역겨운 냄새가 나고 있어.,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+14672,5f6d83f2f8fac448cc0a5ff1,너무 좋지. 우리는 양이 많아야돼. 그래야 먹은 거 같거든.,neutral,happiness,happiness,happiness,happiness,neutral,happy,1
+14673,5f9177e49e04b149046cdb87,당첨 선물이 내가 갖고 싶었던 향수라서 너무 마음에 들어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14674,5fbb2b91576e9378b67ac984,나 드디어 프로젝트 끝났어.,happiness,happiness,neutral,happiness,happiness,neutral,happy,1
+14675,5f6817c99e04b149046cb7dd,오랜만에 친구랑 분위기를 잡으면서 양식을 먹어야겠어.,neutral,neutral,happiness,sadness,happiness,happiness,happy,1
+14676,5fbc6714576e9378b67acd54,응! 아무도 다치지 않았어.,surprise,happiness,neutral,happiness,happiness,happiness,happy,1
+14677,5fbdd6a344697678c497be43,그렇지. 지금 해피랑 놀고 있어.,surprise,neutral,sadness,neutral,sadness,neutral,neutral,0
+14678,5f86725bf8fac448cc0a6e61,모든 일을 비대면으로 하다보니까 외출할 일이 없어져서 몸이 처지고 기력도 없어.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+14679,5f6414a2639e10419832eba9,곰팡이 제거제가 효과가 있다고 하니까 사용해볼래. 하나 추천해줘봐!,angry,neutral,angry,happiness,disgust,neutral,neutral,0
+14680,5fbc9bf644697678c497ba83,세 명 뽑는 것 중에 내가 당첨이 되었어.,happiness,neutral,neutral,neutral,neutral,happiness,neutral,0
+14681,5f6f60e2f8fac448cc0a6131,집 안에 까지는 물이 들어오지 않아서 괜찮아.,fear,neutral,fear,sadness,fear,fear,fear,5
+14682,5f5e14d9b878131628349a11,유명한 유튜버가 좋은 제품이라길래 샀지! 하지만 뒷광고였어!,angry,angry,angry,angry,angry,angry,angry,3
+14683,5f86678a111dfd48d40fe067,사람들이 너무 많아서 왜 몰려 있는지 잘 못 봤어.,neutral,neutral,fear,sadness,disgust,sadness,sad,2
+14684,5fbb69964c55eb78bd7ce5da,헐! 나 이벤트에 당첨됐어.,happiness,surprise,fear,neutral,happiness,surprise,surprise,6
+14685,5f8bc16ef8fac448cc0a75c6,그래. 보여줄게. 얼마나 고급스러운 향수인지.,happiness,neutral,happiness,happiness,happiness,neutral,happy,1
+14686,5f924a909e04b149046cdc5c,너무너무 행복하다.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14687,5f8dad0af8fac448cc0a79ea,어차피 지금 팔지도 못해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+14688,5f7080e1111dfd48d40fd3b4,지금부터 한 번 확인해볼게.,happiness,neutral,happiness,happiness,happiness,neutral,happy,1
+14689,5f6736f9111dfd48d40fcbdd,처음 살 때보다 많이 좀 떨어졌어.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+14690,5fbdf4e44c55eb78bd7cecc9,맞아요. 힘들었지만 보람이 느껴요.,happiness,sadness,sadness,neutral,neutral,neutral,neutral,0
+14691,5f992e7a9e04b149046ce2a1,헐. 나 이벤트 당첨 됐어!,happiness,happiness,happiness,happiness,surprise,surprise,happy,1
+14692,5fbccca1cb503578af9ee961,"아니, 비타민이 많이 들어있는 과일이 뭐가 있는데?",sadness,neutral,angry,neutral,neutral,neutral,neutral,0
+14693,5fb37f8d75b0a9389bf39712,좋죠. 혹시 음악 추천해줄 수 있어요?,happiness,neutral,neutral,neutral,neutral,neutral,neutral,0
+14694,5fbcbe1ecb503578af9ee8e9,한명밖에 안 뽑는데 내가 된거야.,happiness,neutral,angry,neutral,neutral,neutral,neutral,0
+14695,5f8a2181f8fac448cc0a7414,나 혼자 집 안에 갇히게 되었어! ,fear,fear,fear,sadness,fear,fear,fear,5
+14696,5f7871ae111dfd48d40fd5f6,다행히 사람들이 없는 도로였어.,surprise,neutral,surprise,sadness,disgust,sadness,sad,2
+14697,5f77e97ff8fac448cc0a639b,아 짜증나! 그 새끼 일 끝났으면 빨리 집에나 가지 남아가지고 자꾸 나한테 뭐라고 해!,angry,angry,angry,angry,angry,angry,angry,3
+14698,5f937ffc111dfd48d40ff323,그런 것 같아서 매일 매일 청소를 하는데 곰팡이가 안 없어져.,angry,disgust,angry,sadness,disgust,disgust,disgust,4
+14699,5f3e9a639dd513131eace3e9,기분전환용 영상이 어떤거야? 나한테 말 좀 해줘봐.,angry,neutral,happiness,sadness,neutral,neutral,neutral,0
+14700,5fbc72704c55eb78bd7ce809,얼씨구. 아깐 짭새라며 이제는 또 경찰이냐? 왔다갔다 하는구먼.,neutral,disgust,angry,disgust,happiness,disgust,disgust,4
+14701,5f8a2c74d338b948c4e69d40,무슨 일인지 알 수가 없어서 30분 정도 구경하다 집으로 왔어.,neutral,neutral,fear,sadness,disgust,sadness,sad,2
+14702,5f997a98d338b948c4e6afdd,내가 너무나 좋아하는 인플루언서가 진행하는 이벤트가 있었는데 거기에 당첨 됐어!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14703,5f6c42af9e04b149046cbc0d,누군가 싸우는지 시끄럽고 치고박고 난리가 아닌 것 같아.,neutral,neutral,fear,sadness,neutral,neutral,neutral,0
+14704,5f622e13b878131628349d9a,그런건가? 너무 짜증나.,angry,disgust,angry,angry,disgust,angry,angry,3
+14705,5f5e29df54b236162128492b,나 오늘 짭새들이 몰려있길래 궁금해서 구경 갔다 왔어.,neutral,neutral,disgust,sadness,neutral,neutral,neutral,0
+14706,5f708cacd338b948c4e68a52,그래야할 것 같아. 휴식을 취하면서 영화나 봐야겠어.,angry,neutral,angry,sadness,sadness,sadness,sad,2
+14707,5f8ad08cf8fac448cc0a74e6,끝났어. 너무 기분이 좋아. 날아갈 것 같아.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14708,5f6e8cb09e04b149046cbd95,다행히 우리집은 안잠겼어. 그리고 난 괜찮아.,fear,neutral,fear,sadness,fear,fear,fear,5
+14709,5f812202f8fac448cc0a673c,내가 버린 음식물 쓰레기가 상해서 쓰레기통에서 냄새가 나는 거야.,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+14710,5fba3f08576e9378b67ac897,음식물 쓰레기를 쓰레기통에 그냥 별 생각 없이 버렸는데 잊고 있다가 지금 보니까 썩고 있었어.,disgust,disgust,disgust,neutral,happiness,disgust,disgust,4
+14711,5f90cfcc111dfd48d40ff00c,내 선물 보고 싶어? 나중에 꼭 보여 줄게.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14712,5f6a9e439e04b149046cba5f,마라톤 기록을 갱신했어. 앗싸!,happiness,neutral,happiness,happiness,happiness,happiness,happy,1
+14713,5fbe25da4c55eb78bd7cedbc,"어, 뭐 날 괜찮았어.",neutral,happiness,neutral,neutral,neutral,sadness,neutral,0
+14714,5fba1b3a4c55eb78bd7ce1c8,"아니, 이번에 나 마라톤 또 나갔잖아? 기록이 완전 줄었어.",happiness,surprise,sadness,neutral,neutral,disgust,neutral,0
+14715,5f633fdc54b2361621284d43,나 오늘 짭새들이 몰려 있길래 궁금해서 구경 다녀왔어.,neutral,neutral,fear,sadness,neutral,neutral,neutral,0
+14716,5fbe2c504c55eb78bd7cee3d,그새끼는 욕을 들어도 싸.,angry,angry,angry,disgust,neutral,angry,angry,3
+14717,5f8275c3f8fac448cc0a692a,단톡방에서 아는 지인이 주식으로 돈을 벌었다고 주식을 추천해줬어.,sadness,neutral,neutral,sadness,sadness,sadness,sad,2
+14718,5fbb4fa644697678c497b644,줄이 끊어졌어. 난리 났어.,surprise,sadness,fear,neutral,neutral,neutral,neutral,0
+14719,5fb386dce3dcec421f8358d8,라면 먹고 있었다고.,neutral,neutral,neutral,neutral,neutral,disgust,neutral,0
+14720,5f5e1cf0b878131628349a2a,그러니깐 다음엔 이런 일 없어야겠지.,disgust,disgust,disgust,disgust,disgust,sadness,disgust,4
+14721,5fb9ed6044697678c497b217,도로에서 차랑 차끼리 교통사고가 났어. 무서웠어.,neutral,neutral,neutral,sadness,neutral,fear,neutral,0
+14722,5f621e752e23c7161accd44a,이전에 버렸던 음식물 쓰레기가 상해서 나는 냄새였어.,disgust,disgust,disgust,disgust,neutral,sadness,disgust,4
+14723,5fb8c281576e9378b67ac3c1,다 해봤는데 집에서 근무까지 하니까 별로 이젠 그런것도 힘이 안난다.,sadness,sadness,neutral,neutral,sadness,sadness,sad,2
+14724,5fbb8fa6cb503578af9ee593,그건 나도 알지만 나도 화를 참을 수가 없어서 그래.,angry,angry,sadness,sadness,happiness,fear,sad,2
+14725,5fba3c5444697678c497b427,아. 짜증 나. 그 새끼는 왜 나한테만 지랄이지? 할 거 없음 집에나 가던가?,angry,angry,angry,neutral,neutral,angry,angry,3
+14726,5fbb507b576e9378b67aca85,완전 마음에 들지!,happiness,happiness,neutral,neutral,neutral,happiness,neutral,0
+14727,5f86bb3f111dfd48d40fe110,당연히 무섭지. 나 어떻게 해야 해.,fear,fear,fear,fear,fear,fear,fear,5
+14728,5f41d7639dd513131eaceef4,엄청 큰 천둥 번개 소리 때문에 깜짝 놀라서 깨서 무서워서 잠을 못 잤어.,surprise,fear,surprise,sadness,disgust,surprise,surprise,6
+14729,5f8071d1111dfd48d40fd842,오늘 최종발표를 마쳤으니까 이제 완전히 끝난거야.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14730,5f70061ff8fac448cc0a6195,나 오늘 짭새 새끼들이 몰려 있길래 궁금해서 구경 다녀왔어. ,neutral,neutral,fear,happiness,neutral,angry,neutral,0
+14731,5f6d613d111dfd48d40fd1b0,내일 비가 엄청 많이 온대? 우산 사무실에 없어.,neutral,fear,angry,sadness,neutral,sadness,sad,2
+14732,5f8f807df8fac448cc0a7c51,갑자기 해피의 목줄이 끊어지면서 해피가 막 뛰어나갔어.,surprise,neutral,surprise,surprise,fear,sadness,surprise,6
+14733,5fbe0b924c55eb78bd7ced28,직장 생활 얘기?,neutral,happiness,surprise,surprise,happiness,surprise,surprise,6
+14734,5fbe2c2644697678c497c019,"아, 짜증나! 그 새끼는 왜 나한테만 그럴까?",angry,angry,angry,disgust,angry,angry,angry,3
+14735,5fbdd2134c55eb78bd7cec32,고장난 거면 어떡하지? 고장난 거 같애.,fear,sadness,fear,sadness,sadness,fear,sad,2
+14736,5fbe124544697678c497bf72,"에이, 여행이 귀찮아. 그냥 집에서 쉴래. 친구들이나 잠깐 만나고.",happiness,happiness,sadness,sadness,sadness,sadness,sad,2
+14737,5f5ec9deb878131628349a99,그런 거 같진 않아. 금방 가더라고.,neutral,neutral,neutral,angry,disgust,neutral,neutral,0
+14738,5f6fe2679e04b149046cbe7e,아주 유명한 인플루언서가 이벤트를 진행하더라고.,happiness,neutral,happiness,happiness,happiness,surprise,happy,1
+14739,5fb4b3d2cb503578af9ed8eb,헐 나 이벤트 당첨됐어.,happiness,surprise,angry,neutral,surprise,happiness,surprise,6
+14740,5f904665f8fac448cc0a7dbf,축축 쳐지는 것 같애.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+14741,5fb492164c55eb78bd7cd989,제약회산데 버리고 싶은데 지금 계속 손해를 보고 있어서 버릴 수도 없고 너무 힘들어.,sadness,sadness,sadness,neutral,sadness,fear,sad,2
+14742,5fbdc7c14c55eb78bd7cebed,응. 잘 해결 됐을 것 같애.,neutral,happiness,angry,neutral,neutral,neutral,neutral,0
+14743,5f6a9337d338b948c4e68566,나 요즘 주식하는데 상황이 심각해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+14744,5fb8cd25cb503578af9edd0c,어. 나 구매할래.,angry,surprise,neutral,angry,happiness,angry,angry,3
+14745,5fbe25c9cb503578af9eece4,나 오늘 짭새가 몰려있길래 궁금해서 구경 다녀왔어.,neutral,sadness,neutral,neutral,neutral,neutral,neutral,0
+14746,5fbcc4f4cb503578af9ee933,그냥. 사람들이 좀 다쳐있더라고.,neutral,neutral,neutral,neutral,happiness,neutral,neutral,0
+14747,5f68c75e111dfd48d40fcd5a,내가 잠을 자는 동안에 비가 엄청 많이 와서 우리 동네가 고립되면서 갇히게 됐어!,fear,fear,fear,sadness,fear,fear,fear,5
+14748,5f8865b8d338b948c4e69acc,당첨자는 한 명 뽑는 거였는데 내가 당첨되었어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14749,5fbc847b44697678c497b9ec,어 미안해. 그 표현 이제 안쓸게. 어 아무튼 경찰이 저쪽에서 뭘 하고 있더라고?,neutral,neutral,sadness,neutral,surprise,neutral,neutral,0
+14750,5f992bead338b948c4e6aec1,몸은 괜찮아. 근데 지금 어우. 어떡하지?,fear,fear,angry,sadness,fear,fear,fear,5
+14751,5f9a32ac111dfd48d40ff9c4,완전 바닥이야. 속상해.,sadness,fear,sadness,sadness,sadness,sadness,sad,2
+14752,5f917ae2f8fac448cc0a7e7d,곰팡이 제거제가 과연 효과가 있을까?,angry,neutral,angry,sadness,disgust,neutral,neutral,0
+14753,5f8bbf54111dfd48d40fe836,코로나 때문에 밖에 나가지도 못하고 너무 답답해!,sadness,disgust,sadness,sadness,sadness,sadness,sad,2
+14754,5f6059a32e23c7161accd2cc,쓰레기통에 음식물이 들어간 것 같아. 내 실수야.,disgust,sadness,disgust,disgust,disgust,sadness,disgust,4
+14755,5f830682d338b948c4e6921a,나 너무 우울해. 코로나 땜에 다 망했어.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+14756,5fbe151344697678c497bf85,다행히 주변에 사람은 별로 없었어. 그래서 괜찮았어.,surprise,sadness,neutral,neutral,neutral,sadness,neutral,0
+14757,5f81d926f8fac448cc0a68e3,"당황스럽게도, 정말 몸은 멀쩡해.",fear,surprise,fear,sadness,neutral,neutral,neutral,0
+14758,5f894838f8fac448cc0a72df,시간을 가지고 지켜보다 보면 주식이 오를 날이 있겠지?,sadness,fear,sadness,sadness,sadness,sadness,sad,2
+14759,5fb9e1df576e9378b67ac631,"아니, 아까 해피 산책시키다 깜짝 놀랬어.",surprise,angry,sadness,neutral,neutral,surprise,neutral,0
+14760,5fba14d2cb503578af9ee02d,"그래, 좋아. 음악 하나 추천해줘.",happiness,happiness,neutral,neutral,sadness,neutral,neutral,0
+14761,5fbb8d9644697678c497b846,고마워. 위로해줘서.,sadness,happiness,sadness,neutral,neutral,neutral,neutral,0
+14762,5f808791f8fac448cc0a667a,처음 샀을 때보다 가격이 많이 빠졌어.,sadness,fear,sadness,sadness,sadness,sadness,sad,2
+14763,5f3d0b938a3c1005aa97c8c2,집 안은 괜찮은데 바깥이 난리야. 차도 잠겨있고 물만 보여.,fear,neutral,fear,fear,fear,sadness,fear,5
+14764,5f6892fff8fac448cc0a5b44,비싼 건 못 샀어. 알바비를 모아서 산 거거든.,happiness,sadness,happiness,sadness,happiness,sadness,sad,2
+14765,5f5e1f9db878131628349a33,아직까지는 집 안까지 물이 안 들어왔어. 하지만 조금 있으면 물이 찰까봐 너무나 무섭고 걱정 돼.,fear,fear,fear,fear,fear,fear,fear,5
+14766,5f6033bb3bd6941613f6d40b,응! 알겠어.,angry,neutral,happiness,neutral,neutral,happiness,neutral,0
+14767,5fbe0fba576e9378b67ad386,요즘 코로나라 다들 먹고살기 힘들지. 나도 힘들어.,neutral,sadness,sadness,sadness,sadness,sadness,sad,2
+14768,5f900b44d338b948c4e6a661,아후 쓰레기통에서 역겨운 냄새가 나고 있어!,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+14769,5f6a8783d338b948c4e68552,어떤 음악? 추천해 줄 꺼야?,sadness,neutral,happiness,sadness,neutral,neutral,neutral,0
+14770,5fb383f1e3dcec421f8358ad,그만 할래.,sadness,neutral,neutral,neutral,neutral,angry,neutral,0
+14771,5fb88a83cb503578af9edb70,정전때문에 엘리베이터가 멈춘 것 같아. 나 어떡하지?,fear,angry,neutral,surprise,fear,fear,fear,5
+14772,5f81d7f69e04b149046cc59c,맞아 요즘 몸이 너무 힘들고 지쳐! 나 밖에 나가서 활동하고 싶어!,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+14773,5f3dc5af8a3c1005aa97cb80,코로나 때문에 재택근무를 하게 되면서 매일 집안에만 있으니까 너무나 우울해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+14774,5fb8ca24cb503578af9edcf7,아 짜증 나! 그 새끼는 할 일 없으면 집에나 갈 것이지. 나한테 난리야.,angry,angry,neutral,neutral,angry,angry,angry,3
+14775,5f831e5a9e04b149046cc6fd,냄새가 너무 고약해서 버리려고 묶어놨어.,disgust,neutral,disgust,disgust,disgust,disgust,disgust,4
+14776,5f853b919e04b149046cc952,아. 짜장면에서 벌레가 나왔다?,disgust,disgust,angry,disgust,disgust,surprise,disgust,4
+14777,5f825bfe9e04b149046cc5d3,모르겠어. 뭐가 썩고 있는 것 같애.,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+14778,5fbb711f576e9378b67acbe6,가득하길 바랄게.,neutral,neutral,neutral,neutral,neutral,neutral,neutral,0
+14779,5f68d5549e04b149046cb8db,그런 영상도 있어? 나 보고 싶다.,angry,surprise,happiness,sadness,neutral,happiness,happy,1
+14780,5f6365603bd6941613f6d708,지금 당장 구매해야지.,angry,neutral,happiness,sadness,neutral,angry,neutral,0
+14781,5f607b0a2e23c7161accd2da,코로나 때문에 재택근무를 시작하면서 매일매일 집 안에만 있으니까 지치고 우울해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+14782,5f90cbf2d338b948c4e6a720,기분도 좋은데 신나는 음악을 듣는 것도 좋지.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14783,5f663b61d338b948c4e6819e,딱 한명 뽑는 건데 내가 됐지 뭐야!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14784,5fb37d0b48cdda3a922e4f03,짜장면에서 벌레가 나왔다니까?,disgust,neutral,neutral,neutral,happiness,angry,neutral,0
+14785,5fbe084ccb503578af9eec22,주말마다 푹 쉬려고. 맛있는 것도 먹으러 갈 거야.,happiness,neutral,neutral,neutral,sadness,angry,neutral,0
+14786,5fbe11b6cb503578af9eec97,그러니까 씨발 나도 엄청 궁금해 죽겠어. 짭새들이 왜 있었을까?,neutral,angry,angry,sadness,angry,angry,angry,3
+14787,5f854626111dfd48d40fde72,나 짭새가 몰려있길래 궁금해서 구경 다녀왔어.,neutral,neutral,fear,surprise,neutral,neutral,neutral,0
+14788,5f5b5ac5b878131628349801,"응. 그거 좋은 생각이다. 근데, 그거 가지고 좀 나아질까?",sadness,fear,sadness,sadness,sadness,sadness,sad,2
+14789,5f605992b878131628349c11,쓰레기통에서 역겨운 냄새가 나고 있어!,disgust,surprise,disgust,disgust,disgust,disgust,disgust,4
+14790,5fb9fbb6576e9378b67ac6d9,맞아. 그동안에 노력했던 게 다 보상받는 기분이었다니까.,happiness,surprise,neutral,neutral,sadness,happiness,neutral,0
+14791,5f62b9292e23c7161accd4c7,마라톤 대회 이번에 출전했잖아. 내 기록이 엄청나게 향상된거야.,happiness,happiness,happiness,happiness,happiness,surprise,happy,1
+14792,5fb8e64e4c55eb78bd7cdefd,나 축하해줘. 기분 좋은 일이 있어.,happiness,happiness,happiness,neutral,happiness,neutral,happy,1
+14793,5f9a81a5d338b948c4e6b189,다른 직원들한테는 친절하면서 나한테 자꾸 짜증 내고 화 내니까 열 받아서 그래.,angry,angry,angry,angry,angry,angry,angry,3
+14794,5f71e1fc111dfd48d40fd4ae,처음 샀을 때보다 엄청 많이 빠졌어.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+14795,5f6e0489d338b948c4e688aa,갑자기 해피의 목줄이 끊어져서 해피가 막 달려 나갔어.,surprise,surprise,surprise,surprise,fear,sadness,surprise,6
+14796,5fb488d24c55eb78bd7cd8ef,나 너무 우울해.,sadness,neutral,neutral,neutral,sadness,sadness,neutral,0
+14797,5fb876594c55eb78bd7cdc32,친한 친구가 단체 카톡방에 초대해줘서 시작하게 됐어.,sadness,neutral,sadness,sadness,neutral,neutral,neutral,0
+14798,5fbdc184576e9378b67ad209,정말 기분 좋았어!,happiness,surprise,angry,neutral,happiness,angry,angry,3
+14799,5f630ff92e23c7161accd55a,나 오늘 짭새가 몰려 있길래 궁금해서 구경 다녀왔어. ,neutral,neutral,fear,sadness,neutral,neutral,neutral,0
+14800,5f6f5319111dfd48d40fd2df,애피타이저부터 푸짐하게 주는 집이 있어? 정말 좋을 것 같아.,neutral,surprise,happiness,happiness,happiness,surprise,happy,1
+14801,5f6609b5f8fac448cc0a591e,어차피 지금 팔지도 못해. 손해가 너무 많아서.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+14802,5fb876ba44697678c497ad56,나 지금 너무 답답하다니까 무슨 소리야.,sadness,surprise,neutral,neutral,angry,neutral,neutral,0
+14803,5f6980be111dfd48d40fcdf8,"있으려나? 휴가는 잘 모르겠고 주말에 다녀올 순 있을 거 같은데. 한 번 찾아봐야겠다, 그것도.",happiness,neutral,happiness,happiness,happiness,happiness,happy,1
+14804,5f5f63bbb878131628349b1a,내 휴가가 엉망이야.,angry,angry,angry,sadness,angry,angry,angry,3
+14805,5fbcd2794c55eb78bd7cea76,나 드디어 프로젝트 끝났어!,happiness,neutral,happiness,neutral,neutral,surprise,neutral,0
+14806,5f635b9654b2361621284d4e,내일 친구를 만나기로 했는데 뭘 먹어야 할지 모르겠어.,neutral,neutral,happiness,sadness,neutral,neutral,neutral,0
+14807,5f6ad383f8fac448cc0a5da8,네. 그래도 좀 심장이 아프네요.,surprise,sadness,surprise,sadness,sadness,neutral,sad,2
+14808,5f9a2c03d338b948c4e6b0a2,영화까지 찾아주면 정말 고맙지.,sadness,neutral,happiness,sadness,sadness,sadness,sad,2
+14809,5f6a1731f8fac448cc0a5cf8,함께 달리는 크루가 있어서 내가 지치고 힘들 때 큰 힘이 되어줘.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14810,5f5b59e33bd6941613f6d05f,응. 그거 너무 좋을 거 같은데? 한 번 해볼게.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14811,5fbb22b3cb503578af9ee2af,응. 맞아. 그런 경우도 있는 것 같아.,neutral,sadness,neutral,neutral,neutral,neutral,neutral,0
+14812,5f850be3f8fac448cc0a6c19,몰려 있어서 구경 다녀왔어.,neutral,neutral,neutral,sadness,neutral,sadness,neutral,0
+14813,5fbdbdae576e9378b67ad1ef,그래도 뭐 하루종일 걸리고 그럴 일은 아니니까.금방 끝날 거야.,disgust,sadness,neutral,neutral,neutral,neutral,neutral,0
+14814,5f8c481cd338b948c4e69fce,알았어. 나도 전화해서 적당한 보상도 좀 받고싶다.,disgust,disgust,angry,sadness,angry,angry,angry,3
+14815,5f6030653bd6941613f6d405,어. 크루가 있어.,happiness,neutral,happiness,happiness,happiness,neutral,happy,1
+14816,5f6acc6c9e04b149046cba96,달리는 동안에는 너무 지치고 힘들었는데 결승선을 통과하는 순간 기분이 엄청 좋았어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14817,5fb33fff0fb0f33aa31ca1b7,아 그 새끼는 집에나 가지. 왜 나한테 히스테리를 부리는 거야. 좀 결혼이나 할 것이지. 짜증나게 진짜.,angry,angry,disgust,angry,angry,angry,angry,3
+14818,5f894f87111dfd48d40fe56b,그래. 사진부터 찍어놔야겠다.,disgust,disgust,angry,sadness,angry,neutral,angry,3
+14819,5f66a160111dfd48d40fcb32,나 그거 진짜 좋아.,neutral,happiness,happiness,sadness,happiness,neutral,happy,1
+14820,5f5f0c272e23c7161accd1cf,그래. 알았어. 구경 제대로 못했어. 사람들도 많고 해서 그냥 왔어.,neutral,neutral,fear,sadness,sadness,angry,sad,2
+14821,5fbb4c064c55eb78bd7ce4b1,코로나때문에 너무 우울해.,sadness,sadness,neutral,sadness,neutral,sadness,sad,2
+14822,5f67f3c99e04b149046cb7bb,그거 너무 좋겠다.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14823,5f6014ea54b2361621284a7c,마라톤 대회 신청했었잖아. 그런데 그 대회에서 내 실력이 아주 좋더라고.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14824,5f6c24e1f8fac448cc0a5ecb,너는 안 당해봐서 몰라. 사람들한텐 안 그러는데 나한테만 짜증내고 뭐라고 하니까 화가 나.,angry,angry,angry,angry,angry,angry,angry,3
+14825,5f9800149e04b149046ce0a4,방향제로 냄새가 좀 잡혔으면 좋겠다.,disgust,neutral,angry,sadness,disgust,neutral,neutral,0
+14826,5f8aca9ff8fac448cc0a74d2,집 안에 나 혼자 갇히게 되니까 너무 무섭고 두려워.,fear,fear,sadness,fear,fear,fear,fear,5
+14827,5f992a55d338b948c4e6aeb5,이게 향수주는 거였거든? 이거 어떻게 됐지? 완전 조금 뽑는 거였는데.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14828,5fba3f6c4c55eb78bd7ce2e9,그냥 비대면 수업이라 학교 안 가서 좋아. 할만 해.,neutral,angry,fear,sadness,neutral,neutral,neutral,0
+14829,5f61e8142e23c7161accd3e4,그래. 그거라도 보고 기분을 진정시켜야겠어.,angry,neutral,angry,sadness,angry,angry,angry,3
+14830,5f5c1a3b2e23c7161acccfa2,억지로 하는 사과가 진정성이 있질 않아. 상처만 더 받았어.,angry,angry,angry,sadness,angry,angry,angry,3
+14831,5fb88b79cb503578af9edb7f,향수 매장에서 한 명만 당첨되는건데 그게 내가 됐어.,happiness,surprise,angry,neutral,neutral,happiness,neutral,0
+14832,5f70ab8ed338b948c4e68a79,냄새가 너무 심하게 나서 지금 밖에다 빼놨어.,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+14833,5f83b6e3f8fac448cc0a6a58,빨리 버리자.,disgust,disgust,disgust,sadness,disgust,angry,disgust,4
+14834,5f6c41af111dfd48d40fd0c2,오늘 짭새가 몰려있길래 궁금해서 구경 다녀왔어.,neutral,neutral,fear,sadness,neutral,neutral,neutral,0
+14835,5f78732f9e04b149046cc100,내가 들고 있는 건 바이오 주식이야. 주식 자체론 괜찮아.,sadness,neutral,neutral,sadness,sadness,sadness,sad,2
+14836,5fb37e640fb0f33aa31ca226,집 근처에 물이 잔뜩 차 있어.,fear,neutral,neutral,neutral,sadness,sadness,neutral,0
+14837,5f648b31111dfd48d40fc957,아무래도 그래야겠지?,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+14838,5f65e342d338b948c4e680df,아니. 아까 해피를 산책시키다가 깜짝 놀랐어.,surprise,surprise,surprise,surprise,fear,angry,surprise,6
+14839,5f640e2f24c86141a01b11b1,바이오 주식이야. 괜찮은 줄 알고 있었는데 그게 아닌가봐.,sadness,sadness,sadness,sadness,disgust,sadness,sad,2
+14840,5f60be742e23c7161accd313,나 요즘 주식 하는데 후회가 돼.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+14841,5f85090ff8fac448cc0a6c0e,여자친구랑 헤어졌어.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+14842,5f69b618111dfd48d40fce50,아 그런 것도 있구나 참고할게요.,happiness,neutral,happiness,happiness,happiness,happiness,happy,1
+14843,5f6f552e9e04b149046cbe08,내가 너무나 좋아하는 유튜버가 있는데 뒷광고가 있다고 사과하는 영상을 올렸어.,angry,disgust,angry,angry,angry,angry,angry,3
+14844,5fba22534c55eb78bd7ce21a,그러게 말이야. 모든 사건이 발생하게 되면 경찰관들이 출동을 하니까.,neutral,sadness,neutral,neutral,neutral,neutral,neutral,0
+14845,5fbd0b3fcb503578af9ee9f3,나 드디어 프로젝트 끝났어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14846,5f83f12bf8fac448cc0a6a9d,그래야할 것 같아. 곰팡이가 없어지지를 않아.,angry,sadness,angry,sadness,disgust,sadness,sad,2
+14847,5f64b6eef8fac448cc0a57bd,친구가 같이 하자고 연락이 왔었어.,sadness,neutral,happiness,sadness,sadness,sadness,sad,2
+14848,5f6fe47ad338b948c4e689e2,내가 마라톤 대회 출전했었잖아. 그런데 그곳에서 내 기록이 엄청 좋게 나왔어.,happiness,happiness,happiness,happiness,happiness,surprise,happy,1
+14849,5f5cc4f3b878131628349913,아직 안했어. 선물이 도착하면 같이 할라고.,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+14850,5f5ee25354b236162128499b,뭐가 어때서.,angry,disgust,angry,angry,disgust,angry,angry,3
+14851,5f9a3d359e04b149046ce4a6,아 짜증 나! 그 새끼는 할 일 없으면 집에나 갈 것이지. 결혼 늦게까지 못한 히스테리를 부리는 건가? 왜 나한테만 그럴까?,angry,angry,angry,angry,angry,angry,angry,3
+14852,5fb4d44b576e9378b67ac0dd,나 오늘 짭새가 몰려 있길래 궁금해서 구경 다녀 왔어.,neutral,fear,angry,neutral,neutral,disgust,neutral,0
+14853,5fb87d7144697678c497ad9b,나 오늘 짭새가 몰려있길래 궁금해서 구경다녀왔어.,neutral,sadness,neutral,neutral,neutral,surprise,neutral,0
+14854,5f6acd089e04b149046cba9b,냄새가 너무 심해서 지금 밖에다 내놨어.,disgust,disgust,disgust,disgust,disgust,sadness,disgust,4
+14855,5f900ef4d338b948c4e6a66b,그런 거 같지는 않던데. 막 싸우는 소리는 못 들었어.,neutral,neutral,fear,sadness,neutral,neutral,neutral,0
+14856,5fbb6d6944697678c497b76c,아니 아까 해피 산책시키다가 정말 놀랐어.,surprise,surprise,neutral,sadness,neutral,fear,neutral,0
+14857,5f41469c9dd513131eacee58,"곰팡이 제거제라는 것도 있었어? 아이, 그런 걸로 청소를 했어야 하는 건데.",angry,surprise,angry,sadness,disgust,surprise,surprise,6
+14858,5f600e452e23c7161accd26a,그래 에피타이저도 주면 정말 좋지.,neutral,happiness,happiness,happiness,happiness,happiness,happy,1
+14859,5fba1b83576e9378b67ac795,스트레스 해소나 하러 가야겠다.,angry,sadness,sadness,sadness,neutral,sadness,sad,2
+14860,5f6ac1dd111dfd48d40fcf52,당첨자는 한 명이었는데 내가 당첨된 거야.,happiness,neutral,happiness,happiness,happiness,happiness,happy,1
+14861,5f6a3a63111dfd48d40fcecb,잘 모르겠어. 자고 일어났더니 주변이 다 물바다인거야.,fear,sadness,fear,sadness,fear,fear,fear,5
+14862,5f68ccb9111dfd48d40fcd6f,짭새들이 왜 몰려 있는지 잘 모르겠어.,neutral,neutral,fear,sadness,disgust,sadness,sad,2
+14863,5f926081d338b948c4e6a8c8,그래. 할 수 없지. 그렇게 한 번 해볼게. 고마워.,angry,neutral,happiness,sadness,disgust,happiness,happy,1
+14864,5f68bfb09e04b149046cb8ab,주식 가격이 많이 떨어져서 손해를 봤어.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+14865,5fbb55d044697678c497b69c,그래. 나도 그렇게 생각했어.,sadness,happiness,neutral,neutral,happiness,neutral,neutral,0
+14866,5f886585d338b948c4e69ac8,나 이벤트에 당첨되었어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14867,5fba375ccb503578af9ee155,아니 이 놈의 화장실은 아무리 청소를 해도 곰팡이가 사라질 기미가 안 보여!,angry,angry,angry,angry,angry,disgust,angry,3
+14868,5fb3828e0fb0f33aa31ca26d,괜찮아. 괜찮아.,surprise,neutral,neutral,neutral,neutral,neutral,neutral,0
+14869,5f8eaaaf111dfd48d40fed34,안 나가면 되지. 집에서 있으면 돼. 건강도 좋아.,neutral,neutral,happiness,sadness,neutral,neutral,neutral,0
+14870,5fbc80844c55eb78bd7ce84f,사실 나 요새 주식을 좀 시작했는데.,sadness,sadness,sadness,sadness,neutral,sadness,sad,2
+14871,5f68bde6d338b948c4e683af,주변 사람들한테 이벤트에 당첨돼서 선물 받았다고 자랑했어.,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+14872,5f71e0079e04b149046cbfb7,회사가 바빠서 일 년 만에 받은 휴가였다고!,angry,disgust,angry,sadness,sadness,sadness,sad,2
+14873,5fb4e04a576e9378b67ac147,오늘 짭새들 모여있길래 구경하고 왔어.,neutral,neutral,angry,neutral,neutral,neutral,neutral,0
+14874,5fbca20e4c55eb78bd7ce94b,어. 너무 짜증나는 걸 어떡해.,angry,neutral,neutral,neutral,happiness,disgust,neutral,0
+14875,5f90d0bb9e04b149046cdb04,음악을 들으면 내 기분이 조금 나아질 수 있을까?,sadness,neutral,angry,sadness,sadness,sadness,sad,2
+14876,5f6229b53bd6941613f6d5e1,목줄을 끊었어.,surprise,neutral,surprise,surprise,fear,surprise,surprise,6
+14877,5f83b3c39e04b149046cc724,다행히 아무 일도 없었어.,surprise,neutral,surprise,sadness,neutral,neutral,neutral,0
+14878,5fbdb5fd44697678c497bd10,그래. 적당한 조치를 취해줬다니까?,disgust,happiness,angry,disgust,neutral,angry,angry,3
+14879,5f6e98ead338b948c4e688ea,헐! 나 이벤트에 당첨되었어!,happiness,surprise,happiness,happiness,happiness,happiness,happy,1
+14880,5f97f02af8fac448cc0a8372,나 혼자 집 안에 갇히게 되었어.,fear,neutral,fear,sadness,fear,fear,fear,5
+14881,5f80834f111dfd48d40fd88b,그렇지? 어떻게 동네에서 장사하면서 그렇게 하는지 모르겠어!,disgust,disgust,angry,angry,angry,angry,angry,3
+14882,5f649212d338b948c4e67faa,실제로 엄청 큰 천둥소리 때문에 깜짝 놀라서 깨서 잠도 못잤어.,surprise,fear,surprise,sadness,sadness,sadness,sad,2
+14883,5fbd0f94576e9378b67ad120,응! 해피도 찾았고. 괜찮아.,surprise,happiness,neutral,neutral,happiness,neutral,neutral,0
+14884,5fbb62f14c55eb78bd7ce58b,알겠어. 사진 찍어서 메세지로 항의할게.,disgust,neutral,neutral,neutral,happiness,neutral,neutral,0
+14885,5f6381842e23c7161accd5e7,지금은 괜찮긴 한데 아까 생각만하면 좀 아찔해 아직도.,surprise,neutral,surprise,sadness,fear,fear,fear,5
+14886,5f69900a9e04b149046cb979,일어나 보니 우리집 주위가 다 물바다가 되어있어.,fear,fear,fear,sadness,fear,sadness,fear,5
+14887,5f63693754b2361621284d75,시간날 때 노트북 매뉴얼보고 익혀봐야겠어.,happiness,neutral,happiness,happiness,happiness,neutral,happy,1
+14888,5fba359b576e9378b67ac824,헐! 나 향수 이벤트 1등 당첨 됐어. 대박!,happiness,surprise,sadness,neutral,surprise,surprise,surprise,6
+14889,5f6701a1111dfd48d40fcbc4,다행히 괜찮아. 그런데 조금 무서워 나갈 수가 없으니까.,fear,fear,fear,sadness,fear,fear,fear,5
+14890,5f6557c29e04b149046cb554,나 드디어 프로젝트가 끝났어!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14891,5f899b20111dfd48d40fe637,아우 상사 새끼는 짜증나게 내 옆에 붙어서 왜 지랄인지 모르겠어. 미친놈인가?,angry,angry,angry,angry,angry,angry,angry,3
+14892,5f846d91f8fac448cc0a6bc4,나 갇히게 된 것 같아.,fear,fear,fear,fear,fear,fear,fear,5
+14893,5f6a1d5af8fac448cc0a5d02,구경 온 사람들이 너무 많아서 앞에를 볼 수가 없어서 무슨 일인지 알 수가 없었어.,neutral,neutral,fear,sadness,neutral,neutral,neutral,0
+14894,5f6ad5f8d338b948c4e685ee,그것도 좋은데 밖에 나가고 싶어요.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14895,5f87c9b19e04b149046cce1f,쓰레기통에서 역겨운 냄새가 나고 있어! ,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+14896,5fbe13b244697678c497bf7c,첨에 엄청 놀랐는데. 지금도 약간 무섭긴 한데. 어떡하겠어. 기다려야지.,fear,disgust,neutral,neutral,surprise,sadness,neutral,0
+14897,5fb48df0cb503578af9ed825,에이. 짭새라고 할 수도 있지.,neutral,neutral,neutral,neutral,neutral,angry,neutral,0
+14898,5f62e3c13bd6941613f6d694,자고 일어났더니 밖에 홍수가 나서.,fear,fear,fear,sadness,fear,fear,fear,5
+14899,5fb3850748cdda3a922e4f7c,아니. 그냥 짜증나.,angry,neutral,neutral,neutral,neutral,neutral,neutral,0
+14900,5f6383f554b2361621284da8,어. 이제 완전히 끝났어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14901,5fb876884c55eb78bd7cdc35,떨어졌어. 손해 많이 봤어.,sadness,sadness,disgust,neutral,sadness,sadness,sad,2
+14902,5f8d05abd338b948c4e6a1f8,바리케이트를 쳐서 못 봤는데 그런 건 아닌 것 같앴어.,neutral,neutral,fear,sadness,neutral,angry,neutral,0
+14903,5fbb13f44c55eb78bd7ce369,무기력하지 않아. 그냥 조금 우울할 뿐이야.,sadness,sadness,neutral,sadness,neutral,sadness,sad,2
+14904,5f69a9129e04b149046cb991,나 오늘 짭새가 몰려 있길래 구경 다녀왔어.,neutral,neutral,fear,sadness,neutral,neutral,neutral,0
+14905,5f6f5dbb111dfd48d40fd306,나 오늘 짭새 새끼들이 몰려있길래 궁금해서 구경 다녀왔어.,neutral,neutral,fear,angry,neutral,neutral,neutral,0
+14906,5f5ccad03bd6941613f6d192,시간이 지나면 주식이 오를 수 있을까? 나는 계속 손해를 보니까 지금 팔려고 했는데 너의 말을 듣고 보니까 좀 기다려 봐야겠어.,sadness,disgust,sadness,sadness,sadness,sadness,sad,2
+14907,5f8e84b4111dfd48d40fecd1,그치. 먹다가 정말 토하는 줄 알았어.,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+14908,5f85d722111dfd48d40fdfe4,나는 잘 모르겠는데 누가 도둑질 했나봐.,neutral,neutral,fear,surprise,neutral,neutral,neutral,0
+14909,5fbb6f98cb503578af9ee4f3,너가 버려줄래?,disgust,surprise,neutral,surprise,neutral,neutral,neutral,0
+14910,5f6c1648111dfd48d40fd083,"오늘부터 일주일 동안 휴가 기간인데, 계속 비가 온대.",angry,sadness,angry,sadness,sadness,sadness,sad,2
+14911,5fbdd47444697678c497be2c,음악 저작권에 관련된 주식이었어.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+14912,5fbb31c1576e9378b67ac9c2,쓰레기통에서 이상한 냄새나.,disgust,neutral,sadness,neutral,neutral,neutral,neutral,0
+14913,5f9249799e04b149046cdc5b,해볼까 그럼? 그거 너무 좋은 생각인데?,disgust,neutral,angry,happiness,neutral,neutral,neutral,0
+14914,5f901adbd338b948c4e6a696,그러니까. 얼른 버려야지. 냄새가 너무 나.,disgust,disgust,disgust,sadness,disgust,disgust,disgust,4
+14915,5fb8e67a576e9378b67ac4bc,방향제가 없는데 어떡하지?,disgust,neutral,sadness,neutral,neutral,neutral,neutral,0
+14916,5f656ca6111dfd48d40fca4c,신나는 음악을 들으면서 그동안에 스트레스를 날려버려야겠어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14917,5fb4be29cb503578af9ed956,나름 할만한 거 같아.,neutral,neutral,neutral,neutral,neutral,neutral,neutral,0
+14918,5fbc64f8576e9378b67acd46,앞으로도 계속 이렇게 하면 다른 회사로 가야지 뭐.,angry,neutral,neutral,neutral,neutral,neutral,neutral,0
+14919,5fb8e9d84c55eb78bd7cdf18,좋지 않았어.,neutral,neutral,neutral,neutral,sadness,sadness,neutral,0
+14920,5fb3801ce3dcec421f835867,나 갇힌 것 같아!,fear,neutral,sadness,neutral,neutral,neutral,neutral,0
+14921,5fba34f3576e9378b67ac81a,코로나가 언제쯤 끝날까?,sadness,neutral,neutral,neutral,happiness,neutral,neutral,0
+14922,5f698642d338b948c4e6846b,나 축하해줘. 기쁜 일 있어!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14923,5f637a35b878131628349eec,그럴려고. 지금 당장 버려야겠다.,disgust,disgust,disgust,sadness,disgust,angry,disgust,4
+14924,5fba06884c55eb78bd7ce167,그거 정말 좋을 것 같아.,sadness,happiness,neutral,neutral,happiness,neutral,neutral,0
+14925,5f85bd71f8fac448cc0a6d9c,몸은 괜찮아. 하지만 여기서 나가지 못할까 봐 두려워.,fear,fear,fear,sadness,fear,fear,fear,5
+14926,5fbb535a576e9378b67acab8,응. 그 성취감에 하는 것 같아.,happiness,happiness,angry,neutral,neutral,neutral,neutral,0
+14927,5fb4d46a576e9378b67ac0df,아니 막 구급차도 있고 경찰차도 있고 그런 거야.,neutral,fear,disgust,sadness,sadness,surprise,sad,2
+14928,5fb893fe44697678c497ae3c,나중에 쓰고 청소부터 하면은 냄새 없어질 것 같기도 해.,disgust,neutral,neutral,neutral,neutral,neutral,neutral,0
+14929,5f81217e9e04b149046cc418,곰팡이 제거제가 곰팡이를 없앨 수 있어?,angry,surprise,angry,sadness,disgust,sadness,sad,2
+14930,5f6eb3add338b948c4e68929,어제 저녁에는 너무 놀랐는데 지금은 마음이 진정이 되었어.,surprise,neutral,fear,sadness,neutral,neutral,neutral,0
+14931,5fbcc4c7cb503578af9ee931,저번주에 먹었던 음식물 쓰레기가 아직도 쓰레기통에 남아있더라고.,disgust,sadness,sadness,sadness,neutral,sadness,sad,2
+14932,5f67e60ad338b948c4e682ca,짭새가 몰려와서 구경갔다가 우산도 잃어버리고 왔어.,neutral,disgust,angry,angry,disgust,angry,angry,3
+14933,5f922a679e04b149046cdc17,나 아무래도 갇힌 것 같아.,fear,fear,fear,fear,fear,fear,fear,5
+14934,5f993116111dfd48d40ff804,그런 건 아니고 혼자서 열심히 노력하고 있어.,happiness,happiness,happiness,sadness,happiness,neutral,happy,1
+14935,5fbe2ea6576e9378b67ad490,담엔 꼭 그렇게 할게.,disgust,neutral,sadness,sadness,neutral,neutral,neutral,0
+14936,5f8af273111dfd48d40fe783,선물은 당연히 맘에 들지. 아주 비싼 향수거든.,happiness,happiness,happiness,happiness,happiness,sadness,happy,1
+14937,5f71349e9e04b149046cbf4f,헐! 나 이벤트에 당첨되었대!,happiness,surprise,happiness,happiness,surprise,surprise,surprise,6
+14938,5f70904af8fac448cc0a61f1,요즘 환절기라서 비염이 아주 심해졌어.,neutral,sadness,angry,sadness,sadness,sadness,sad,2
+14939,5f708f39d338b948c4e68a5d,조금만 더 지켜보다가 정 안되면 팔아야지.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+14940,5fbb1bb4cb503578af9ee286,나 오늘 짭새가 몰려있길래 구경다녀왔어.,neutral,angry,angry,sadness,neutral,surprise,angry,3
+14941,5fb48ada44697678c497aa52,나 요즘 주식 시작했는데.,sadness,neutral,neutral,neutral,sadness,sadness,neutral,0
+14942,5f6a393bd338b948c4e6853c,나 음악 좋아해. 기분 좋은 음악 좀 틀어줘.,sadness,sadness,happiness,sadness,sadness,happiness,sad,2
+14943,5fbc847c576e9378b67ace37,방향제는 괜찮을 것 같아.,disgust,neutral,angry,neutral,neutral,neutral,neutral,0
+14944,5fb4b793576e9378b67ac012,좋은 생각이야. 지금 바로 버리고 방향제도 사와야겠어.,disgust,happiness,neutral,neutral,neutral,neutral,neutral,0
+14945,5f8f6b89d338b948c4e6a52c,선물은 당연히 마음에 들지. 아주 비싼 향수야!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14946,5f6615d59e04b149046cb634,이번에는 친구들을 만나고 다음에 여행을 생각해볼게.,happiness,neutral,happiness,happiness,happiness,neutral,happy,1
+14947,5f6f60209e04b149046cbe2e,조금만 기다려 보다가 결국엔 팔아야지.,sadness,neutral,sadness,sadness,sadness,sadness,sad,2
+14948,5fba2756576e9378b67ac7df,응. 지금 바로 해볼라고.,disgust,neutral,neutral,neutral,neutral,neutral,neutral,0
+14949,5f5ebfaa2e23c7161accd177,헐! 나 이벤트에 당첨되었어!,happiness,surprise,happiness,happiness,surprise,surprise,surprise,6
+14950,5f846d369e04b149046cc895,프로젝트를 진행하느라고 그동안 여행을 못 다녔는데 이번 기회에 다녀와야겠어!,happiness,neutral,happiness,happiness,happiness,happiness,happy,1
+14951,5f42840f9dd513131eacf1fa,"아직까지는 물이 집 안으로 들어오지 않았는데, 물이 조만간 들어올까봐 너무 걱정 돼.",fear,fear,fear,fear,fear,fear,fear,5
+14952,5f5f815f3bd6941613f6d391,어 정말 실망스러워.,angry,angry,angry,sadness,angry,sadness,angry,3
+14953,5f66cdbbd338b948c4e681ef,알았어. 잘 먹고 올게.,neutral,neutral,happiness,happiness,happiness,happiness,happy,1
+14954,5f71d4179e04b149046cbf9b,"알겠어. 그렇게 할게, 고마워.",angry,happiness,happiness,happiness,neutral,neutral,happy,1
+14955,5f6f58eb111dfd48d40fd2f3,주식을 추천해 준 지인이 전자 쪽이 괜찮다고 해서 전자 종목을 샀어.,sadness,neutral,sadness,sadness,sadness,sadness,sad,2
+14956,5fbdba51cb503578af9eea95,그치. 니가 책임질 건 없지.,sadness,sadness,angry,sadness,sadness,sadness,sad,2
+14957,5fb339af0fb0f33aa31ca176,네 좋아요. 추천해주세요.,happiness,neutral,neutral,neutral,neutral,happiness,neutral,0
+14958,5f5cb68354b23616212847f2,"습기가 많고 환기가 잘 되지 않아서 곰팡이가 생기는 것 같아서 신경쓰고 청소를 하고 있는데, 곰팡이가 안 없어져.",angry,angry,angry,sadness,disgust,angry,angry,3
+14959,5fb37e220fb0f33aa31ca221,프로젝트 아직 안 끝났다고.,happiness,neutral,sadness,neutral,happiness,neutral,neutral,0
+14960,5f6e8e7d111dfd48d40fd24e,당연하지. 얼마나 비싼 향순데.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14961,5fbb54ac4c55eb78bd7ce529,해보긴 했는데 그래도 계속 있어.,angry,sadness,neutral,neutral,neutral,neutral,neutral,0
+14962,5f4282499dd513131eacf1ec,"아니, 요즘 다 왜 이러는 거야? 정말 이해가 안돼.",angry,disgust,neutral,angry,angry,angry,angry,3
+14963,5f6df075d338b948c4e68876,그거 좋은 생각이다. 한 번 써보자.,angry,neutral,happiness,sadness,neutral,neutral,neutral,0
+14964,5f924d76111dfd48d40ff183,너무 많이 오는데 나는 나갈 수가 없어.,fear,fear,fear,sadness,fear,sadness,fear,5
+14965,5fbb836544697678c497b7f8,코로나 때문에 밖에 잘 못나가서요.,sadness,neutral,neutral,sadness,sadness,sadness,sad,2
+14966,5f607fe954b2361621284ac4,나 갇히게 된 거 같아서 너무 두려워!,fear,fear,fear,fear,fear,fear,fear,5
+14967,5fb88e80576e9378b67ac2c0,나 요즘 주식 시작했어.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+14968,5f87b1ad9e04b149046ccdbb,것 같아. 어떡하면 좋지?,fear,fear,fear,fear,fear,sadness,fear,5
+14969,5f693e14f8fac448cc0a5bcb,어차피 팔지도 못해. 가격이 너무 많이 떨어져서.,sadness,sadness,sadness,sadness,sadness,angry,sad,2
+14970,5f9a28adf8fac448cc0a877d,그래 고마워. 나중에 한번 들어볼게.,sadness,neutral,sadness,sadness,sadness,sadness,sad,2
+14971,5fbc6927576e9378b67acd76,알았어. 널 믿고 조금만 더 지켜볼게.,sadness,happiness,neutral,neutral,neutral,neutral,neutral,0
+14972,5f64b3d3d338b948c4e67fd0,당연히 맘에 들지. 아주 비싼 향수거든.,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+14973,5f6f1319111dfd48d40fd2a9,나 한번 사보고 싶어. 종류 별로 좀 알아봐줄래?,angry,neutral,angry,sadness,neutral,neutral,neutral,0
+14974,5f980d81111dfd48d40ff655,오늘은 날씨가 좋아서 나갔다왔지. 내일은 내일 걱정해. ,neutral,neutral,happiness,sadness,neutral,neutral,neutral,0
+14975,5f886b09f8fac448cc0a7206,고약한 냄새 때문에 벌레가 꼬일까봐 걱정스러워. 얼른 치워야겠어.,disgust,disgust,disgust,disgust,disgust,sadness,disgust,4
+14976,5f992950111dfd48d40ff7db,나 갇히게 된 것 같아! ,fear,fear,fear,fear,fear,fear,fear,5
+14977,5f6a13fa9e04b149046cb9f1,곰팡이 제거제가 효과가 있다고 하니까 나 구매해서 사용해 볼래.,angry,neutral,happiness,happiness,disgust,happiness,happy,1
+14978,5f6337bab878131628349eb2,나 요즘 주식을 시작했는데.,sadness,sadness,neutral,sadness,sadness,sadness,sad,2
+14979,5f7893def8fac448cc0a6427,갑자기 해피의 목줄이 끊어지면서 해피가 막 달려나갔어.,surprise,surprise,surprise,sadness,sadness,surprise,surprise,6
+14980,5f8e4708111dfd48d40fec61,이야기할게. 정말 고맙다.,angry,neutral,angry,happiness,disgust,happiness,happy,1
+14981,5f8dae8ed338b948c4e6a307,쓰레기통에서 역겨운 냄새가 나기 시작했어.,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+14982,5f5c21f13bd6941613f6d123,쓰레기통에서 정말 역겨운 냄새가 나.,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+14983,5f5c1fc62e23c7161acccfbc,10km 마라톤 대회에 출전했는데 거기서 예전 내 기록을 갱신했어! 너무 기분이 좋아.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14984,5fb38e29e3dcec421f83590a,편의점에서 취객이 난동을 부렸더라고.,neutral,surprise,neutral,neutral,angry,happiness,neutral,0
+14985,5fbb6b7a44697678c497b750,지인이 소개해줬는데 오르진 않아.,sadness,neutral,neutral,neutral,neutral,sadness,neutral,0
+14986,5f7914fb111dfd48d40fd646,친구들이랑 만나서 여행 계획도 세워봐야되겠어.,happiness,neutral,happiness,happiness,happiness,happiness,happy,1
+14987,5f620f20b878131628349d5f,지금은 괜찮아졌어. 하지만 또 그럴까봐 겁나.,surprise,fear,surprise,sadness,fear,angry,fear,5
+14988,5fb4bbb4576e9378b67ac03f,다시는 그 표현 안 쓰겠다고 약속할게.,neutral,neutral,neutral,neutral,happiness,disgust,neutral,0
+14989,5f66cf7d9e04b149046cb6b7,너가 안 당해봐서 몰라! 얼마나 짜증나게 하는지 욕이 절로 나와!,angry,disgust,angry,angry,angry,angry,angry,3
+14990,5fb9c93a576e9378b67ac5a8,뭔 개소리야!,happiness,happiness,angry,angry,neutral,angry,angry,3
+14991,5f883dc9f8fac448cc0a7157,쓰레기를 제때 버리지 않아서 그래.,disgust,disgust,disgust,sadness,disgust,angry,disgust,4
+14992,5f893da0d338b948c4e69bdb,당첨 선물이 내가 갖고 싶었던 향수라서 너무 마음에 들어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+14993,5f9a500ad338b948c4e6b15c,맞아. 자꾸 집에만 있으니까 더 그런 것 같아. 햇빛이라도 봐야 할까?,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+14994,5f6afe9bd338b948c4e6862e,그래야겠어. 냄새가 너무 지독해. 벌레도 있어.,disgust,fear,disgust,disgust,disgust,disgust,disgust,4
+14995,5f688ef39e04b149046cb856,선수처럼 잘 뛰진 않고 그냥 내 기록만 단축됐다는 거야.,happiness,neutral,happiness,happiness,happiness,neutral,happy,1
+14996,5f6a837ad338b948c4e68546,나 오늘 짭새가 몰려 있길래 궁금해서 구경 다녀왔어.,neutral,neutral,fear,sadness,neutral,neutral,neutral,0
+14997,5f63099e54b2361621284d0f,잠이 안 와서 뒤척이다가 잠들었는데 천둥 번개 소리가 너무 요란스러워서 깼어.,surprise,surprise,surprise,fear,disgust,sadness,surprise,6
+14998,5f902871d338b948c4e6a6ce,몸은 괜찮지만 집 안으로 물이 들어올까 봐 너무나 겁이 나.,fear,fear,fear,sadness,fear,fear,fear,5
+14999,5fba34ca576e9378b67ac814,지금 나한테 지적하는 거야?,neutral,surprise,sadness,neutral,surprise,surprise,surprise,6
+15000,5f8cfe0e111dfd48d40feaf0,힘들었지만 너무너무 행복했어.,happiness,happiness,happiness,happiness,happiness,sadness,happy,1
+15001,5fb33df848cdda3a922e4e95,나 요즘 주식을 시작했는데.,sadness,sadness,neutral,neutral,sadness,sadness,sad,2
+15002,5fbddbff4c55eb78bd7cec8c,"아, 짜증나. 할 일 없으면 그 새끼는 집에나 갈 것이지 나한테 왜 그럴까?",angry,angry,angry,neutral,angry,neutral,angry,3
+15003,5f8669c99e04b149046ccb7a,나의 몸은 괜찮지만 집 안으로 물이 들어올까봐 너무 겁이 나!,fear,fear,fear,sadness,fear,sadness,fear,5
+15004,5fbcd3d74c55eb78bd7cea85,나 엘레베이터에 갇혔어.,fear,fear,angry,fear,neutral,disgust,fear,5
+15005,5f6c7f21111dfd48d40fd0d7,사람들은 유튜버 말만 믿고 그 제품들을 다 샀잖아. 그 실망감을 어떡할 것이야.,angry,disgust,angry,angry,angry,angry,angry,3
+15006,5fbcc15f4c55eb78bd7cea08,곧 터질 거 같애.,angry,neutral,neutral,neutral,neutral,disgust,neutral,0
+15007,5fbc6c8e44697678c497b94a,맞아. 청소하기 너무 힘들다.,angry,neutral,neutral,neutral,neutral,neutral,neutral,0
+15008,5fbc9a6b44697678c497ba68,이 답답함을 어떻게 하면 풀 수 있을까?,sadness,neutral,neutral,surprise,neutral,happiness,neutral,0
+15009,5fb9c638576e9378b67ac583,나 요즘 주식 시작했어.,sadness,sadness,angry,neutral,neutral,neutral,neutral,0
+15010,5fbc874e576e9378b67ace58,그래. 이제와서 뭐 어떻게 할 수도 없고. 좀 더 기다려봐야지.,sadness,neutral,angry,sadness,happiness,sadness,sad,2
+15011,5f8ed340f8fac448cc0a7b20,나 요즘 주식을 시작했어.,sadness,neutral,neutral,sadness,sadness,sadness,sad,2
+15012,5fbe0a34576e9378b67ad349,지금 몸보다는 마음이 너무 무서워.,fear,neutral,fear,fear,fear,fear,fear,5
+15013,5fbb34134c55eb78bd7ce438,내가 바로 붙잡아가지고 다치진 않았는데 진짜 엄청 깜짝 놀랐어.,surprise,sadness,neutral,neutral,neutral,disgust,neutral,0
+15014,5f637dc43bd6941613f6d742,코로나 관련 주식이야.,sadness,neutral,neutral,sadness,neutral,neutral,neutral,0
+15015,5fb9ce3544697678c497b14e,연구실 가려고 엘레베이터 탔는데 갑자기 덜컹 하면서 멈췄어.,fear,sadness,sadness,sadness,sadness,fear,sad,2
+15016,5fbc636d4c55eb78bd7ce764,아저씨들이 술 먹고 싸움을 한 것 같아.,neutral,neutral,neutral,neutral,neutral,neutral,neutral,0
+15017,5f6f5975d338b948c4e6897e,쓰레기통에서 역겨운 냄새가 나고 있어.,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+15018,5fb33dd475b0a9389bf3968f,나 요즘 주식을 시작했는데.,sadness,neutral,neutral,neutral,neutral,sadness,neutral,0
+15019,5f8ba2d5f8fac448cc0a7591,아까 해피랑 산책하다 정말 깜짝 놀랐어.,surprise,surprise,surprise,surprise,disgust,sadness,surprise,6
+15020,5f5c1933b87813162834989b,맞아. 밖에 나가서 활동도 해야되는데 집에만 있으니 몸이 힘들어지는 것 같아.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15021,5fbe32c0cb503578af9eed99,엘리베이터 문이 안열려서 너무 무서워!,fear,fear,disgust,fear,fear,angry,fear,5
+15022,5f9a2e20f8fac448cc0a8790,딱 다섯 명 주는 거였거든. 대박 아니야?,happiness,surprise,happiness,happiness,happiness,surprise,happy,1
+15023,5f61ef4854b2361621284bc7,그래야겠어. 추천 좀 해줘 봐. 그래야 없어질 것 같아.,angry,neutral,angry,sadness,disgust,sadness,sad,2
+15024,5f846ce39e04b149046cc894,오늘 최종 발표를 마쳤으니까 이제 완전히 끝난거야.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15025,5f67ee2c9e04b149046cb7a4,나 어제 자다가 깜짝 놀랐어.,surprise,surprise,surprise,surprise,neutral,surprise,surprise,6
+15026,5f66cb83111dfd48d40fcb77,기분이 우울할 때는 음악을 듣는게 최고인 것 같아!,sadness,neutral,happiness,sadness,sadness,sadness,sad,2
+15027,5fbb6e8acb503578af9ee4ec,너무 작아서 환기가 잘 안 돼.,angry,disgust,neutral,neutral,neutral,sadness,neutral,0
+15028,5f886c00f8fac448cc0a7207,주식 가격이 계속 떨어지고 있어서 손해를 보고 있어. 속상해!,sadness,fear,sadness,sadness,sadness,sadness,sad,2
+15029,5f8990bc111dfd48d40fe5e2,좋은 생각이야. 내가 사진 여러장 찍어놓을게.,disgust,disgust,angry,sadness,angry,angry,angry,3
+15030,5fbb573f44697678c497b6b2,오늘 가서 빨리 버리고 와야지.,disgust,neutral,angry,neutral,happiness,neutral,neutral,0
+15031,5f637ac1b878131628349eef,1년만에 휴가였어.,angry,sadness,happiness,sadness,sadness,sadness,sad,2
+15032,5f6d87d8111dfd48d40fd1c2,전화가 여러 통 와 있었어. 그런데도 피곤해서 잠이 깊게 들었나봐.,fear,fear,fear,sadness,fear,sadness,fear,5
+15033,5fbe24ae576e9378b67ad3e1,레인지 추천해줘.,happiness,neutral,sadness,neutral,neutral,neutral,neutral,0
+15034,5fb4d96fcb503578af9eda0d,짭새가 몰려 있길래 구경하다 왔어.,neutral,happiness,neutral,neutral,neutral,neutral,neutral,0
+15035,5fbc8ded44697678c497ba20,길 가는 사람들끼리 시비가 붙었었나봐.,neutral,neutral,fear,neutral,neutral,neutral,neutral,0
+15036,5fbb549bcb503578af9ee402,곰팡이가 없어지지 않아.,angry,sadness,sadness,neutral,happiness,sadness,sad,2
+15037,5f81d7e3111dfd48d40fdab0,코로나 때문에 회사가 재택근무 한대.,sadness,sadness,sadness,sadness,sadness,angry,sad,2
+15038,5f851ab5d338b948c4e694a4,쓰레기통에서 역겨운 냄새가 나고 있어.,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+15039,5f5cb78d3bd6941613f6d177,지금 뜯어보고 노트북을 확인해봤는데 작동이 너무 잘 되고 이상한 곳이 아무데도 없어. 정말 좋아!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15040,5f8af00c9e04b149046cd284,당연히 끝났지. 한 달 간 얼마나 고생했는데.,happiness,happiness,happiness,sadness,happiness,neutral,happy,1
+15041,5fbc7ecfcb503578af9ee702,알겠어. 오늘은 스트레칭을 해볼게.,sadness,neutral,neutral,neutral,neutral,neutral,neutral,0
+15042,5f80863ef8fac448cc0a6674,갑자기 해피 목줄이 끊어지잖아!,surprise,surprise,surprise,surprise,fear,sadness,surprise,6
+15043,5f850cda111dfd48d40fddf4,"아니, 아까 해피 산책시키다가 완전 놀랬어.",surprise,surprise,surprise,surprise,fear,surprise,surprise,6
+15044,5f8ba3e3f8fac448cc0a7596,그럼. 다들 크루랑 운동하고 크루랑 대회에 출전해.,happiness,neutral,happiness,happiness,happiness,neutral,happy,1
+15045,5fbcd5d8cb503578af9ee98d,딱 한 명!,happiness,neutral,sadness,neutral,neutral,happiness,neutral,0
+15046,5fb8afb844697678c497aed3,그냥 경찰들 많이 모여있길래 무슨 일 있나 싶어 가지고.	,neutral,neutral,sadness,neutral,sadness,sadness,sad,2
+15047,5fbc9b15cb503578af9ee7d1,그냥 집에만 있으니까 무기력하고 기분이 별로야.,sadness,sadness,sadness,sadness,happiness,sadness,sad,2
+15048,5fb38c450fb0f33aa31ca2d4,그 상사는 욕 먹어도 싸.,angry,angry,angry,angry,angry,angry,angry,3
+15049,5fba1e55576e9378b67ac7b1,야. 쟤는 욕 먹어도 싸.,angry,angry,angry,surprise,neutral,disgust,angry,3
+15050,5fb8a7bd44697678c497ae93,아 무서워. 빨리 어떻게든 됐으면 좋겠어.,fear,sadness,angry,neutral,fear,angry,angry,3
+15051,5fbe291d576e9378b67ad444,헐! 나 이벤트 당첨됐어!,happiness,neutral,sadness,neutral,happiness,surprise,neutral,0
+15052,5fbc81f344697678c497b9db,방송차량은 없었던 걸 보면은 뉴스엔 나오지 않을 것 같아.,neutral,neutral,neutral,neutral,neutral,neutral,neutral,0
+15053,5fbcd4a8576e9378b67ad0a3,나 드디어 영상처리 프로젝트 끝났어!,happiness,happiness,sadness,neutral,happiness,happiness,happy,1
+15054,5fbb53474c55eb78bd7ce511,하나 사고싶어. 어디서 사는게 제일 싸고 좋을까?,angry,angry,neutral,neutral,neutral,neutral,neutral,0
+15055,5f60344cb878131628349be7,그래야겠다.,disgust,neutral,happiness,sadness,neutral,neutral,neutral,0
+15056,5f6381b4b878131628349f09,나 오늘 짭새들 몰려있길래 궁금해서 구경 갔다 왔다?,neutral,neutral,fear,sadness,neutral,neutral,neutral,0
+15057,5f3cc82d8a3c1005aa97c716,최종 발표를 마쳤으니까 프로젝트가 완전히 끝난거야. 너무 신나!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15058,5f4144ad9dd513131eacee45,대단히 많은 크룬 아니고.,happiness,neutral,happiness,happiness,happiness,happiness,happy,1
+15059,5f5f05192e23c7161accd1c8,나 축하해줘. 기분 좋은 일이 있어.,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+15060,5fbbc6f4576e9378b67acce8,나도 잘 모르겠어.,disgust,angry,neutral,neutral,neutral,neutral,neutral,0
+15061,5f677b609e04b149046cb778,맞아. 사람은 밖에 나가서 활동해야 된다고. 요즘 입맛도 없어.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15062,5f87c70af8fac448cc0a70a2,갑자기 해피의 목줄이 끊어지면서 해피가 막 도망갔어.,surprise,surprise,surprise,surprise,neutral,sadness,surprise,6
+15063,5fb8e6ce576e9378b67ac4c5,응. 당장 버려야겠어.,disgust,sadness,neutral,neutral,neutral,neutral,neutral,0
+15064,5fbb65e74c55eb78bd7ce5ad,무서워. 아무도 대답이 없어.,fear,fear,fear,fear,neutral,fear,fear,5
+15065,5f61d205b878131628349d05,나 요즘 주식을 시작했는데.,sadness,neutral,sadness,sadness,sadness,sadness,sad,2
+15066,5f8d9efe111dfd48d40febe6,나 드디어 프로젝트 끝났어.,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+15067,5fb9c5e34c55eb78bd7cdfb1,나 요새 주식 시작했어.,sadness,sadness,angry,neutral,neutral,neutral,neutral,0
+15068,5f78998fd338b948c4e68cd0,방향제로 처리하는게 가장 좋은 방법 같아.,disgust,neutral,disgust,disgust,disgust,neutral,disgust,4
+15069,5fb9e92344697678c497b1fa,헐 나 이벤트 당첨됐대.,happiness,happiness,angry,neutral,happiness,happiness,happy,1
+15070,5f673ad1d338b948c4e68263,나는 양식이 더 좋아.,neutral,neutral,happiness,happiness,happiness,neutral,happy,1
+15071,5f850c099e04b149046cc8e2,매일 괜찮은 편이야.,neutral,neutral,happiness,sadness,happiness,happiness,happy,1
+15072,5f6e8a9af8fac448cc0a6082,신나는 음악 들으면서 스트레스를 날려버릴거야.,happiness,neutral,happiness,happiness,happiness,neutral,happy,1
+15073,5f60bf503bd6941613f6d495,잠결에 들어서 그런가 폭탄 터지는 소리가 나더라고.,surprise,surprise,surprise,surprise,neutral,angry,surprise,6
+15074,5f92d5f2111dfd48d40ff2a8,아니 아까 해피를 산책시키다가 깜짝 놀랐어!  ,surprise,surprise,surprise,surprise,disgust,surprise,surprise,6
+15075,5f8da10bf8fac448cc0a7989,자고 일어났더니 전화가 여러통 와있었더라고. 그런데 밖에 물이 잔뜩 고여있어.,fear,neutral,fear,sadness,fear,fear,fear,5
+15076,5f5fd8a654b2361621284a4e,아 짜증나. 그새끼 일이 끝났으면 빨리 집에나 가지. 남아가지고  나한테 뭐라고 해.,angry,disgust,angry,angry,angry,angry,angry,3
+15077,5f922cdd111dfd48d40ff13d,완전히 끝났어. 한달동안 얼마나 열심히를 했게.,happiness,neutral,happiness,happiness,happiness,neutral,happy,1
+15078,5f5f57e4b878131628349b07,나 너무 우울해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15079,5f41d73e9dd513131eaceef3,간신히 잠이 들어서 자고 있는데 엄청 큰 천둥 번개 소리 때문에 깜짝 놀라서 깼어.,surprise,surprise,surprise,fear,disgust,surprise,surprise,6
+15080,5f8a4d58d338b948c4e69d6c,아무리 자도 피곤도 안 풀려.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15081,5f85c1cd111dfd48d40fdfb4,난 선수가 아니라 일반인에서 좋은 기록을 세웠다고.,happiness,neutral,happiness,happiness,happiness,angry,happy,1
+15082,5f89b30d9e04b149046cd15e,완전 폭락해버렸어!,sadness,fear,sadness,sadness,sadness,sadness,sad,2
+15083,5f937d11f8fac448cc0a80f8,당첨자는 한명 뽑는 거였는데 내가 당첨됐어!,happiness,neutral,happiness,happiness,happiness,happiness,happy,1
+15084,5f655e51d338b948c4e68080,해피 목줄이 갑자기 끊어져버린거야.,surprise,surprise,surprise,surprise,fear,fear,surprise,6
+15085,5f5f727b3bd6941613f6d38a,나 오늘 짭새가 몰려있길래 구경 갔다왔어.,neutral,neutral,fear,angry,disgust,neutral,neutral,0
+15086,5f8acfc1111dfd48d40fe748,아니 아까 해피를 산책시키다가 깜짝 놀랐어.,surprise,surprise,surprise,surprise,neutral,surprise,surprise,6
+15087,5fbb3522576e9378b67ac9e5,나 요새 주식 시작했어.,sadness,neutral,angry,neutral,neutral,happiness,neutral,0
+15088,5f5cb5a054b23616212847f1,오랜만에 친구들이랑 동해 바다 가서 놀고 오기로 했는데 비 때문에 갈 수가 없어.,angry,angry,angry,sadness,sadness,sadness,sad,2
+15089,5fbcb5ff4c55eb78bd7ce99b,응 완전히 끝났어.,happiness,neutral,neutral,neutral,happiness,happiness,neutral,0
+15090,5fbca2ca4c55eb78bd7ce953,맞아. 근데 이번에 신기록 달성했어.,happiness,happiness,happiness,neutral,happiness,happiness,happy,1
+15091,5fba1881cb503578af9ee061,응. 평소에 갖고 싶었던 거라 정말 마음에 드네.,happiness,sadness,neutral,neutral,neutral,neutral,neutral,0
+15092,5f97ec9b111dfd48d40ff585,나 축하해줘. 기분 좋은 일이 생겼어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15093,5fba1572576e9378b67ac748,나 너무 우울해.,sadness,sadness,disgust,sadness,neutral,sadness,sad,2
+15094,5fbb2c51cb503578af9ee2d3,코로나 때문인 것 같아.,sadness,sadness,neutral,neutral,neutral,neutral,neutral,0
+15095,5fb87beecb503578af9edb07,싫어서 그렇게 말한 거 아닌데?,neutral,neutral,neutral,sadness,angry,neutral,neutral,0
+15096,5fbb4cec576e9378b67aca5b,그래. 다음에는 너도 같이 하자.,happiness,neutral,neutral,neutral,neutral,happiness,neutral,0
+15097,5fb9fbe2576e9378b67ac6de,선수는 아니고 일반인 마라톤 대회였어.,happiness,fear,neutral,neutral,happiness,neutral,neutral,0
+15098,5f89ab09d338b948c4e69cc6,날씨는 원래 변덕스러워. 뭘 걱정해.,neutral,fear,angry,sadness,neutral,angry,angry,3
+15099,5f7890b19e04b149046cc11c,헐! 나 이벤트에 당첨되었어! ,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15100,5f985216d338b948c4e6ad5b,이번 마라톤 대회에서 내가 우수한 성적을 거뒀어.,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+15101,5f793ab9111dfd48d40fd693,안에만 있어서 그런지 몸이 계속 쳐지고 힘들어.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15102,5fba3658576e9378b67ac832,와. 나 드디어 프로젝트 끝났어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15103,5fb87b0f44697678c497ad85,맞아. 능력도 없는데 나대기만 엄청 나대.,angry,neutral,neutral,neutral,angry,neutral,neutral,0
+15104,5fb9c56e44697678c497b0f4,나 축하해줘. 기분 좋은 일 있었어.,happiness,happiness,angry,sadness,neutral,happiness,happy,1
+15105,5f70029fd338b948c4e68a09,음식물 쓰레기가 상해서 쓰레기통에서 냄새가 나고 있었어.,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+15106,5fbb35344c55eb78bd7ce443,친구가 돈 좀 벌 수 있다고 하길래 그냥 한번 해봤어.,sadness,sadness,neutral,neutral,neutral,neutral,neutral,0
+15107,5f69e8c19e04b149046cb9af,생명과학 분야야 코로나 때문에 요즘 핫 하잖아.,sadness,neutral,sadness,sadness,sadness,sadness,sad,2
+15108,5f87c45ef8fac448cc0a709c,외출할 일이 적어지다 보니까 너무 가슴이 답답하고 몸도 쳐지는 것 같아.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15109,5fb8e7f4cb503578af9eddce,나랑 상관 없는 일이잖아.,neutral,neutral,neutral,angry,neutral,angry,neutral,0
+15110,5fbc88c64c55eb78bd7ce891,며칠 전에 버렸던 음식물 쓰레기가 썩었지 뭐야.,disgust,neutral,neutral,sadness,neutral,sadness,neutral,0
+15111,5f8bc41bd338b948c4e69f0b,거진 바닥이야. 손해를 너무 많이 보고 있어. 속상해!,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15112,5fb8d1efcb503578af9edd23,경찰이나 짭새나. 똑같은 거지.,neutral,angry,disgust,neutral,angry,sadness,angry,3
+15113,5f87c0def8fac448cc0a7088,너의 말대로 음식물 쓰레기가 상해서 냄새가 많이 나고 있어. 얼른 치워야 해!,disgust,disgust,disgust,sadness,disgust,sadness,disgust,4
+15114,5fbdc118576e9378b67ad205,아니야. 그정도까진 아니야.,happiness,surprise,sadness,neutral,neutral,neutral,neutral,0
+15115,5fb48a524c55eb78bd7cd905,에이 선수까지는 아니고. 아마추어 선수?,happiness,neutral,neutral,neutral,neutral,neutral,neutral,0
+15116,5f5e08b42e23c7161accd0f9,프로젝트를 하느라고 그 동안 한달 동안 친구들을 못 만났는데 못 만났던 친구들을 만나는 것도 좋을 것 같아.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15117,5f6f62979e04b149046cbe35,쓰레기통에서 역겨운 냄새가 나고 있어.,disgust,disgust,disgust,disgust,disgust,neutral,disgust,4
+15118,5fba350644697678c497b3b2,어. 너무 무기력해. 아 힘 하나도 없어.,sadness,sadness,fear,sadness,neutral,sadness,sad,2
+15119,5f6f3617111dfd48d40fd2c1,다들 억지로 사과하기 바쁘더라고. 진정성은 하나도 없었어.,angry,disgust,angry,sadness,angry,angry,angry,3
+15120,5f8ad3e8111dfd48d40fe761,너무 맘에 들어. 내가 얼마나 갖고 싶었던 향수인데.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15121,5f8f6dd19e04b149046cd93a,첨 샀을 때보다 반토막이 되버렸어.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15122,5fb9eda9cb503578af9edf8c,그래서 도로 통제하고 경찰차가 다 여럿이 많더라고. 정말 힘들겠어.,neutral,neutral,angry,neutral,neutral,disgust,neutral,0
+15123,5f8f9e03111dfd48d40feeb0,주면 너무너무 고맙지. 진짜 고마워.,sadness,happiness,happiness,happiness,sadness,neutral,happy,1
+15124,5fbc9bd9cb503578af9ee7dd,아니 환기는 많이 했다니까?,angry,angry,surprise,surprise,surprise,disgust,surprise,6
+15125,5f7158d5111dfd48d40fd476,내일 집에서 나올 때 우산을 가지고 나오면 비 안 맞을 거야. 건강은 괜찮아.,neutral,neutral,happiness,sadness,neutral,neutral,neutral,0
+15126,5f64b3f1d338b948c4e67fd2,쓰레기를 며칠 안버렸더니 그래.,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+15127,5f8c1abef8fac448cc0a75f8,나 드디어 프로젝트가 끝났어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15128,5f6aa5f49e04b149046cba79,오를 줄 알았는데 떨어지더라고.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15129,5fb33ba10fb0f33aa31ca18d,나도 여기가 어딘지 모른다고. 무서워 죽겠어.,fear,fear,fear,fear,fear,fear,fear,5
+15130,5fbb5a7acb503578af9ee446,이 답답한 회사 그만두던가 해야지.,angry,fear,angry,neutral,happiness,angry,angry,3
+15131,5fbdefd7cb503578af9eebd2,나 마라톤 지난 번보다 기록 훨씬 좋아졌어.,happiness,angry,disgust,neutral,angry,sadness,angry,3
+15132,5f3f38079dd513131eace712,너무 기분이 좋아서 신나는 음악을 들으면서 춤추고 싶어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15133,5f6f3af3111dfd48d40fd2d4,나 어제 자다가 정말 깜짝 놀랐어!,surprise,surprise,surprise,surprise,disgust,fear,surprise,6
+15134,5fba39a344697678c497b3f6,에이. 그건 아닌데 선수급은 가깝긴 하지 내가.,happiness,sadness,sadness,sadness,neutral,happiness,sad,2
+15135,5f6afe88d338b948c4e6862d,쓰레기 버릴 때 잘 못 들어갔나 봐.,disgust,fear,disgust,disgust,disgust,angry,disgust,4
+15136,5fbe2822cb503578af9eed02,요새 되는 일이 없어.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15137,5f991f8dd338b948c4e6ae76,글쎄. 음악 가지고 될까?,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15138,5f92daabd338b948c4e6a9be,몸은 괜찮지만 물이 집안으로 들어올까봐 너무 겁이 나.,fear,fear,fear,sadness,fear,fear,fear,5
+15139,5f5fd3663bd6941613f6d3b5,주변 사람들한테 내가 이벤트에 당첨돼서 비싼 향수를 선물로 받았다고 자랑했더니 다들 부러워해.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15140,5f883ff6f8fac448cc0a715e,나도 기분 좋아지는 음악 듣고 기분 좋아졌음 좋겠어.,sadness,neutral,sadness,sadness,sadness,sadness,sad,2
+15141,5f713215d338b948c4e68ab7,그럼. 한 달 간 정말 열심히 했어.,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+15142,5fbc9cd64c55eb78bd7ce8f7,응. 나 제주도 너무 가고 싶었는데 잘 됐다.,happiness,neutral,sadness,neutral,disgust,happiness,neutral,0
+15143,5f5b59cb54b23616212846ca,"어, 그럼. 완전 끝났어. 정말 좋다.",happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15144,5f5f6a1f54b2361621284a02,아니 갑자기 목줄이 끊어져버린거야.,surprise,surprise,surprise,surprise,disgust,fear,surprise,6
+15145,5f5c11b154b2361621284756,응. 좀 힘들었지만 괜찮았어.,happiness,happiness,neutral,happiness,happiness,happiness,happy,1
+15146,5f90d2cd9e04b149046cdb0c,다른 직원들한테는 친절하게 하면서 나한테 짜증 내고 화를 내니까 그래. 너무 화가 나!,angry,angry,angry,angry,angry,angry,angry,3
+15147,5f62c602b878131628349e0b,너무 화가 나고 배신감이 느껴져. 어쩜 그럴수가 있어?,angry,disgust,angry,angry,angry,angry,angry,3
+15148,5f6982c7111dfd48d40fce04,이벤트 당첨됐어!,happiness,surprise,happiness,happiness,happiness,happiness,happy,1
+15149,5f92d604111dfd48d40ff2a9,갑자기 해피의 목줄이 끊어져서 해피가 막 달아났어.,surprise,surprise,surprise,surprise,disgust,surprise,surprise,6
+15150,5fb4bcbd4c55eb78bd7cda6d,사진 찍으면 어디에다 쓰는데?,disgust,neutral,surprise,surprise,surprise,neutral,surprise,6
+15151,5f846f0bd338b948c4e69423,"아니, 아까 해피를 산책시키다가 깜짝 놀랐어.",surprise,surprise,surprise,surprise,fear,surprise,surprise,6
+15152,5fbb4b064c55eb78bd7ce4a7,니 말대로 한번 해봐야겠다.,sadness,neutral,sadness,neutral,neutral,sadness,neutral,0
+15153,5f928666111dfd48d40ff1b5,지금은 다른 방법도 없어. 기다려야지 뭐.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15154,5f82cf579e04b149046cc643,어. 그거 정말 좋을 거 같은데?,happiness,neutral,happiness,happiness,happiness,happiness,happy,1
+15155,5f5c5e513bd6941613f6d165,나 요즘 주식을 시작했는데.,sadness,fear,sadness,sadness,neutral,sadness,sad,2
+15156,5f83edecf8fac448cc0a6a98,너무 맘에 들지. 얼마나 비싼 향수인데. 내가 갖고 싶었던 거야.,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+15157,5fbdd338576e9378b67ad277,오랜만에 하는 산책이라 너무 신났는지 갑자기 목줄을 끊고 막 달려나가는 거야.,surprise,sadness,disgust,neutral,surprise,surprise,surprise,6
+15158,5f62b6a23bd6941613f6d62e,한명 뽑는데 그거에 내가 됐어.,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+15159,5f6600e3f8fac448cc0a58f4,알았어. 친구들 만나서 여행계획 세워볼게.,happiness,neutral,happiness,happiness,happiness,happiness,happy,1
+15160,5f5d604054b236162128484f,아니. 요즘 다 왜 이러는 거야? 정말 이해가 안돼.,angry,angry,angry,angry,angry,angry,angry,3
+15161,5fb8c45ccb503578af9edcba,나 너무 우울해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15162,5fbc7bf9cb503578af9ee6e9,알았어. 그러면?,disgust,neutral,neutral,neutral,neutral,neutral,neutral,0
+15163,5f8da833d338b948c4e6a2cf,당연히 끝났지. 한 달 간 정말 힘들었어.,happiness,sadness,happiness,sadness,happiness,sadness,sad,2
+15164,5f901391f8fac448cc0a7d5c,나 너무 우울해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15165,5f9930fdd338b948c4e6aede,나 너무 우울해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15166,5fb4d644cb503578af9ed9ea,주식은 무조건 운영주라고 해서 큰 거만 샀는데 너무 안 올라. 계속 내려가.,sadness,sadness,neutral,sadness,sadness,sadness,sad,2
+15167,5f87c1a5d338b948c4e69951,항공사 종목이 전망이 있다고 해서 항공사 종목을 구입했어.,sadness,neutral,neutral,sadness,sadness,sadness,sad,2
+15168,5fbc7d67576e9378b67acdf0,나 너무 우울해.,sadness,sadness,sadness,neutral,happiness,sadness,sad,2
+15169,5f5d70332e23c7161accd0a9,선수처럼 잘 뛰진 않고 내 기록이 향상 된 것 같애.,happiness,neutral,happiness,happiness,happiness,neutral,happy,1
+15170,5f787768d338b948c4e68ca9,알았어. 지금에라도 사용설명서 보고 살펴볼게.,happiness,neutral,happiness,happiness,happiness,sadness,happy,1
+15171,5fba3819cb503578af9ee15d,나 요즘 주식 시작했어.,sadness,neutral,neutral,neutral,neutral,fear,neutral,0
+15172,5fb4d7fd576e9378b67ac10c,맞아. 요즘에 미세먼지가 너무 심해서 그거 때문에 곰팡이도 생기고. 아주 화나 죽겠다!,angry,angry,neutral,neutral,angry,angry,angry,3
+15173,5f984483f8fac448cc0a845b,나 갇히게 된 거 같아.,fear,fear,fear,fear,fear,fear,fear,5
+15174,5f811e70f8fac448cc0a6735,"집에 아무도 없고, 나 혼자 갇히게 돼서 너무 무섭고 두려워.",fear,fear,fear,sadness,fear,fear,fear,5
+15175,5fb33f8048cdda3a922e4ea2,그래. 고맙다.,sadness,neutral,neutral,neutral,happiness,neutral,neutral,0
+15176,5f902c3f111dfd48d40fefbd,단톡방에서 아는 지인이 주식을 추천해 줘서 시작하게 되었어.,sadness,neutral,neutral,sadness,sadness,sadness,sad,2
+15177,5f992561111dfd48d40ff7cb,내 선물이 그렇게 궁금해? 나중에 꼭 보여줄게.,happiness,neutral,happiness,happiness,happiness,happiness,happy,1
+15178,5f92d8019e04b149046cdd8a,단톡방에서 아는 지인이 주식을 추천해 줬어.,sadness,neutral,neutral,sadness,sadness,neutral,neutral,0
+15179,5f6c36469e04b149046cbbed,나갈 수가 없어. 물이 차올라서 문을 열수가 없거든. 무서워.,fear,fear,fear,sadness,fear,fear,fear,5
+15180,5f682d52f8fac448cc0a5ae6,당연히 마음에 들지! 비싼 향순데.,happiness,happiness,happiness,happiness,happiness,angry,happy,1
+15181,5f867d89d338b948c4e69713,다 그 맛에 하는 거지. 완전 기분 좋아.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15182,5fb37bd948cdda3a922e4eef,응. 기분이 별로야.,disgust,neutral,neutral,neutral,neutral,neutral,neutral,0
+15183,5f8088b69e04b149046cc379,어떻게 알았어? 나 가끔가다가 음식물도 버려.,disgust,disgust,disgust,sadness,disgust,sadness,disgust,4
+15184,5fb877c844697678c497ad61,짭새나 경찰이나 그게 그거 아니야?,neutral,surprise,neutral,neutral,surprise,neutral,neutral,0
+15185,5fbe2c3244697678c497c01b,나 오늘 짭새가 몰려있길래 궁금해서 구경갔다왔어.,neutral,neutral,sadness,neutral,neutral,neutral,neutral,0
+15186,5f79370ff8fac448cc0a648f,너가 추천한 곳이니까 믿고 먹을게. 정말 맛있을 거 같아.,neutral,happiness,happiness,happiness,happiness,happiness,happy,1
+15187,5f97ff23f8fac448cc0a83b5,맞아. 화장실엔 환기하는 곳이 필요하긴 해.,angry,neutral,angry,sadness,disgust,neutral,neutral,0
+15188,5f826f2ef8fac448cc0a6920,모든 것이 다 끝났으니까 기분 좋게 신나는 음악을 듣는 것도 좋을 것 같아.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15189,5fb9f6ac576e9378b67ac6b1,그것도 좋겠네. 주말에는 어디 가까운 데라도 좀 놀러가야겠구나.,happiness,happiness,neutral,neutral,neutral,sadness,neutral,0
+15190,5fb9c7004c55eb78bd7cdfc6,나 환기 엄청 자주해.,angry,sadness,angry,angry,neutral,angry,angry,3
+15191,5f8990e6111dfd48d40fe5e5,나 프로젝트 드디어 끝났어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15192,5f9a3441f8fac448cc0a87ac,쓰레기통에서 역겨운 냄새가 나고 있어! ,disgust,disgust,disgust,disgust,disgust,neutral,disgust,4
+15193,5f3fdec59dd513131eace875,드디어 구매한 노트북이 도착했어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15194,5f6a1e899e04b149046cba13,나 오늘 짭새 새끼들이 몰려 있길래 궁금해서 구경 다녀왔어.,neutral,neutral,fear,angry,neutral,neutral,neutral,0
+15195,5f8ea48ed338b948c4e6a40b,너무 힘들긴 했지. 그런데 뛰고 나서 너무 상쾌하고 기분이 좋아!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15196,5f41cb9b9dd513131eacee95,강남역에 맛집이 너무 많으니까 더 못 고르겠더라고. 나는 일식을 좋아하니까 일식을 먹었으면 좋겠어.,neutral,neutral,happiness,sadness,neutral,neutral,neutral,0
+15197,5f62022b2e23c7161accd40d,정말 실망스러워.,angry,disgust,angry,sadness,disgust,neutral,disgust,4
+15198,5f5b70743bd6941613f6d0a1,모르겠어. 뭔가가 썩고 있나봐.,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+15199,5f5ebf3f3bd6941613f6d2d7,다행히 우리 집 까지는 들어오지 않았어. 그래서 내 몸은 괜찮아.,fear,neutral,fear,sadness,fear,fear,fear,5
+15200,5f992451d338b948c4e6ae91,아. 그럼 방향제 뿌리면 냄새는 좀 낫겠다.,disgust,neutral,disgust,sadness,disgust,disgust,disgust,4
+15201,5f8ea098111dfd48d40fed16,영화는 너무 보고싶다. 재미있는 것 좀 추천해줘봐.,sadness,neutral,happiness,sadness,sadness,sadness,sad,2
+15202,5f6dde02f8fac448cc0a601f,자고 일어났더니 동네가 다 물로 잠겨 있어. 사람들은 다 대피했고.,fear,fear,fear,sadness,fear,sadness,fear,5
+15203,5f61e72354b2361621284bbb,"영화 너무 좋지. 재밌는 영화 실컷 봐야되겠다, 이참에.",sadness,neutral,happiness,happiness,neutral,happiness,happy,1
+15204,5f9807ccf8fac448cc0a83ee,"어, 사진은 일단 먼저 찍어놨어.",disgust,neutral,angry,disgust,angry,angry,angry,3
+15205,5fb9f5cf4c55eb78bd7ce0eb,그러니까. 나도 사과받고 싶다.,disgust,neutral,angry,neutral,neutral,angry,neutral,0
+15206,5fb879e84c55eb78bd7cdc5c,나 오늘 짭새가 몰려있길래 궁금해서 구경다녀왔어.,neutral,neutral,sadness,neutral,happiness,neutral,neutral,0
+15207,5f9a350c9e04b149046ce48c,그럼! 함께 달리는 크루가 있어서 내가 지치고 힘들 때 많은 도움을 받고 있어!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15208,5f3e96d19dd513131eace3ca,달리는 동안에는 너무 힘들고 지쳤는데 결승선을 통과하는 순간 기분이 너무 좋았어. 날아갈 것 같았어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15209,5f8a5166f8fac448cc0a746d,곰팡이 제거제 생각 한 번 해볼게.,angry,neutral,angry,sadness,disgust,neutral,neutral,0
+15210,5fb8de23576e9378b67ac459,그러면 다시 보내줄까?,disgust,happiness,surprise,neutral,neutral,neutral,neutral,0
+15211,5fbe09f4cb503578af9eec3c,하. 계속 기다리는 수밖에 없지. 언젠간 오르겠지?,sadness,fear,sadness,sadness,sadness,sadness,sad,2
+15212,5f681b3d111dfd48d40fcc8f,내가 10km 마라톤 대회에 나갔는데 이전의 내 기록보다 훨씬 좋게 나왔어!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15213,5fbdeeae44697678c497be94,"어, 알았어.",happiness,surprise,neutral,neutral,neutral,neutral,neutral,0
+15214,5f90127c9e04b149046cda45,나 드디어 프로젝트 끝났어!  ,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+15215,5f6c11c29e04b149046cbbb9,친구랑 분위기 있게 양식을 먹고 싶어. ,neutral,neutral,happiness,happiness,happiness,happiness,happy,1
+15216,5f81cb27d338b948c4e69122,고약한 냄새를 방향제로 처리하는 게 가장 좋을 거 같아.,disgust,neutral,disgust,sadness,disgust,disgust,disgust,4
+15217,5fbe093d4c55eb78bd7ced03,좀 그런 것 같아. 힘이 조금씩 빠지는 것 같애.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15218,5fb8e5bf44697678c497b01b,혼자 갇혔어. 나 너무 무서워.,fear,fear,neutral,neutral,fear,fear,fear,5
+15219,5f6f39f0f8fac448cc0a60f6,맞아. 결승선을 통과하는 순간 힘든 게 싹 사라지더라고.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15220,5f709237d338b948c4e68a69,그래 알았어. 참고는 할게.,happiness,neutral,happiness,happiness,happiness,happiness,happy,1
+15221,5f699770d338b948c4e6848f,드디어 프로젝트 끝났어.,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+15222,5fbc9b2544697678c497ba77,응. 몸상태는 괜찮아.,fear,neutral,angry,neutral,neutral,happiness,neutral,0
+15223,5f3e79d69dd513131eace288,쓰레기 썩은 냄새랑 방향제 냄새랑 섞여서 이상해질까봐서 못 쓰겠어.,disgust,disgust,disgust,disgust,disgust,sadness,disgust,4
+15224,5f707de1111dfd48d40fd3a6,나 축하해줘! 기분 좋은 일이 있어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15225,5fb87ab1576e9378b67ac220,그런 말 들으니까 욕을 안해야겠다는 생각이 드는데?,angry,neutral,surprise,sadness,surprise,surprise,surprise,6
+15226,5f8120cb111dfd48d40fd943,함께 달리는 크루가 있어서 내가 지치고 힘들때 큰 힘이 되어 줘!,happiness,neutral,happiness,happiness,happiness,happiness,happy,1
+15227,5f425c889dd513131eacf015,집안까지 물은 들어오지 않았지만 나갈 수 있는 통로가 다 막혀버렸어. 그리고 난 괜찮아. 기분이 조금 우울하긴 하지만.,fear,sadness,fear,sadness,sadness,sadness,sad,2
+15228,5f663cee111dfd48d40fcb27,어! 진짜 짱이였어! 그리고 이번에 진짜 열심히 뛰었거든!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15229,5f5d7f2d54b236162128488b,그렇게 해봐야겠다.,sadness,neutral,neutral,sadness,neutral,angry,neutral,0
+15230,5f85ca2a111dfd48d40fdfd7,내일 비가 온대! 비가 많이 온대! 사무실에 우산은 없어.,neutral,surprise,angry,sadness,fear,sadness,sad,2
+15231,5f902c79d338b948c4e6a6d6,주식 가격이 오르지는 않고 떨어지고 있어서 걱정이야.,sadness,fear,sadness,sadness,sadness,sadness,sad,2
+15232,5f9231459e04b149046cdc2f,알았어. 다음부턴 조심할게.,disgust,disgust,angry,sadness,disgust,neutral,disgust,4
+15233,5f6f5ce59e04b149046cbe23,놀란 거 말고는 다른 피해가 없어서 정말 다행이었어!,surprise,neutral,surprise,sadness,neutral,neutral,neutral,0
+15234,5f636f5a3bd6941613f6d723,갑자기 이런 영상은 나한테 왜 말하는 건데?,angry,angry,angry,angry,angry,angry,angry,3
+15235,5f427a3716bbac1317968f14,치우는게 너무 힘들지만 내가 음식물쓰레기를 쓰레기통에다 버린게 잘못이니까 얼른 냄새안나게 치워야지.,disgust,disgust,disgust,disgust,disgust,sadness,disgust,4
+15236,5fbe0cbb44697678c497bf28,선수는 아닌데 취미로 하는 거야.,happiness,happiness,neutral,neutral,neutral,sadness,neutral,0
+15237,5f886e63f8fac448cc0a7211,나를 위해서 노래와 음악을 찾아 주고 정말 고마워.,sadness,happiness,happiness,sadness,sadness,sadness,sad,2
+15238,5f6f4363111dfd48d40fd2de,곰팡이 제거제가 효과가 있을까?,angry,neutral,angry,sadness,disgust,sadness,sad,2
+15239,5fbdc3e744697678c497bdad,하 짜증나. 그 새끼는 할일이 없으면 집에나 갈 것이지. 왜 나한테만 그럴까?,angry,angry,angry,disgust,angry,angry,angry,3
+15240,5fbcc02c44697678c497bbbb,쓰레기통에서 역겨운 냄새가 나고 있어.,disgust,neutral,disgust,neutral,happiness,sadness,neutral,0
+15241,5f90d0839e04b149046cdb01,코로나때문에 재택근무를 시작하면서 집에만 있으니까 답답하고 우울해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15242,5f77e0d5f8fac448cc0a6388,함꼐 달리는 크루가 있어서 지치고 힘들 때 큰 힘이 되어줘.,happiness,neutral,happiness,happiness,happiness,happiness,happy,1
+15243,5f8bbe18d338b948c4e69f02,완전히 끝나서 속이 다 시원해.,happiness,happiness,happiness,sadness,happiness,happiness,happy,1
+15244,5f9926309e04b149046ce271,나 축하해 줘. 기분 좋은 일이 있어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15245,5f8bc5c9d338b948c4e69f10,음식물이 쓰레기통에 섞여들어갔었나봐.,disgust,disgust,disgust,disgust,disgust,sadness,disgust,4
+15246,5f830414d338b948c4e6920a,"응, 너무 좋았어.",happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+15247,5fb34280e3dcec421f835803,내가 막 이것 저것 버려서 그런가 봐.,disgust,neutral,neutral,neutral,neutral,neutral,neutral,0
+15248,5f878b58111dfd48d40fe25a,친구가 갑자기 전화 와서 같이 해보자는 거야.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15249,5fba1a86cb503578af9ee078,안에서 음식물이 썩었나봐.,disgust,sadness,sadness,neutral,neutral,sadness,sad,2
+15250,5fb37f1148cdda3a922e4f22,조언 고마워.,sadness,neutral,neutral,neutral,neutral,happiness,neutral,0
+15251,5f6d329ef8fac448cc0a5f65,일이 너무 많고 바빠서 일 년만에 받은 휴가인데 망했어!,angry,sadness,angry,sadness,sadness,sadness,sad,2
+15252,5f689219111dfd48d40fcd0d,"오, 좋은데? 고마워.",neutral,happiness,happiness,happiness,happiness,happiness,happy,1
+15253,5f92f9129e04b149046cddc6,으! 사진 찍기도 징그럽다!,disgust,disgust,angry,disgust,disgust,disgust,disgust,4
+15254,5fbb357f576e9378b67ac9e7,근데 지금 이미 너무 떨어져버려가지고.,sadness,sadness,neutral,sadness,neutral,sadness,sad,2
+15255,5f825997d338b948c4e69156,해피가 갑자기 목줄을 끊고 달아났어.,surprise,neutral,surprise,sadness,fear,surprise,surprise,6
+15256,5f6448dfd0b14d419059b84a,너무 실망스러워. 사람들은 그걸 보고 속아서 물건들을 살거 아냐.,angry,disgust,angry,sadness,angry,angry,angry,3
+15257,5fb86db24c55eb78bd7cdbe6,응. 이제 완전 끝이야.,happiness,neutral,neutral,neutral,neutral,neutral,neutral,0
+15258,5fbdf9d1576e9378b67ad31a,나 오늘 길 가다가 짭새들 보여서 구경했어요.,neutral,sadness,neutral,neutral,neutral,sadness,neutral,0
+15259,5fbe2fb9cb503578af9eed76,여행 갔다 와볼까 생각 중인데 추천해줄만한데 있어?,happiness,sadness,sadness,surprise,neutral,sadness,sad,2
+15260,5f40b6899dd513131eaced39,"아니, 요즘 왜 그러는거지? 다들 이해가 안돼.",angry,disgust,angry,angry,angry,angry,angry,3
+15261,5f86e7fcd338b948c4e697cb,어쩌겠어. 내가 잘못한 거니까 깨끗하게 치워야지.,disgust,sadness,disgust,sadness,disgust,sadness,sad,2
+15262,5f8c2252f8fac448cc0a7605,나 축하해줘. 기분 좋은 일이 생겼어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15263,5f62cb172e23c7161accd502,맞아요. 그리고 요즘 재택근무라 더 뭔가 맘이 무거워요.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15264,5f8dabf19e04b149046cd6f3,마라톤 대회에 출전했었잖아. 그곳에서 나 순위권 안에 들었어!,happiness,neutral,happiness,happiness,happiness,sadness,happy,1
+15265,5fbc60434c55eb78bd7ce747,주일정도 휴가갈려고.,happiness,disgust,neutral,neutral,neutral,neutral,neutral,0
+15266,5f8ed17ff8fac448cc0a7b1b,갑자기 해피가 달려가서 사람들이 조금 놀랐대.,surprise,surprise,surprise,sadness,sadness,sadness,sad,2
+15267,5f6acfe79e04b149046cbaa4,나 어제 자다가 깜짝 놀라서 깼어.,surprise,surprise,surprise,surprise,neutral,surprise,surprise,6
+15268,5f660ba29e04b149046cb61a,쓰레기통에서 역겨운 냄새가 나기 시작했어.,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+15269,5f6bede89e04b149046cbb90,너무 많이 실망스러워.,angry,angry,angry,sadness,angry,sadness,angry,3
+15270,5fbb16a34c55eb78bd7ce386,나 축하해줘. 나 기분 좋은 일이 있어.,happiness,happiness,angry,neutral,neutral,neutral,neutral,0
+15271,5f4283409dd513131eacf1f4,나 혼자 갇히게 된 거 같아.,fear,sadness,fear,fear,fear,fear,fear,5
+15272,5f6739549e04b149046cb71d,"아, 짜증나. 그 새끼는 할 일이 없으면 집에나 갈 것이지. 늦게까지 결혼 못한 히스테리를 부리는건가? 왜 항상 나한테만 그럴까?",angry,disgust,angry,angry,angry,angry,angry,3
+15273,5f9a851ad338b948c4e6b1a5,그래. 가족들이랑 여행을 다녀오는 것도 의미가 있을 거 같아. 생각해볼게.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15274,5f6a11fcd338b948c4e68514,최종 발표를 맞췄으니까 이제 완전히 끝난 거야.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15275,5f6aee8ff8fac448cc0a5dc1,나 벌써 친구들과 약속 했는데. 만나기로.,happiness,happiness,happiness,happiness,happiness,surprise,happy,1
+15276,5f61f13e54b2361621284bd1,그래. 참고할게. 보험 들어놓으면 두루두루 편할 수도 있으니까.,happiness,neutral,happiness,happiness,happiness,neutral,happy,1
+15277,5f65ffeb9e04b149046cb5f4,음식점이 엄청나게 많은 강남역이야.,neutral,neutral,happiness,sadness,disgust,sadness,sad,2
+15278,5f8ea13dd338b948c4e6a3f8,나 갇힌 것 같아.,fear,fear,fear,fear,fear,fear,fear,5
+15279,5f9a2e7cf8fac448cc0a8792,내일 비가 온대? 비 많이 온대? 나 사무실에 우산 없어.,neutral,fear,angry,sadness,neutral,sadness,sad,2
+15280,5f8b79da9e04b149046cd2d8,그럼. 함께 달리는 크루가 있어서 내가 힘들 때마다 힘이 되어주고 있어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15281,5f86798cf8fac448cc0a6e74,자도자도 계속 피곤하고. 어 너무 힘들어.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15282,5f8bc129111dfd48d40fe838,지나가다가 이벤트 하는 걸 보고 신청했더니.,happiness,neutral,happiness,happiness,happiness,sadness,happy,1
+15283,5fb87654576e9378b67ac1f3,손해를 너무 많이 봐서 답답해.,sadness,sadness,neutral,neutral,sadness,neutral,neutral,0
+15284,5f68d5e69e04b149046cb8dc,우리 집 주변이 다 온통 물바다야. 빠져나갈 수가 없다고.,fear,fear,fear,sadness,fear,angry,fear,5
+15285,5f4147dc9dd513131eacee65,"정말? 정말 그런 보험도 있었어? 당장에 가입해야지, 그럼.",happiness,surprise,happiness,happiness,happiness,neutral,happy,1
+15286,5f6aee83111dfd48d40fcf80,내 휴가가 엉망이야.,angry,sadness,angry,sadness,sadness,sadness,sad,2
+15287,5fb88a6f4c55eb78bd7cdcd4,나 엘리베이터에 갇혔어!,fear,fear,fear,neutral,fear,fear,fear,5
+15288,5fbb16ba576e9378b67ac922,오늘 짭새가 몰려 있길래 구경 하다 왔어.,neutral,surprise,disgust,neutral,neutral,neutral,neutral,0
+15289,5f630247b878131628349e88,그래. 영화도 보면서 조금은 휴식을 취하면서 일도 해야되겠어.,sadness,neutral,happiness,sadness,neutral,neutral,neutral,0
+15290,5f6de69d111dfd48d40fd1f9,희한하게 결승선을 통과하는 순간 힘든 게 싹 사라지더라고.,happiness,happiness,happiness,happiness,happiness,surprise,happy,1
+15291,5f86bb27f8fac448cc0a6ed6,내가 자는 동안에 비가 그렇게 많이 왔대. 난 그것도 모르고 대피도 못했어.,fear,fear,fear,sadness,fear,sadness,fear,5
+15292,5fb88bf44c55eb78bd7cdce4,어. 너무 무서워 죽겠어.,fear,fear,disgust,neutral,fear,happiness,fear,5
+15293,5f89a5b9f8fac448cc0a73ad,마라톤 대회에서 기존의 기록을 갱신했어.,happiness,happiness,happiness,happiness,happiness,surprise,happy,1
+15294,5f9a24859e04b149046ce440,내 건강은 괜찮아. 비염이 조금 심하긴 하지만.,neutral,neutral,angry,sadness,neutral,neutral,neutral,0
+15295,5f98ca4bd338b948c4e6adc1,에휴 미리 미리 안 한 내 잘못이지.,disgust,disgust,disgust,sadness,disgust,neutral,disgust,4
+15296,5fb48fd1cb503578af9ed84a,그러니까. 요즘 참 경찰들 피곤하겠어.,neutral,happiness,neutral,neutral,sadness,disgust,neutral,0
+15297,5f6e08a59e04b149046cbd89,나 어제 자다가 깜짝 놀라서 깼어.,surprise,surprise,surprise,surprise,fear,sadness,surprise,6
+15298,5fb4b19e4c55eb78bd7cd9e6,코로나 때문에 밖에를 못나가서 맨날 집에만 있으니까 너무 우울해.,sadness,neutral,sadness,sadness,sadness,sadness,sad,2
+15299,5f8af5ed111dfd48d40fe794,그렇잖아도 바로 버렸어.,disgust,disgust,disgust,sadness,disgust,sadness,disgust,4
+15300,5f68194d111dfd48d40fcc8a,내가 좋아하는 유튜버가 뒷광고를 했다고 사과하는 영상을 올렸어.,angry,disgust,angry,angry,angry,angry,angry,3
+15301,5f92f4b99e04b149046cddbd,몸이 축축 쳐지고 너무 너무 힘들어.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15302,5fb33edf48cdda3a922e4e9c,나 요즘 주식을 시작했는데.,sadness,neutral,sadness,neutral,neutral,neutral,neutral,0
+15303,5f902eb7d338b948c4e6a6db,나 오늘 짭새들이 몰려 있길래 궁금해서 구경 다녀왔어.,neutral,neutral,fear,sadness,neutral,neutral,neutral,0
+15304,5f6410d8639e10419832eb9f,그렇지 않아도 바로 버렸어!,disgust,neutral,disgust,disgust,disgust,angry,disgust,4
+15305,5f63958b54b2361621284dcd,주변에 홍수가 나서 집에 갇혔어.,fear,sadness,fear,sadness,fear,fear,fear,5
+15306,5f6299acb878131628349dd6,모든 업무가 비대면으로 이루어지다 보니까 밖에 나갈 일이 없어서 그런지 몸이 처지고 마음이 울적해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15307,5f6accf6111dfd48d40fcf58,내가 버린 음식물 쓰레기가 상해서 나는 냄새였어.,disgust,disgust,disgust,disgust,disgust,sadness,disgust,4
+15308,5f83c92dd338b948c4e692e8,너무 힘들고 지치지만 집안에 벌레가 생길 것 같아서 얼른 청소 해야할 것 같아.,disgust,sadness,disgust,sadness,disgust,sadness,sad,2
+15309,5f853e5e111dfd48d40fde5e,그래. 음악 좀 들어볼까? 그러면 기분이 좀 나아지려나?,sadness,neutral,sadness,happiness,sadness,sadness,sad,2
+15310,5fbb646044697678c497b6ff,정말 좋은 생각이다.,happiness,happiness,happiness,neutral,happiness,happiness,happy,1
+15311,5f89a3b1111dfd48d40fe64d,이벤트를 하는 거를 보고 신청했더니 내가 됐어!,happiness,happiness,happiness,happiness,happiness,surprise,happy,1
+15312,5fb3881d48cdda3a922e4faf,응. 끝에는 내 노력이 보상 받는 느낌이었어.,happiness,neutral,neutral,neutral,neutral,neutral,neutral,0
+15313,5f676b909e04b149046cb74e,당첨자는 한 명인데 내가 당첨 됐어! 운이 좋지?,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15314,5f40b98b9dd513131eaced53,너무 맘에 들어. 평소에 내가 원했던 향수야.,happiness,happiness,fear,happiness,happiness,happiness,happy,1
+15315,5fbdf65a44697678c497beb5,나 오늘 짭새가 몰려있길래 궁금해서 구경 다녀왔어.,neutral,neutral,sadness,neutral,happiness,surprise,neutral,0
+15316,5fba0365576e9378b67ac727,완전히 끝났네. 아 기분좋다.,happiness,happiness,neutral,neutral,neutral,happiness,neutral,0
+15317,5fb87f9a44697678c497ada9,떨어졌어.,sadness,sadness,disgust,sadness,sadness,angry,sad,2
+15318,5fb4b046576e9378b67abfaf,어 완전히 끝났어.,happiness,neutral,happiness,happiness,sadness,disgust,happy,1
+15319,5f6604be9e04b149046cb606,나 혼자 갇힌 것 같아.,fear,fear,fear,sadness,fear,fear,fear,5
+15320,5f8afa189e04b149046cd29a,네 아무튼 너무 너무 힘들다.,angry,disgust,sadness,sadness,sadness,sadness,sad,2
+15321,5f87c5ea9e04b149046cce19,"삼성 증권에 들었는데, 그래도 경기가 안 좋아서인지 자꾸 내려 가.",sadness,fear,sadness,sadness,sadness,sadness,sad,2
+15322,5f901875111dfd48d40fef97,그게 좋겠지. 방향제가 제일 낫지?,disgust,neutral,angry,sadness,disgust,sadness,sad,2
+15323,5f7088929e04b149046cbed1,당연하지. 한 달 동안 얼마나 개고생했는데.,happiness,sadness,happiness,happiness,happiness,angry,happy,1
+15324,5f5e1ac03bd6941613f6d27a,나 어제 자다가 깜짝 놀랐어.,surprise,surprise,surprise,surprise,disgust,surprise,surprise,6
+15325,5f709600d338b948c4e68a70,휴가 기간 내내 비 소식이 있으니까 아무래도 집에서 휴가를 보낼 수 있는 방법을 생각해봐야 할 것 같아.,angry,neutral,angry,sadness,sadness,sadness,sad,2
+15326,5f5f66beb878131628349b20,처음에 인정을 안 하드라고. 그러더니 나중에 슬그머니 꼬리를 내리더라고.,angry,angry,angry,angry,angry,angry,angry,3
+15327,5fb33d8ce3dcec421f8357d3,아니. 아까 해피 산책시키다가 깜짝 놀랬어.,surprise,neutral,neutral,sadness,neutral,surprise,neutral,0
+15328,5f8f6c049e04b149046cd92f,나 산책하다 정말 깜짝 놀랐잖아.,surprise,surprise,surprise,surprise,fear,sadness,surprise,6
+15329,5f708ba9111dfd48d40fd3d4,딱 한 명 뽑는데 그게 내가 된거야!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15330,5f6338262e23c7161accd570,마음을 비우고 기다리다 보면 주식이 오르는 날도 있겠지?,sadness,neutral,sadness,sadness,sadness,neutral,sad,2
+15331,5f8a1e79d338b948c4e69d2c,사진을 메세지로 보낸 뒤에 항의 전화를 지금 해야겠어.,disgust,disgust,angry,sadness,angry,angry,angry,3
+15332,5f8a27e1d338b948c4e69d37,나 축하해줘. 기분 좋은 일이 생겼어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15333,5f688f0f111dfd48d40fccfe,맞아. 뛰는 동안 정말 힘들었는데 결승선을 통과하는 순간 싹 잊혀지더라고.,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+15334,5f83c826d338b948c4e692e0,곰팡이 제거제를 사용하면 훨씬 나아진다고 하니까 나 한번 구매해볼래.,angry,neutral,angry,sadness,disgust,sadness,sad,2
+15335,5fb33c9a75b0a9389bf39681,나는 니가 무슨 말 하는건지 모르겠다.,happiness,neutral,neutral,neutral,neutral,neutral,neutral,0
+15336,5fb8924bcb503578af9edbbc,으! 어떻게 버리지? 만지지도 못할 것 같은데.,disgust,sadness,fear,angry,fear,neutral,fear,5
+15337,5fbca1a2576e9378b67acf43,아. 여행 너무 좋지. 진짜 그냥 하나하나 다 해버려야겠다! 기대돼!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15338,5f6011733bd6941613f6d3d1,노트북을 밖에 가지고 나갈 일이 생길 수도 있으니까 보험 가입을 생각해 봐야겠어.,happiness,neutral,happiness,sadness,neutral,neutral,neutral,0
+15339,5f8d03d8111dfd48d40feb23,"아, 짜증나. 상사 새끼는 집에도 안 가고 내 옆에서 지랄이야.",angry,disgust,angry,angry,angry,angry,angry,3
+15340,5f87ba30111dfd48d40fe2cc,짜장면에서 벌레가 나온 사진을 증거로 제출하면 적당한 조치를 취해주겠지?,disgust,angry,angry,sadness,angry,angry,angry,3
+15341,5fbdd8dbcb503578af9eeb8f,일단 손해가 크니까 당장 팔지는 못하겠는데 이래도 되는 건지 모르겠어.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15342,5f5e1f523bd6941613f6d28b,내가 잠을 자고 있는 사이에 비가 엄청 많이 와서 우리 동네가 홍수 피해 지역이 되었대. 그래서 우리 동네가 고립 됐어.,fear,fear,fear,sadness,fear,fear,fear,5
+15343,5fbca7de576e9378b67acf91,하. 나 요즘 주식 시작했어.,sadness,sadness,angry,neutral,happiness,sadness,sad,2
+15344,5fba337544697678c497b393,고마워. 너가 말한 대로 한 번 해볼게.,disgust,neutral,neutral,neutral,neutral,happiness,neutral,0
+15345,5fb9df4f576e9378b67ac613,너무 무서워.	,fear,surprise,neutral,neutral,sadness,neutral,neutral,0
+15346,5f7937fcf8fac448cc0a6495,너의 말대로 오랜만에 여행을 다녀오는 것도 좋을 것 같아.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15347,5fbb359544697678c497b5a6,친구가 하자고 했는데 계속해서 손해만 보고있어. 어떡하지?,sadness,fear,neutral,neutral,neutral,sadness,neutral,0
+15348,5f78927af8fac448cc0a6425,내 휴가가 엉망이야!,angry,sadness,angry,sadness,sadness,sadness,sad,2
+15349,5fbc716344697678c497b979,싫다고 욕한적 없는데?,neutral,neutral,neutral,neutral,neutral,disgust,neutral,0
+15350,5fbdb556576e9378b67ad178,나 엘리베이터에 갇혔어.,fear,fear,sadness,neutral,fear,surprise,fear,5
+15351,5f5f322c2e23c7161accd1e9,구경하는 사람들이 너무 많아서 무슨 일이 있었는지 볼 수가 없었어.,neutral,neutral,fear,sadness,sadness,sadness,sad,2
+15352,5f9805189e04b149046ce0c6,영화는 내가 너무 좋아해. 재밌는 걸로 추천해줘봐.,sadness,happiness,happiness,happiness,sadness,neutral,happy,1
+15353,5f97f03ef8fac448cc0a8373,장마때문에 비가 엄청많이 내려서 우리동네가 고립되면서 집 안에 갇히게 되었어.,fear,neutral,fear,sadness,fear,fear,fear,5
+15354,5fb88acbcb503578af9edb75,코로나 때문에 일자리도 잃고 집 밖으로 나가지도 못 해서 너무 우울한 거 같아.	,sadness,sadness,neutral,neutral,sadness,sadness,sad,2
+15355,5fb9e450576e9378b67ac64b,그러게 말이야. 너무 힘들다.,disgust,sadness,neutral,sadness,happiness,sadness,sad,2
+15356,5f786f71f8fac448cc0a63ee,한 명 뽑는데 그게 내가 된 거야.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15357,5f42789a9dd513131eacf14f,그동안 프로젝트를 하느라고 너무 바쁘고 힘들었으니까 이번 기회에 여행을 가서 힐링을 하고 오는 시간을 가져봐야겠어.,happiness,neutral,happiness,happiness,happiness,happiness,happy,1
+15358,5f62b22c54b2361621284c76,내일 친구랑 만나는데 어떤 걸 먹어야 될 지 고민이야.,neutral,neutral,happiness,sadness,neutral,neutral,neutral,0
+15359,5f61ce803bd6941613f6d558,헐! 나 이벤트에 당첨 되었어!,happiness,surprise,happiness,happiness,surprise,happiness,happy,1
+15360,5f5e1beb54b236162128490a,맞아. 하루종일 화장실만 닦고 있는 것 같아.,angry,disgust,sadness,disgust,disgust,sadness,disgust,4
+15361,5f5d6cc454b236162128486b,나 아무래도 혼자 갇힌 것 같아.,fear,fear,fear,fear,fear,fear,fear,5
+15362,5fbb31ef44697678c497b589,버려야 되는데 냄새가 나가지구 그냥 그래.,disgust,disgust,neutral,sadness,happiness,neutral,neutral,0
+15363,5f9177fd9e04b149046cdb88,내 선물이 뭔지 궁금해? 보고싶어? 나중에 꼭 보여줄게!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15364,5f98d8d9f8fac448cc0a8505,아후! 좀 지켜보면 낫겠지.,sadness,fear,sadness,sadness,sadness,sadness,sad,2
+15365,5fbcdb094c55eb78bd7ceab7,한번 말해야겠어.,angry,neutral,neutral,disgust,happiness,angry,neutral,0
+15366,5f866b729e04b149046ccb7f,아까 해피를 산책시키다가 깜짝 놀랐어.,surprise,surprise,surprise,surprise,fear,surprise,surprise,6
+15367,5f8318f6d338b948c4e6927f,지금 당장 사진을 첨부해서 이런 상황을 알려야겠어.,disgust,disgust,angry,angry,angry,angry,angry,3
+15368,5f92d4e0f8fac448cc0a808f,나 너무 우울해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15369,5f637f473bd6941613f6d747,강남역에서 만나기로 했어.,neutral,neutral,happiness,sadness,neutral,neutral,neutral,0
+15370,5f901889d338b948c4e6a68b,그러니까 다음부턴 조심해야 되겠어.,disgust,neutral,angry,sadness,disgust,sadness,sad,2
+15371,5fb4b6aacb503578af9ed915,맞아. 요즘 미세먼지가 맨날 심해서 환기를 못해서 큰 일이야.,angry,fear,angry,neutral,sadness,fear,fear,5
+15372,5fbc641d4c55eb78bd7ce76a,친구들이랑 맛있는 걸 먹고싶어.,happiness,neutral,neutral,neutral,neutral,happiness,neutral,0
+15373,5fbc87964c55eb78bd7ce88c,아니 짭새새끼들이 몰려있었다니까? 양아치들 잡고 있었어.,neutral,surprise,angry,neutral,neutral,disgust,neutral,0
+15374,5f789a299e04b149046cc12a,200만원짜리 노트북을 구매했는데 너무 기분이 좋아.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15375,5fbb5f8444697678c497b6ea,그래야지 안전하고 좋지 않을까?,neutral,happiness,happiness,neutral,neutral,neutral,neutral,0
+15376,5f6bef2e111dfd48d40fd057,나 해피 산책시키다가 깜짝 놀랬어.,surprise,surprise,surprise,surprise,neutral,sadness,surprise,6
+15377,5fbb17614c55eb78bd7ce38b,뭐 당연히 돈을 벌기 위해서지.,sadness,surprise,sadness,neutral,happiness,neutral,neutral,0
+15378,5f9013f4d338b948c4e6a674,영화는 내가 너무 좋아하지. 재미난 거 있으면 추천해줘.,sadness,neutral,happiness,sadness,sadness,sadness,sad,2
+15379,5f8f6806111dfd48d40fee44,와 짜장면 먹다 벌레가 나왔어!,disgust,disgust,angry,disgust,disgust,disgust,disgust,4
+15380,5f5f86303bd6941613f6d3a1,어. 완전 폭락이야.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15381,5fb8e48a576e9378b67ac4a9,아니야. 기록을 달성한 거야.,happiness,surprise,sadness,neutral,neutral,happiness,neutral,0
+15382,5f5ec89b54b2361621284972,그러니깐. 구경 갔다가 가라고 해서 구경도 못하고 왔어.,neutral,neutral,angry,angry,disgust,angry,angry,3
+15383,5f878e28f8fac448cc0a700f,구경도 못하고 쫓겨나왔다니까.,neutral,neutral,fear,angry,disgust,angry,angry,3
+15384,5f98a94d111dfd48d40ff6ec,그렇지. 선수들과 같이 어깨를 나란히 했어.,happiness,neutral,happiness,sadness,happiness,happiness,happy,1
+15385,5f6eae97111dfd48d40fd28b,사람들이 엄청 놀라서 힘들어했어!,surprise,surprise,surprise,sadness,fear,neutral,surprise,6
+15386,5f605aeab878131628349c13,그래. 참고할게. 상황봐서 보험에 들 수 있으면 들어놓지 뭐.,happiness,neutral,happiness,happiness,happiness,neutral,happy,1
+15387,5f8aae699e04b149046cd21c,다 그 맛에 하는 거지. 완전 기분 째지거든.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15388,5f601b263bd6941613f6d3e4,짭새 구경 갔다 우산도 잃어버리고 왔어.,neutral,angry,angry,angry,disgust,angry,angry,3
+15389,5f6383433bd6941613f6d75b,응. 지금이 다 떨어지는 시기라고 하긴 하더라고. 좀 더 기다려봐야지 뭐.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15390,5f98a6f29e04b149046ce19d,다행히 주변에 사람은 별로 없었어.,surprise,neutral,surprise,sadness,neutral,neutral,neutral,0
+15391,5f41d0e79dd513131eaceebb,쓰레기통에서 냄새가 나서 쓰레기통 안을 뒤져봤더니 음식물 쓰레기가 상해서 냄새가 나는 거였어.,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+15392,5f9260ecd338b948c4e6a8c9,아. 몸은 괜찮아.,fear,neutral,angry,sadness,fear,angry,angry,3
+15393,5fbdf6eacb503578af9eebed,할려고 했는데 기회가 안돼서. 이번에 마지막 결심했어요.,sadness,sadness,sadness,neutral,sadness,sadness,sad,2
+15394,5f867f9f111dfd48d40fe0a6,쓰레기통에서 역겨운 냄새가 나고 있어.,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+15395,5f8ea14d111dfd48d40fed17,집 안에 갇혀있어. 밖에 물이 많이 고여있고.,fear,fear,fear,sadness,fear,fear,fear,5
+15396,5f6ad407111dfd48d40fcf6f,네 어려워요. 해외 주식이에요.,sadness,neutral,sadness,sadness,sadness,sadness,sad,2
+15397,5f696aba111dfd48d40fcde1,화장실은 청소를 해도 곰팡이가 안 없어져.,angry,disgust,angry,disgust,disgust,angry,disgust,4
+15398,5fbc9f3a576e9378b67acf21,지인이 추천해줬어.,sadness,neutral,neutral,sadness,neutral,sadness,neutral,0
+15399,5f851985111dfd48d40fde07,함께 달리는 크루가 있어서 지치고 힘들 때 나한테 큰 힘이 되어 줬어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15400,5fbc83a2cb503578af9ee740,쓰레기통에서 역겨운 냄새가 나.,disgust,disgust,disgust,neutral,sadness,disgust,disgust,4
+15401,5fbdcfc64c55eb78bd7cec11,"와, 짜장면에서 벌레 나왔어.",disgust,neutral,sadness,neutral,disgust,neutral,neutral,0
+15402,5f697fd5f8fac448cc0a5c4f,난 양식이 좀 더 좋아.,neutral,neutral,happiness,happiness,neutral,neutral,neutral,0
+15403,5f65e900111dfd48d40fca91,실제로 엄청 큰 천둥소리를 들어서 무서워서 잠도 못잤어.,surprise,fear,surprise,sadness,disgust,fear,fear,5
+15404,5f3cc7908a3c1005aa97c704,프로젝트 하느라고 한달 동안 친구를 못 만났었는데 친구를 이번 기회에 만나봐야겠어. 너무 신나!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15405,5f60dd0554b2361621284b37,그건 잘 모르겠어.,disgust,neutral,disgust,sadness,disgust,disgust,disgust,4
+15406,5f5b5c8054b23616212846d4,결승선을 통과하는 순간 힘들었던게 싹 잊혀지더라고.,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+15407,5fbdd9034c55eb78bd7cec75,내가 잘못한 거 같애. 반성할게.,neutral,happiness,neutral,sadness,sadness,sadness,sad,2
+15408,5f5cb3b954b23616212847eb,최종 발표를 마쳤으니까 모든게 다 끝났어! 너무 홀가분해.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15409,5fb8e6af4c55eb78bd7cdf00,쓰레기통에서 역겨운 냄새가 나고 있어.,disgust,angry,sadness,neutral,disgust,sadness,sad,2
+15410,5f82754ff8fac448cc0a6929,내가 쓰레기를 함부로 버려서 생긴 일이니까 힘들어도 얼른 치워야지.,disgust,sadness,disgust,sadness,disgust,sadness,sad,2
+15411,5f791c15d338b948c4e68d03,결승선을 통과하니까 힘든 게 싹 사라지더라.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15412,5f5c3d87b8781316283498d3,바다 가서 수영하는 거였는데 다 망쳤어.,angry,angry,angry,sadness,disgust,angry,angry,3
+15413,5f676f3c111dfd48d40fcc23,곰팡이 제거제를 사용하면 효과가 있을까?,angry,neutral,angry,sadness,disgust,sadness,sad,2
+15414,5f6858eb9e04b149046cb83a,좋은데요? 어딘지 알려주세요.,neutral,surprise,happiness,happiness,happiness,happiness,happy,1
+15415,5fbce10f576e9378b67ad10d,몰라. 교통사고 났나봐.,neutral,neutral,angry,neutral,neutral,disgust,neutral,0
+15416,5f9a50419e04b149046ce511,"아, 진짜? 고마워. 내 생각해 주는 거 너밖에 없다.",sadness,happiness,sadness,happiness,sadness,happiness,happy,1
+15417,5f8a4c53d338b948c4e69d6a,완전히 끝났어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15418,5f881e6dd338b948c4e699fa,벌레 보자마자 바로 찍어놨어.,disgust,disgust,angry,sadness,disgust,disgust,disgust,4
+15419,5f6c8029d338b948c4e6874f,집 안까지는 물이 들어오지 않았어.,fear,fear,fear,sadness,fear,sadness,fear,5
+15420,5fbdb78c44697678c497bd27,줄이 좀 오래 써가지고 그냥 끊어졌나봐.,surprise,sadness,sadness,neutral,neutral,sadness,sad,2
+15421,5fba3b57576e9378b67ac870,"아니. 해피가 갑자기 줄을 끊고, 끊고 도망친 거야!",surprise,angry,angry,angry,neutral,surprise,angry,3
+15422,5fb4b81ecb503578af9ed91d,정말? 그런 거 같기도 해 생각해보니까.,angry,surprise,surprise,neutral,surprise,surprise,surprise,6
+15423,5fb8767d4c55eb78bd7cdc34,음식물쓰레기가 썩고 있었어.,disgust,neutral,neutral,neutral,angry,neutral,neutral,0
+15424,5fb4ccdd44697678c497abbb,나 너무 우울해.,sadness,neutral,sadness,neutral,sadness,sadness,sad,2
+15425,5f66040bf8fac448cc0a5908,아니 요즘은 다들 왜 그러는지 모르겠어.,angry,disgust,angry,angry,angry,angry,angry,3
+15426,5f8ac79b9e04b149046cd23e,벌레가 나온 짜장면을 보는 순간 너무 더러워서 먹을 수가 없었어.,disgust,disgust,angry,disgust,disgust,disgust,disgust,4
+15427,5f8787d4111dfd48d40fe250,맞아. 몸도 축축 쳐지고 기분도 이상해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15428,5f8083fd9e04b149046cc35a,좋아! 신나는 음악 드고 스트레스 풀 거야!,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+15429,5f97f6a0111dfd48d40ff5aa,다행히 내가 막 달려가서 해피를 안고 왔기 때문에 아무 일도 없었어.,surprise,neutral,surprise,sadness,neutral,neutral,neutral,0
+15430,5fb38b9d48cdda3a922e4fc3,일이 좀 힘들어.,neutral,neutral,disgust,neutral,neutral,neutral,neutral,0
+15431,5f902647f8fac448cc0a7d9a,아후 짜증나! 그 새끼 일 끝났으면 빨리 집에나 가지. 남아서 자꾸 나한테 뭐라고 해!,angry,angry,angry,angry,angry,angry,angry,3
+15432,5fbb4c2a44697678c497b620,몰라도 돼. 넌 내 마음을 알 수 없을 거야.,sadness,disgust,sadness,neutral,happiness,disgust,disgust,4
+15433,5f87c2d39e04b149046cce0a,"그래, 알겠어. 얼마나 예쁘고 비싼 향순지 보여줄게.",happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+15434,5fbb7fbbcb503578af9ee53a,그게 좋을 것 같아.,disgust,neutral,neutral,neutral,sadness,sadness,neutral,0
+15435,5fbb69afcb503578af9ee4b6,지난 번에 신청한 이벤트!,happiness,neutral,neutral,neutral,neutral,neutral,neutral,0
+15436,5fba1d3844697678c497b329,아니 한 명 뽑는 건데 내가 됐다니까? 말이 돼?,happiness,angry,neutral,neutral,neutral,angry,neutral,0
+15437,5f786f02111dfd48d40fd5e4,헐! 나 이벤트에 당첨되었어.,happiness,surprise,happiness,happiness,surprise,happiness,happy,1
+15438,5fbcc3f3576e9378b67ad053,그거 써봤는데 효과가 하나도 없어.,angry,neutral,neutral,sadness,happiness,disgust,neutral,0
+15439,5f60182754b2361621284a84,쓰레기통에서 역겨운 냄새가 나고 있어!,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+15440,5fbe0fa144697678c497bf51,나 오늘 짭새가 있길래 구경갔다왔어.,neutral,surprise,neutral,neutral,neutral,happiness,neutral,0
+15441,5f6295f63bd6941613f6d618,너가 당해 보지 않아서 몰라 나한테 짜증내고 화내고 얼마나 화가 났는지 알아?,angry,angry,angry,angry,angry,angry,angry,3
+15442,5fb87bff44697678c497ad8c,술병을 들고있긴 했는데 금방 잡혔어.,neutral,neutral,sadness,neutral,sadness,neutral,neutral,0
+15443,5f8306939e04b149046cc685,사회적 거리두기 때문에 회사가 재택근무 한대.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15444,5fb87430cb503578af9edabf,마라톤 신기록을 갱신했어.,happiness,sadness,neutral,neutral,neutral,neutral,neutral,0
+15445,5fb8e916cb503578af9eddda,그러면 그렇게 부르면 안 되겠네?,neutral,neutral,neutral,neutral,neutral,angry,neutral,0
+15446,5fbe1066cb503578af9eec89,나 이벤트에 당첨됐어.,happiness,angry,angry,neutral,happiness,angry,angry,3
+15447,5fbca05744697678c497bacc,좋은 생각이야.,angry,neutral,neutral,neutral,neutral,happiness,neutral,0
+15448,5f77d98a9e04b149046cc07d,너가 추천한 곳이니까 믿고 먹을 수 있을 것 같아. 친구랑 같이 다녀올게.,neutral,neutral,happiness,happiness,happiness,happiness,happy,1
+15449,5fb8885c576e9378b67ac272,한 명 뽑는 거였어.,happiness,sadness,neutral,neutral,neutral,neutral,neutral,0
+15450,5fbc828fcb503578af9ee733,지금은 바로 집에 올라와서 쉬고 있어.,surprise,neutral,sadness,neutral,neutral,sadness,neutral,0
+15451,5fb8a86744697678c497ae9b,많이 무서워 어떻게 할지 모르겠어.	,fear,neutral,neutral,neutral,neutral,neutral,neutral,0
+15452,5fbb4dc04c55eb78bd7ce4c7,당연하지. 시간될 때 말해.,happiness,sadness,neutral,neutral,happiness,neutral,neutral,0
+15453,5f3dc7128a3c1005aa97cb94,이게 상품이 좋은 거라서 딱 한 명만 뽑는 거였어.,happiness,happiness,happiness,happiness,happiness,angry,happy,1
+15454,5f7002c9d338b948c4e68a0a,냄새를 방향제로 처리하는게 가장 좋은 방법같아.,disgust,neutral,disgust,disgust,disgust,disgust,disgust,4
+15455,5f670de0d338b948c4e6824d,비 맞을 일은 없으니까 괜찮아. 건강도 나쁘지 않아.,neutral,neutral,happiness,sadness,neutral,neutral,neutral,0
+15456,5f6166c93bd6941613f6d505,이번 마라톤 대회에서 내 기록이 몰라보게 향상되었어!,happiness,happiness,happiness,happiness,happiness,surprise,happy,1
+15457,5f89a1c39e04b149046cd121,나 너무 우울해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15458,5f83f205d338b948c4e69338,어쩌겠어. 내 실수로 그런 거니까 깨끗이 치워야지.,disgust,sadness,disgust,sadness,disgust,sadness,sad,2
+15459,5fb89952576e9378b67ac31f,나 오늘 짭새가 몰려있길래 궁금해서 구경해봤어.,neutral,sadness,neutral,neutral,neutral,neutral,neutral,0
+15460,5fbc6ad04c55eb78bd7ce7b9,고객들 중에 한 명만 향수를 주는 이벤트인데 내가 당첨되었어.,happiness,neutral,neutral,neutral,happiness,neutral,neutral,0
+15461,5f61651454b2361621284b5f,내 휴가가 정말 엉망이야.,angry,angry,angry,sadness,sadness,sadness,sad,2
+15462,5f8bc7c4d338b948c4e69f16,비 맞을 일은 없어. 건강은 아주 괜찮아.,neutral,neutral,happiness,sadness,neutral,neutral,neutral,0
+15463,5f97fb8ef8fac448cc0a839d,당연히 선물 때문에 내가 이벤트에 신청한 건데.,happiness,neutral,happiness,happiness,happiness,neutral,happy,1
+15464,5f41d5f79dd513131eaceee8,"10km 마라톤 대회에 출전했는데, 이전의 내 기록을 훨씬 경신했어. 너무 기뻐!",happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15465,5f98c466111dfd48d40ff701,나 오늘 짭새가 몰려있길래 궁금해서 구경 다녀왔어.,neutral,surprise,fear,surprise,neutral,surprise,surprise,6
+15466,5f6c5cedf8fac448cc0a5ef3,거 같아. 진짜 고마워.,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+15467,5fbb301d44697678c497b579,알겠어. 스트레칭 한 번 시도해볼게.,sadness,sadness,sadness,neutral,neutral,neutral,neutral,0
+15468,5f70a5c7d338b948c4e68a74,오랜만에 가족들이랑 여행을 다녀오는 것도 의미가 있을 것 같아.,happiness,neutral,happiness,happiness,happiness,happiness,happy,1
+15469,5fb9ca48576e9378b67ac5b3,나 오늘 짭새 구경했다.,neutral,neutral,neutral,neutral,happiness,neutral,neutral,0
+15470,5fbc9b044c55eb78bd7ce8d3,나 너무 우울해.,sadness,sadness,sadness,sadness,neutral,sadness,sad,2
+15471,5f8cdae1111dfd48d40feaa7,너무 많이 내려가서 손해를 보고 있어. 너무 속상해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15472,5f62b2953bd6941613f6d623,덕분에 쉽게 해결이 된 것 같아. 고마워.,neutral,happiness,happiness,happiness,happiness,happiness,happy,1
+15473,5fbc664944697678c497b8f5,한 명인데 내가 됐다?,happiness,neutral,sadness,neutral,neutral,neutral,neutral,0
+15474,5fbcde444c55eb78bd7ceac8,예전에 버린 쓰레기 때문인가봐.,disgust,neutral,angry,neutral,happiness,neutral,neutral,0
+15475,5f5b5c632e23c7161acccefd,선수처럼 잘 뛰진 않고 내 기록보다 훨씬 기록이 단축되었어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15476,5f91816f9e04b149046cdbab,사람들이 너무 많아서 앞이 보이지 않아서 30분만 구경하고 왔어.,neutral,neutral,fear,sadness,neutral,neutral,neutral,0
+15477,5fb3836c75b0a9389bf39761,나 축하해줘! 기분 좋은 일 있었어.,happiness,neutral,neutral,neutral,neutral,neutral,neutral,0
+15478,5f6708099e04b149046cb6fe,상황 봐서 손해 보더라고 팔아야겠지.,sadness,fear,sadness,sadness,sadness,sadness,sad,2
+15479,5f866803f8fac448cc0a6e50,짜장면에서 벌레가 나왔어!,disgust,disgust,angry,disgust,disgust,disgust,disgust,4
+15480,5fb8e0dacb503578af9edd76,그 것도 괜찮은 거 같애.,happiness,happiness,neutral,neutral,neutral,angry,neutral,0
+15481,5f5cc4dc3bd6941613f6d185,선물이 마음에 드니까 이벤트에 신청했지. 아주 비싼 향수야.,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+15482,5fbc462244697678c497b8af,삼성전자를 꾸준히 매집했대.,sadness,neutral,angry,neutral,happiness,neutral,neutral,0
+15483,5fbca363576e9378b67acf5d,아무도 대답을 안 해.,fear,sadness,sadness,sadness,neutral,fear,sad,2
+15484,5fbb2dba576e9378b67ac99e,이야기 하고 싶지. 너무 슬프고 같이 얘기해줄 사람이 필요해.,sadness,sadness,neutral,neutral,neutral,neutral,neutral,0
+15485,5fbdcddfcb503578af9eeb0b,헐 나 이벤트 당첨됐어.,happiness,sadness,happiness,surprise,happiness,fear,happy,1
+15486,5fb891d944697678c497ae26,어 나 한번 써볼래.,angry,happiness,neutral,neutral,neutral,neutral,neutral,0
+15487,5fb8a3d4576e9378b67ac327,거기 다시는 안 시킬 거야.	,disgust,happiness,sadness,neutral,neutral,angry,neutral,0
+15488,5f8aef45111dfd48d40fe77c,그러니까. 먹다가 토하는 줄 알았어.,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+15489,5f8e25d9d338b948c4e6a328,요즘 건강은 괜찮아. 그리고 사무실에 우산 있으니까 걱정하지 마.,neutral,neutral,happiness,sadness,neutral,neutral,neutral,0
+15490,5fbb7b6dcb503578af9ee52d,나 엘레베이터에 갇혔어.,fear,fear,fear,neutral,neutral,neutral,neutral,0
+15491,5fb3876275b0a9389bf39784,너랑 얘기하면서 좀 나아졌어.,surprise,neutral,neutral,sadness,neutral,sadness,neutral,0
+15492,5f6084433bd6941613f6d456,나 오늘 짭새가 몰려 있길래 궁금해서 구경 다녀 왔어.,neutral,surprise,fear,angry,neutral,neutral,neutral,0
+15493,5fbe0eb24c55eb78bd7ced4a,음 글쎄? 기분이 더 좋아지는 건 아닌 거 같아.,neutral,neutral,sadness,neutral,neutral,sadness,neutral,0
+15494,5fba160dcb503578af9ee03a,"한 달 동안 고생한 프로젝튼데, 이제 완전히 끝났어.",happiness,sadness,neutral,surprise,neutral,neutral,neutral,0
+15495,5f6ddf05111dfd48d40fd1ed,당첨자는 딱 한 명 뽑는 거였어.,happiness,happiness,happiness,happiness,happiness,sadness,happy,1
+15496,5fb9c0d0cb503578af9ede47,놀러 나가지도 못하고 맨날 집에만 있으니까 우울해.,sadness,sadness,sadness,neutral,happiness,sadness,sad,2
+15497,5f6b6b0af8fac448cc0a5e21,진짜? 내일 비 온대? 흠. 우산 없는데.,neutral,fear,angry,sadness,neutral,neutral,neutral,0
+15498,5f87b007111dfd48d40fe292,드디어 끝났어!,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+15499,5fb8c92244697678c497af55,아! 짜증 나! 그 새끼는 할 일 없으면 집에나 갈 것이지. 왜 나한테만 그러지?,angry,angry,angry,angry,angry,angry,angry,3
+15500,5fbe293044697678c497bff2,나 주식 시작했어.,sadness,sadness,sadness,neutral,neutral,sadness,sad,2
+15501,5f808513111dfd48d40fd896,그러니깐 자고 일어났더니 우리 집 주변이 다 물에 잠겨 있어!,fear,fear,fear,sadness,fear,sadness,fear,5
+15502,5fb33812e3dcec421f8357a4,네. 벌레를 봤더니 속이 안좋아요.,disgust,neutral,neutral,neutral,happiness,neutral,neutral,0
+15503,5f41cbfb9dd513131eacee97,"평점과 리뷰가 좋다고 하니까, 어떤.",neutral,neutral,happiness,neutral,neutral,happiness,neutral,0
+15504,5f8ea45cf8fac448cc0a7ad8,마라톤 대회에서 기존의 기록을 갱신했거든.,happiness,happiness,happiness,happiness,happiness,surprise,happy,1
+15505,5fb4dc0944697678c497ac6e,내가 잘못 생각한 것 같애.,neutral,sadness,neutral,neutral,sadness,neutral,neutral,0
+15506,5fbcdfb54c55eb78bd7cead5,보니깐 사람들 시비 걸렸더라고. 그거 제재하러 간 거 같애.,neutral,neutral,neutral,neutral,neutral,neutral,neutral,0
+15507,5f8867ded338b948c4e69adf,내가 10km 마라톤 대회 출전 했는데 예전에 내 기록을 훨씬 갱신 했어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15508,5fb49868cb503578af9ed88e,응. 그래서 짭새들이 항상 바쁘지.,neutral,neutral,neutral,sadness,neutral,neutral,neutral,0
+15509,5fbb69c8576e9378b67acb6e,한 명 뽑는 거였어.,happiness,happiness,neutral,neutral,happiness,happiness,happy,1
+15510,5fb38178e3dcec421f835883,단 한 명.,happiness,neutral,neutral,neutral,neutral,neutral,neutral,0
+15511,5f90244e9e04b149046cda95,화장실은 아무리 청소를 해도 곰팡이가 안 없어져.,angry,disgust,angry,disgust,disgust,disgust,disgust,4
+15512,5f5c1f762e23c7161acccfb9,그건 알 수 없고 아무튼 구경 잠깐 했어.,neutral,neutral,disgust,sadness,neutral,angry,neutral,0
+15513,5f5f655154b23616212849f9,아무거나 다 하고 싶어. 다 알려 줘.,happiness,neutral,happiness,happiness,happiness,sadness,happy,1
+15514,5f992fb4111dfd48d40ff7fe,"아니, 아까 해피 산책시키다가 깜짝 놀랐어.",surprise,surprise,surprise,surprise,neutral,surprise,surprise,6
+15515,5f62cbcb54b2361621284cb2,오랜만에 휴가냈는데 밖에는 비가 너무 와가지고.,angry,disgust,angry,sadness,sadness,sadness,sad,2
+15516,5fbc98e8576e9378b67acea2,너무 불쾌했어.,disgust,neutral,happiness,neutral,neutral,neutral,neutral,0
+15517,5f5d727e54b236162128486f,선수는 아니고 내가 달리는 운동을 너무 좋아해서 매년 마라톤 대회에 출전하고 있어. 그래서 내 기록을 갱신하려고 노력하고 있어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15518,5f5eb1052e23c7161accd15a,너가 추천한 곳이니까 정말 맛있을 거 같아! 고마워. 친구랑 잘 다녀올게.,neutral,happiness,happiness,happiness,happiness,happiness,happy,1
+15519,5fbe0a6b576e9378b67ad34b,응! 너무 맘에 들어.,happiness,sadness,happiness,happiness,happiness,happiness,happy,1
+15520,5f66126b9e04b149046cb628,내가 쓰레기통에 음식물쓰레기를 버렸는데 그게 상해서 냄새가 났어.,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+15521,5f83c8e79e04b149046cc750,내가 음식물 쓰레기를 쓰레기통에 버려서 냄새가 나는 거야.,disgust,neutral,disgust,disgust,disgust,sadness,disgust,4
+15522,5f8868c0d338b948c4e69ae4,함께 달리는 크루가 있어서 지치고 힘들 때 큰 힘이 되어줘.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15523,5fb9fbeccb503578af9edfba,맞아. 아무 이유 없이 슬픈게 너무 힘들어.,sadness,fear,sadness,sadness,neutral,sadness,sad,2
+15524,5f5b7bbb2e23c7161acccf5d,나 어제 자다가 놀라서 깼어.,surprise,surprise,surprise,sadness,neutral,surprise,surprise,6
+15525,5fb33a870fb0f33aa31ca181,나 너무 우울해.,sadness,sadness,neutral,neutral,neutral,sadness,neutral,0
+15526,5fb8e5164c55eb78bd7cdef0,나 요즘 주식을 시작했어.,sadness,neutral,neutral,neutral,neutral,sadness,neutral,0
+15527,5f917c52d338b948c4e6a7db,아까 해피를 산책시키다가 깜짝 놀랐어!,surprise,surprise,surprise,surprise,fear,fear,surprise,6
+15528,5f831d9f111dfd48d40fdc27,습기가 많아지면서 곰팡이가 생기니가 너무 신경 쓰여.,angry,disgust,angry,disgust,disgust,sadness,disgust,4
+15529,5f66059fd338b948c4e6814c,유명한 인플루언서가 이벤트를 하더라고.,happiness,neutral,happiness,happiness,happiness,surprise,happy,1
+15530,5f60bb693bd6941613f6d483,최종 발표를 마쳤으니까 이제 완전히 끝난거야! 마음이 홀가분해.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15531,5f87bb4e9e04b149046ccde9,몸은 괜ㅊ낳은데 혼자 있는 게 너무 무섭고 집 안으로 물이 들어올까봐 너무 겁나.,fear,fear,fear,sadness,fear,fear,fear,5
+15532,5f640d4d24c86141a01b11ab,선수처럼 잘 뛰진 않아. 한 10분 정도 단축한 것 같아. 내 기록을.,happiness,happiness,happiness,happiness,happiness,sadness,happy,1
+15533,5f674960d338b948c4e68283,어제 자고 있는데 갑자기 천둥 번개가 엄청나게 큰게 치는 거야!,surprise,surprise,surprise,surprise,disgust,surprise,surprise,6
+15534,5f9936acd338b948c4e6aef8,진 것 같애. 어떻게 하지?,fear,fear,fear,fear,fear,fear,fear,5
+15535,5fbdd6c3576e9378b67ad2a9,방향제 뿌리고 환기시킬려고 해.,disgust,sadness,sadness,sadness,neutral,sadness,sad,2
+15536,5fb8dfcacb503578af9edd68,짜장면에서 벌레가 나왔어!,disgust,surprise,angry,neutral,angry,angry,angry,3
+15537,5f85c2229e04b149046ccac2,내가 얼른 달려가서 해피를 안고 왔기 때문에 다행히 아무 일도 없었어.,surprise,neutral,surprise,sadness,fear,sadness,sad,2
+15538,5fbb3b7644697678c497b5c9,그냥 짭새들이 모여있길래 궁금해서 그냥 간 거야.,neutral,disgust,neutral,sadness,neutral,neutral,neutral,0
+15539,5fb48b1c576e9378b67abef1,그럴까? 조금만 더 지켜볼까?,sadness,neutral,angry,neutral,neutral,neutral,neutral,0
+15540,5fbe0ec7576e9378b67ad37b,그것도 괜찮네.,sadness,sadness,sadness,neutral,neutral,sadness,sad,2
+15541,5f6368b054b2361621284d73,"내가 지금 노트북을 여기 저기 살펴봤는데 이상한 곳이 하나도 없고, 작동이 너무나 잘 돼.",happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15542,5f8a3b74111dfd48d40fe6bb,지금 버릴려고 했어. 그래도 화 내지마.,disgust,neutral,disgust,sadness,disgust,angry,disgust,4
+15543,5f7095c69e04b149046cbf07,오랜만에 가족들이랑 동해 바다에 가서 놀다 오기로 했어.,angry,neutral,angry,sadness,sadness,sadness,sad,2
+15544,5f61f34c54b2361621284bd5,나 오늘 짭새가 몰려 있길래 궁금해서 구경 다녀 왔어.,neutral,neutral,fear,sadness,neutral,neutral,neutral,0
+15545,5f6f3bc8111dfd48d40fd2d7,알았어. 지금 바로 묶어서 버릴게.,disgust,neutral,disgust,sadness,disgust,disgust,disgust,4
+15546,5f8af25f111dfd48d40fe782,딱 한 명 뽑았어. 그게 내가 된 거지.,happiness,happiness,happiness,sadness,happiness,sadness,happy,1
+15547,5f8acb659e04b149046cd240,당첨자는 한 명 뽑는 거였는데 내가 당첨됐어. 운이 좋지?,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15548,5f5c43cf54b23616212847ba,어. 빨리 뜯어서 켜봐야겠어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15549,5f6985e6f8fac448cc0a5c60,놀랬지. 난리도 아니었어.,surprise,neutral,surprise,sadness,disgust,surprise,surprise,6
+15550,5fbc66ef576e9378b67acd53,해피가 줄을 끊고 달려갔어.,surprise,surprise,sadness,surprise,neutral,fear,surprise,6
+15551,5fb37c6e75b0a9389bf396e3,이제 끝나서 결과만 기다리면 돼.,happiness,neutral,neutral,neutral,happiness,neutral,neutral,0
+15552,5fbca4e3cb503578af9ee854,내 가서 구경했어.,neutral,neutral,neutral,neutral,neutral,sadness,neutral,0
+15553,5fbc9de5576e9378b67acf0c,맞아. 다시 먹고 싶지 않았어.,disgust,neutral,neutral,neutral,happiness,sadness,neutral,0
+15554,5f6816fbf8fac448cc0a5acf,오늘 최종 발표를 마쳤으니까 완전히 끝난거지.,happiness,neutral,happiness,sadness,happiness,happiness,happy,1
+15555,5f41d3659dd513131eaceed1,"노래는 신나는 노래가 좋고, 영화는 재밌게 웃을 수 있는 영화였으면 좋겠어.",sadness,neutral,happiness,sadness,sadness,sadness,sad,2
+15556,5f3e94089dd513131eace3a2,"아니, 아까 해피 산책시키다가 깜짝 놀랐어.",surprise,surprise,surprise,surprise,sadness,surprise,surprise,6
+15557,5f8cdc979e04b149046cd57f,쓰레기통에서 역겨운 냄새가 나고 있어.,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+15558,5f67e04df8fac448cc0a5a86,선수처럼 잘 하는 건 아니고 그냥 내 기록만 단축되었다고.,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+15559,5f90fcc49e04b149046cdb56,해줘. 기분 좋은 일이 생겼어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15560,5f5c0ab03bd6941613f6d0df,이번주부터 일주일 동안 휴가인데 휴가기간 내내 비 소식이 있어. 짜증나!,angry,disgust,angry,angry,disgust,angry,angry,3
+15561,5f71ce229e04b149046cbf83,그렇게 좋은 보험도 있었어? 지금 당장 가입해야지.,happiness,surprise,happiness,happiness,happiness,happiness,happy,1
+15562,5fbc9a2e576e9378b67acec7,몰라? 그건 모르겠어. 근데 엄청 차가 많았어. 경찰차가.,neutral,surprise,surprise,neutral,neutral,neutral,neutral,0
+15563,5f5d695cb878131628349973,기분을 전환하는덴 음악만한게 없는 것 같아. 음악을 한 번 들어볼게.,sadness,neutral,happiness,happiness,neutral,happiness,happy,1
+15564,5f8ad1b89e04b149046cd252,나 요즘 주식을 시작했는데.,sadness,neutral,neutral,sadness,sadness,sadness,sad,2
+15565,5f7894a79e04b149046cc120,집에서 쉬고 났더니 마음이 진정 되었어.,surprise,neutral,surprise,sadness,neutral,neutral,neutral,0
+15566,5fbc9caf4c55eb78bd7ce8ef,알겠어. 냄새까지 없애는 걸로 좀 찾아봐줘.,disgust,angry,sadness,sadness,neutral,sadness,sad,2
+15567,5f6e03dfd338b948c4e688a3,나 오늘 짭새가 몰려왔길래 구경 갔다왔어.,neutral,neutral,fear,angry,neutral,sadness,neutral,0
+15568,5f85192ef8fac448cc0a6c28,내가 10km 마라톤 대회에 출전해서 이전의 내 기록을 훨씬 갱신했어!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15569,5f9a7b989e04b149046ce530,좀 그렇지만 그래도 너무 짜증나니까 할 수 없어.,angry,angry,angry,angry,angry,angry,angry,3
+15570,5f5ec4eab878131628349a94,그런게 있으면 지금 당장 구매해야지.,angry,neutral,happiness,sadness,neutral,neutral,neutral,0
+15571,5fba3e1b4c55eb78bd7ce2dd,그래야겠다. 환기가 필요한 것 같아.,angry,happiness,neutral,neutral,neutral,angry,neutral,0
+15572,5f8daec5f8fac448cc0a79ee,방향제가 과연 효과가 있을까?,disgust,surprise,angry,sadness,disgust,sadness,sad,2
+15573,5fbca1f6cb503578af9ee827,그 한명이 나야.,happiness,happiness,happiness,neutral,happiness,happiness,happy,1
+15574,5f5e1319b878131628349a09,날 위해서 그렇게 해주는 거야? 너무 고마워. 나는 신나는 노래가 좋더라.,sadness,happiness,happiness,happiness,sadness,sadness,happy,1
+15575,5fbc88fe576e9378b67ace61,아 짜증나. 그새끼는 나한테만 왜 지랄일까?,angry,angry,disgust,angry,neutral,angry,angry,3
+15576,5f825907d338b948c4e69153,내가 좋아하는 인플루언서가 하는 이벤트에 당첨됐어.,happiness,neutral,happiness,sadness,happiness,happiness,happy,1
+15577,5f90cffcf8fac448cc0a7ded,이번에 상장한 빅히트 엔터테인먼트 주식이야.,sadness,neutral,sadness,sadness,sadness,sadness,sad,2
+15578,5f846bf5111dfd48d40fdda3,짜장면에서 벌레가 나왔어.,disgust,disgust,angry,disgust,disgust,disgust,disgust,4
+15579,5f895036f8fac448cc0a72f0,나 드디어 프로젝트 끝났어!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15580,5f6363e5b878131628349ec5,잠결에 들어서 그런가 폭탄 터지는 소리가 나더라고.,surprise,surprise,surprise,sadness,disgust,fear,surprise,6
+15581,5f5ebb9bb878131628349a7e,난 둘 다 다 좋아. 내 친구도 그럴 걸?,neutral,neutral,happiness,happiness,neutral,neutral,neutral,0
+15582,5f8da7679e04b149046cd6be,누군가 싸우는지 시끄럽고 소리지르고 난리가 아니야.,neutral,disgust,fear,sadness,disgust,angry,disgust,4
+15583,5f9923b6d338b948c4e6ae89,나 드디어 프로젝트가 끝났어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15584,5f9225579e04b149046cdbfc,갑자기 해피의 목줄이 끊어지면서 해피가 막 달려나갔어.,surprise,neutral,surprise,sadness,fear,surprise,surprise,6
+15585,5f3f40ec9dd513131eace791,코로나로 재택근무를 시작하면서 매일 집에 있다보니까 마음이 울적해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15586,5f8c4c0df8fac448cc0a76f3,아니. 아까 해피랑 산책하는데 정말 깜짝 놀랐잖아.,surprise,surprise,surprise,surprise,disgust,angry,surprise,6
+15587,5f813397f8fac448cc0a67b2,영화는 영화관에서 봐야 제맛인데. 할 수 없지 뭐.,sadness,neutral,sadness,sadness,sadness,sadness,sad,2
+15588,5f70aa739e04b149046cbf16,나 요즘 주식을 시작했어.,sadness,neutral,neutral,sadness,sadness,sadness,sad,2
+15589,5f830844111dfd48d40fdbb8,당연히 선물은 맘에 들지! 아주 비싼 향수야.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15590,5fbc9a76576e9378b67acecd,완전. 그냥 나를 종으로 알아 종으로. 나한테 다 시켜.,angry,disgust,sadness,disgust,happiness,angry,disgust,4
+15591,5f41d38e9dd513131eaceed3,나 아까 해피를 산책시키다가 깜짝 놀랐어.,surprise,surprise,surprise,surprise,surprise,surprise,surprise,6
+15592,5f6e8bd99e04b149046cbd94,맞아. 밖에 나가서 활동해야 되는데 정말 미치겠어.,sadness,disgust,sadness,sadness,sadness,sadness,sad,2
+15593,5fbe23c3576e9378b67ad3cb,응. 이제 완전히 끝났어. 우리 이제 놀 수 있어.,happiness,sadness,disgust,sadness,happiness,sadness,sad,2
+15594,5fb8a824cb503578af9edc3c,헐 나 이벤트 당첨됐어!,happiness,happiness,happiness,neutral,happiness,happiness,happy,1
+15595,5f8bc118d338b948c4e69f06,헐. 나 이벤트 당첨됐어.,happiness,surprise,happiness,happiness,surprise,surprise,surprise,6
+15596,5f71323ed338b948c4e68ab8,그것도 좋은 생각이네. 약속 잡아야되겠다.,happiness,neutral,happiness,happiness,happiness,happiness,happy,1
+15597,5f984a17f8fac448cc0a8469,코로나때문에 재택 근무를 시작하면서 집 안에만 있으니까 마음이 울적해졌어.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15598,5fbdd2a5cb503578af9eeb43,와 짜장면에서 벌레나왔다.,disgust,disgust,disgust,surprise,angry,disgust,disgust,4
+15599,5f7079e4d338b948c4e68a1a,곰팡이 제거제가 효과가 있대?,angry,surprise,angry,sadness,disgust,surprise,surprise,6
+15600,5f85bcdd111dfd48d40fdf7c,나 아무래도 갇힌 것 같아. ,fear,fear,fear,sadness,fear,fear,fear,5
+15601,5f66c8aa9e04b149046cb6a0,나 축하해줘! 기분 좋은 일이 생겼어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15602,5f65e5fd9e04b149046cb5bc,내가 좋아하는 인플루언서가 있는데 거기서 이벤트를 해서 당첨됐어.,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+15603,5fbe314a44697678c497c05c,응. 그것도 좋다. 정말 고마워.,happiness,sadness,angry,neutral,neutral,happiness,neutral,0
+15604,5f6bd6c3111dfd48d40fd032,아주 유명한 인플루언서가 이벤트를 하고 있더라고.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15605,5f66e5309e04b149046cb6c5,내가 좋아하는 인플루언서가 하는거야.,happiness,neutral,happiness,happiness,happiness,neutral,happy,1
+15606,5f6d823a9e04b149046cbd04,우리 사장님은 내가 그렇게 미운가 봐. 나만 그렇게 부려먹어.,angry,angry,angry,angry,angry,sadness,angry,3
+15607,5fb8c2b0cb503578af9edcab,응. 신나는 음악 듣고싶어.,happiness,neutral,angry,neutral,neutral,neutral,neutral,0
+15608,5f8e8f0f9e04b149046cd7c8,짭새 쫓아갔다가 우산도 잃어버리고 왔어.,neutral,disgust,angry,angry,disgust,angry,angry,3
+15609,5f62cd4654b2361621284cb8,그거 너무 고맙네.,sadness,happiness,happiness,happiness,happiness,sadness,happy,1
+15610,5f5e086154b23616212848e0,나 드디어 프로젝트가 끝났어!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15611,5f9a72f8111dfd48d40ffa5f,"아, 진짜 이게 무슨 일이야. 정말 토할 것 같다.",disgust,disgust,angry,sadness,disgust,disgust,disgust,4
+15612,5f7003d99e04b149046cbea6,드디어 구매한 노트북이 도착했어.,happiness,neutral,happiness,happiness,happiness,surprise,happy,1
+15613,5f8b738ff8fac448cc0a7573,나 혼자 집 안에 갇히게 됐어! 어떡하지?,fear,fear,fear,sadness,fear,fear,fear,5
+15614,5fb9e98e44697678c497b1fe,서로 원만하게 잘 해결되면 좋지.,neutral,neutral,neutral,neutral,happiness,neutral,neutral,0
+15615,5f6ea9f3111dfd48d40fd276,해피가 갑자기 목줄을 끊고 도망 갔어.,surprise,surprise,surprise,surprise,neutral,neutral,surprise,6
+15616,5fbc8594576e9378b67ace45,운동하면서 스트레스 좀 풀려고.,angry,neutral,neutral,neutral,happiness,neutral,neutral,0
+15617,5f3f4f389dd513131eace7e3,어. 사방이 다 물로 막혀있어.,fear,sadness,fear,sadness,fear,fear,fear,5
+15618,5f60b8ab3bd6941613f6d47e,곰팡이 제거제가 곰팡이를 제거하는데 효과가 있다고 하니까 나 구매해 볼래.,angry,neutral,happiness,sadness,disgust,sadness,sad,2
+15619,5fb9e345576e9378b67ac63d,총 다섯 명 뽑는 거였어.,happiness,happiness,disgust,sadness,happiness,happiness,happy,1
+15620,5f6fce1ad338b948c4e689a9,그렇지. 궁금하지. 그래서 구경 갔는데 입구에서부터 막아대더라고.,neutral,neutral,fear,angry,disgust,angry,angry,3
+15621,5f86e44e9e04b149046ccc40,다행히 그런 일은 없었어. 놀라긴 했지만.,surprise,neutral,surprise,sadness,disgust,surprise,surprise,6
+15622,5f6381673bd6941613f6d755,응. 해피가 사람들한테 달려들진 않아서 괜찮았어.,surprise,neutral,surprise,sadness,neutral,neutral,neutral,0
+15623,5f5cc71b3bd6941613f6d187,내가 마라톤 대회 신청했었잖아. 그런데 내 기록보다 훨씬 잘 나왔어!,happiness,happiness,happiness,happiness,happiness,surprise,happy,1
+15624,5fb33f54e3dcec421f8357e1,쓰레기통에서 역겨운 냄새가 나고 있어.,disgust,disgust,disgust,sadness,sadness,disgust,disgust,4
+15625,5f894699111dfd48d40fe54c,너무너무 짜증 난다. 정말.,angry,angry,angry,angry,angry,angry,angry,3
+15626,5f5b54ee54b23616212846ba,정말 고마워. 잘 먹고 올게.,neutral,neutral,happiness,happiness,happiness,neutral,happy,1
+15627,5f62bbad2e23c7161accd4cd,알았어. 잘 때 좀 걱정이 되긴 하네.,surprise,neutral,sadness,sadness,disgust,sadness,sad,2
+15628,5f714e66d338b948c4e68ad5,오늘 최종 발표를 했으니까 이제 완전히 끝난 거야. 마음이 너무 홀가분해.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15629,5f71cf39d338b948c4e68b07,나 집에 갇힌 것 같아.,fear,fear,fear,sadness,fear,fear,fear,5
+15630,5f846e58f8fac448cc0a6bc9,내가 너무나 좋아하는 인플루언서가 진행하는 이벤트가 있었는데 거기에 당첨되었어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15631,5f5cc075b87813162834990c,이왕이면 두 군데 다 알려주면 안될까?,neutral,neutral,neutral,happiness,neutral,sadness,neutral,0
+15632,5f6f54d9f8fac448cc0a6105,너무 좋지. 우리는 양이 많으면 너무 행복해. 너무 마음이 편해.,neutral,happiness,happiness,happiness,happiness,happiness,happy,1
+15633,5f60ba9154b2361621284b02,그렇지. 주위가 다 물 바다야.,fear,fear,fear,sadness,fear,sadness,fear,5
+15634,5f928bc79e04b149046cdc8e,몰라? 왜 몰려있는진 모르겠어.,neutral,neutral,fear,sadness,neutral,neutral,neutral,0
+15635,5f98c3f0f8fac448cc0a84e5,잠깐 했어. 한 10분 쯤?,neutral,neutral,fear,sadness,neutral,neutral,neutral,0
+15636,5f64b139f8fac448cc0a57a5,내 마음을 풀어줄려고 이렇게까지 하는거야? 정말 고마워.,sadness,happiness,happiness,happiness,sadness,surprise,happy,1
+15637,5fbb5b3ecb503578af9ee449,맞아. 뛰는 동안 가슴이 터지는 줄 알았어.,happiness,happiness,neutral,neutral,happiness,neutral,neutral,0
+15638,5fbb87044c55eb78bd7ce6a0,응. 그럴려고.,disgust,happiness,neutral,neutral,neutral,neutral,neutral,0
+15639,5f851608d338b948c4e6948d,증거로 사진을 보여주면 아무 소리 못 하겠지.,disgust,neutral,angry,angry,angry,angry,angry,3
+15640,5f6a99da9e04b149046cba4f,완전히 끝났어.,happiness,neutral,happiness,happiness,happiness,happiness,happy,1
+15641,5f3f36299dd513131eace6ee,냄새가 너무 심해서 방향제로 안될 수도 있어.,disgust,neutral,disgust,disgust,disgust,disgust,disgust,4
+15642,5f71e8eef8fac448cc0a62c7,오랜만에 가족들이랑 동해바다에 갔다오기로 했어.,angry,neutral,happiness,sadness,sadness,sadness,sad,2
+15643,5fbb54154c55eb78bd7ce51d,나 마라톤 기록 경신했다?,happiness,sadness,neutral,neutral,neutral,neutral,neutral,0
+15644,5f5b6029b878131628349811,그런게 있으면 지금 바로 가입해야지.,happiness,neutral,happiness,happiness,happiness,angry,happy,1
+15645,5f5c37e2b8781316283498c7,일식 요리 괜찮을 거 같아.,neutral,neutral,happiness,happiness,neutral,happiness,happy,1
+15646,5f788f069e04b149046cc117,내 마음을 달래주기 위해서 너가 노력하니까 기분이 좀 나아졌어.,sadness,neutral,happiness,happiness,neutral,neutral,neutral,0
+15647,5f427fe49dd513131eacf1d8,인플루언서가 진행하는 이벤트에 당첨돼서 기분이 엄청 좋아.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15648,5fba3ab24c55eb78bd7ce2ae,와 대박! 나 이벤트 당첨 됐어.,happiness,happiness,neutral,angry,surprise,surprise,surprise,6
+15649,5fba35f94c55eb78bd7ce27a,몰라. 아무래도 쓰레기들이 오래 돼서 상한 거 같아.,disgust,angry,angry,neutral,happiness,disgust,angry,3
+15650,5fbe2fbf576e9378b67ad4a1,짭새에 대한 이야기?,neutral,surprise,neutral,surprise,neutral,neutral,neutral,0
+15651,5f8a2b3e111dfd48d40fe6b2,힘들지만 집안에 벌레가 생기는 거보다 낫잖아 얼른 치워야겠어.,disgust,disgust,disgust,disgust,disgust,sadness,disgust,4
+15652,5fbc86a2576e9378b67ace50,나 오늘 짭새가 몰려 있길래 구경 갔다?,neutral,neutral,fear,neutral,neutral,disgust,neutral,0
+15653,5f8271d3d338b948c4e6916d,헐. 나 이벤트에 당첨되었어.,happiness,surprise,happiness,happiness,surprise,happiness,happy,1
+15654,5f8ad5ff9e04b149046cd266,내일 비가 많이 온대? 나 사무실에 우산 있어 걱정하지마.,neutral,fear,happiness,sadness,neutral,sadness,sad,2
+15655,5f61eff054b2361621284bc9,쓰레기통에서 역겨운 냄새가 나고 있어!,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+15656,5fbb6c16576e9378b67acb9b,선수는 아니고 평소에 조깅이나 마라톤 그리고 달리기를 좋아하는 정도?,happiness,neutral,neutral,neutral,happiness,happiness,neutral,0
+15657,5f6743f6f8fac448cc0a5a37,안그래도 지금 묶어가지고 버릴려고.,disgust,neutral,disgust,disgust,disgust,sadness,disgust,4
+15658,5fb4ce8ccb503578af9ed990,나 갇힌 것 같아.,fear,neutral,sadness,sadness,sadness,fear,sad,2
+15659,5fba3669cb503578af9ee147,응. 이제 완전히 끝이야. 할 거 없어 이제.,happiness,happiness,neutral,neutral,fear,neutral,neutral,0
+15660,5fb9e6b8cb503578af9edf59,짭새가 몰려있길래 궁금해서 구경갔다왔어.,neutral,surprise,neutral,neutral,neutral,happiness,neutral,0
+15661,5f984fd5d338b948c4e6ad53,헐. 나 이벤트에 당첨되었어.,happiness,happiness,happiness,happiness,happiness,surprise,happy,1
+15662,5f983d96d338b948c4e6ad37,프로젝트를 진행하느라고 한 달 동안 친구들을 못 만났는데 이번 기회에 만나 봐야겠어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15663,5fb33c50e3dcec421f8357d0,와 나 이벤트 당첨됐어.,happiness,surprise,happiness,surprise,surprise,surprise,surprise,6
+15664,5fb8e1e9576e9378b67ac48b,나 엘레베이터에 갇혔어.,fear,neutral,neutral,angry,sadness,neutral,neutral,0
+15665,5fbb2e7f4c55eb78bd7ce3ff,응. 좋아. 음악 추천해줄 수 있어?,happiness,sadness,neutral,neutral,neutral,neutral,neutral,0
+15666,5f6b78c9f8fac448cc0a5e40,시간이 가도 주식이 계속 떨어지고 손해를 보게 되었어.,sadness,fear,sadness,sadness,sadness,sadness,sad,2
+15667,5f6c321d9e04b149046cbbe3,내일 친구를 만나는데 뭘 먹을지 모르겠어.,neutral,fear,happiness,sadness,neutral,sadness,sad,2
+15668,5f673d3bf8fac448cc0a5a34,아 진짜? 요새 그런 것도 있어? 진짜 세상 참 많이 좋아졌다.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15669,5f71281bd338b948c4e68aa4,비가 너무 많이 와서 나갈 수가 없어.,angry,sadness,angry,sadness,sadness,sadness,sad,2
+15670,5f8505a8f8fac448cc0a6bfe,나 오늘 짭새가 몰려있길래 궁금해서 구경 다녀왔어.,neutral,neutral,fear,angry,neutral,neutral,neutral,0
+15671,5fbb5b154c55eb78bd7ce576,내가 마라톤에 나갔는데 이번에 내가 내 기록을 깼어.,happiness,happiness,happiness,neutral,neutral,happiness,happy,1
+15672,5f89ab209e04b149046cd13a,우산이 있으니 비는 안 맞아 건강도 괜찮아.,neutral,neutral,happiness,sadness,neutral,neutral,neutral,0
+15673,5fbb5636cb503578af9ee418,응. 그게 좋겠다. 얼른 방향제로 냄새 덮어놔야겠다.,disgust,neutral,sadness,neutral,sadness,neutral,neutral,0
+15674,5f805bcf9e04b149046cc2e3,나도 잘 모르겠어. 뭐가 썩나?,disgust,disgust,disgust,sadness,sadness,sadness,sad,2
+15675,5f6d3b749e04b149046cbc8b,지금은 많이 진정됐어. 하지만 또 그럴까 봐 겁이 나.,surprise,fear,fear,sadness,fear,sadness,fear,5
+15676,5f5f72a62e23c7161accd21d,아니. 그런 건 못봤어.,neutral,neutral,fear,angry,disgust,neutral,neutral,0
+15677,5fb8c10b4c55eb78bd7cddd5,너무 무기력해 뭘 해야 될지 모르겠어 나 있지.	,sadness,sadness,disgust,neutral,sadness,sadness,sad,2
+15678,5fbb56c0576e9378b67acae4,"아, 그 새끼는 왜 나한테만 지랄이야. 할일 없으면 집에나 갈 것이지.",angry,angry,sadness,neutral,happiness,angry,angry,3
+15679,5f9a7a96111dfd48d40ffa6a,쓰레기통에서 역겨운 냄새가 나고 있어! 어떻게 하면 좋을까? 정말 큰일이야!,disgust,disgust,disgust,disgust,disgust,fear,disgust,4
+15680,5fbce072576e9378b67ad108,그러게. 별 일 아닌 거 같아 보이는데.,neutral,angry,surprise,neutral,neutral,neutral,neutral,0
+15681,5f7088f7f8fac448cc0a61c1,집에 있는데도 몸이 더 피곤해. 일도 잘 안 되고.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15682,5f6a178d9e04b149046cba01,쓰레기통에서 역겨운 냄새가 나고있어.,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+15683,5f5b6a952e23c7161acccf28,"에휴, 어쩌겠어. 내가 벌린 일이니까 내가 얼른 치워야지.",disgust,sadness,disgust,disgust,sadness,sadness,sad,2
+15684,5f5d605754b2361621284850,"글쎄, 내가 좋아하는 유튜버가 뒷광고를 했다고 시청자들한테 사과하는 영상을 올렸어.",angry,angry,angry,angry,angry,sadness,angry,3
+15685,5fb9ca58576e9378b67ac5b5,아 그새끼 진짜 짜증나.,angry,angry,neutral,sadness,neutral,disgust,neutral,0
+15686,5f707b40111dfd48d40fd395,그런 새끼는 욕 쳐먹을려고 그러고 있는 거라고! 욕을 더 못 해줘서 한이구만!,angry,angry,angry,angry,angry,angry,angry,3
+15687,5f6e095ed338b948c4e688c2,나 오늘 짭새 새끼들이 몰려있길래 궁금해서 구경 다녀왔어.,neutral,neutral,fear,happiness,neutral,neutral,neutral,0
+15688,5f4143e09dd513131eacee3d,다행히 지나가던 분이 잡아주셨어. 얼마나 고마운지 몰라.,surprise,neutral,surprise,sadness,neutral,neutral,neutral,0
+15689,5fb8cb4d4c55eb78bd7cde3e,그래. 고마워.,angry,happiness,neutral,neutral,neutral,angry,neutral,0
+15690,5f6561add338b948c4e6808b,곰팡이 제거제 괜찮은 거야? 한 번 써볼까?,angry,surprise,angry,sadness,neutral,neutral,neutral,0
+15691,5f9806eb111dfd48d40ff60b,지나가는 길에 이벤트 하는 걸 보고 신청했더니 당첨 됐어!,happiness,neutral,happiness,happiness,happiness,surprise,happy,1
+15692,5f992fca9e04b149046ce2a8,해피가 너무 좋아서 활짝 뛰다가 목줄이 끊겼어.,surprise,surprise,surprise,surprise,neutral,neutral,surprise,6
+15693,5fb340270fb0f33aa31ca1b9,아니. 그 새끼는 왜 나한테 히스테리를 부리는 거야. 집에나 갈 것이지! 결혼이나 할 것이지! 진짜 짜증 나게 진짜!,angry,angry,neutral,neutral,sadness,disgust,neutral,0
+15694,5fb385d50fb0f33aa31ca29f,나 오늘 짭새가 몰려 있길래 구경하고 왔어.,neutral,neutral,neutral,neutral,neutral,neutral,neutral,0
+15695,5f898ab6111dfd48d40fe5bb,어. 몸도 쳐지고 기분도 쳐져.,sadness,sadness,sadness,sadness,angry,sadness,sad,2
+15696,5f3fe37a9dd513131eace8cd,정말 바빠서 일년 만에 휴가를 낸 거였거든. 운이 너무 안좋아.,angry,sadness,angry,sadness,sadness,sadness,sad,2
+15697,5f8f6a8cd338b948c4e6a529,자고 일어났더니 우리 집 빼고 주위가 다 물에 잠겨있어.,fear,sadness,fear,sadness,fear,fear,fear,5
+15698,5fbb33284c55eb78bd7ce431,너무 화가 나잖아.,angry,sadness,sadness,neutral,neutral,sadness,sad,2
+15699,5f5c0de754b2361621284748,노트북이 도착하자마자 이리저리 살펴봤는데 노트북이 작동도 잘하고 이상한 곳이 한 군데도 없었어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15700,5fbc9d7f576e9378b67acf03,나 축하해줘. 기분 좋은 일 있어.,happiness,happiness,sadness,neutral,neutral,neutral,neutral,0
+15701,5fbca423cb503578af9ee845,내가 마라톤을 뛰었는데 기록을 경신했어.,happiness,happiness,neutral,happiness,happiness,happiness,happy,1
+15702,5f70b10a111dfd48d40fd414,너가 안 당해봐서 몰라! 얼마나 짜증나는줄 알아? 자꾸 나한테만 뭐라고 하는데 너무 화가 나서 그래!,angry,angry,angry,angry,angry,angry,angry,3
+15703,5f86bdd2f8fac448cc0a6ee2,알았어. 어차피 지금 팔지 못해.,sadness,sadness,sadness,sadness,sadness,angry,sad,2
+15704,5fba3da944697678c497b43e,응. 다행히 다친 데는 없어.,fear,neutral,neutral,neutral,sadness,sadness,neutral,0
+15705,5f6a9381111dfd48d40fcee7,처음 살 때 보다 주식 값이 많이 떨어졌어.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15706,5f9a3d1af8fac448cc0a87d1,아 그렇겠지? 아 근데 거기서 한 음식은 진짜 다시 먹기 싫을 것 같애.,disgust,disgust,angry,sadness,angry,neutral,angry,3
+15707,5fbb31cecb503578af9ee30a,요즘 코로나 때문에 상황도 안 좋고 투자를 해보고 싶어서 주식을 하기로 했어.,sadness,neutral,neutral,neutral,happiness,neutral,neutral,0
+15708,5f83c5e0f8fac448cc0a6a67,갑자기 해피의 목줄이 끊어져서 해피가 막 달려 나갔어.,surprise,neutral,surprise,surprise,fear,surprise,surprise,6
+15709,5fbb5826cb503578af9ee430,그런 것 같았어.,neutral,neutral,neutral,neutral,neutral,neutral,neutral,0
+15710,5f5f654d2e23c7161accd1f8,습기가 많고 환기가 되지 않는 거 같아서 매일매일 신경 쓰고 청소를 하는데 곰팡이는 왜 안 없어질까?,angry,fear,angry,disgust,disgust,sadness,disgust,4
+15711,5f3fe49f9dd513131eace8e8,나 축하해줘. 기분 좋은 일이 생겼어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15712,5fba14adcb503578af9ee02a,그치? 큰 일이면 뉴스에 나오지 않을까? 또 모르지. 안 나올수도 있고.,neutral,surprise,surprise,neutral,neutral,neutral,neutral,0
+15713,5fbcbd61cb503578af9ee8da,"어. 지금 나 혼자밖에 없어, 여기.",fear,surprise,neutral,neutral,neutral,neutral,neutral,0
+15714,5f92222dd338b948c4e6a857,재택근무로 집안에만 있어서 그런지 답답하고 몸도 계속 처져.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15715,5f69b946d338b948c4e684c0,몸은 괜찮은데 물도 아직 안 들어왔어요.,fear,neutral,fear,sadness,fear,fear,fear,5
+15716,5f5c6247b8781316283498f0,그래서 열심히 치우고 있어. 냄새가 너무 나니까 안 치울 수가 없어.,disgust,disgust,disgust,disgust,disgust,angry,disgust,4
+15717,5f901f15f8fac448cc0a7d8a,나 오늘 짭새가 몰려 와서 정말 깜짝 놀랐어.,neutral,surprise,surprise,surprise,neutral,neutral,surprise,6
+15718,5f6b40df111dfd48d40fcfb6,나 요즘 주식 시작했는데 정말 후회가 돼.,sadness,fear,sadness,sadness,sadness,sadness,sad,2
+15719,5fb88087cb503578af9edb2d,그래야겠다. 좋은 것 같아.,disgust,neutral,neutral,neutral,neutral,neutral,neutral,0
+15720,5fb3838f0fb0f33aa31ca27c,나 요즘 주식 시작했는데 망했어.,sadness,neutral,disgust,sadness,neutral,neutral,neutral,0
+15721,5f6eb5fd111dfd48d40fd2a3,나 오늘 짭새들이 몰려있길래 궁금해서 구경 다녀왔어.,neutral,neutral,fear,sadness,neutral,neutral,neutral,0
+15722,5f628fa6b878131628349dc6,떨어진 내 주식이 회복할 수 있었으면 좋겠어.,sadness,neutral,sadness,sadness,sadness,sadness,sad,2
+15723,5f67f1abf8fac448cc0a5ab2,할 수 없지 뭐.,angry,sadness,sadness,sadness,neutral,sadness,sad,2
+15724,5f980afc9e04b149046ce105,그래야 할 것 같아. 화장실이 너무 냄새가 나 습해서!,angry,neutral,angry,sadness,disgust,disgust,disgust,4
+15725,5fbe2a30576e9378b67ad45c,응. 놀라기만 했지. 지금은 괜찮아.,surprise,angry,neutral,neutral,neutral,neutral,neutral,0
+15726,5fbb8bf744697678c497b83b,응. 괜찮아. ,surprise,happiness,neutral,neutral,happiness,happiness,happy,1
+15727,5f928726d338b948c4e6a8da,어후 그런가봐. 이거 어떻게 해야돼?,angry,sadness,angry,sadness,disgust,sadness,sad,2
+15728,5f77cb78f8fac448cc0a6365,아 짜증나! 그 새끼는 할 일 없으면 집에나 갈 것이지 왜 결혼 못 한 히스테리를 나한테 부리나 몰라!,angry,angry,angry,angry,angry,angry,angry,3
+15729,5fb8cade4c55eb78bd7cde34,그냥 요즘 잘 모르겠어.,sadness,sadness,neutral,sadness,sadness,sadness,sad,2
+15730,5f8ffcecd338b948c4e6a62e,나 마라톤 하잖아. 그거 기록 갱신했다!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15731,5f698073d338b948c4e6845f,어. 이제 진짜 완전히 다 끝났어.,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+15732,5f5f6cbbb878131628349b38,실제로 들으면 천둥소리야.,surprise,surprise,surprise,sadness,disgust,angry,surprise,6
+15733,5f5b606954b23616212846e8,어. 지금은 괜찮아졌어.,surprise,neutral,happiness,sadness,neutral,neutral,neutral,0
+15734,5fb8cbcf576e9378b67ac402,내일? 뭐. 그냥 그렇지 뭐.,neutral,neutral,disgust,neutral,neutral,surprise,neutral,0
+15735,5f8da242111dfd48d40febfd,몰려와서 구경 다녀왔어.,neutral,neutral,fear,surprise,neutral,neutral,neutral,0
+15736,5fbe224e4c55eb78bd7ced87,야! 바퀴벌레 나왔어!,disgust,angry,fear,disgust,angry,angry,angry,3
+15737,5f6acf6bd338b948c4e685d3,전자 종목을 구입해서 가지고 있어.,sadness,neutral,neutral,sadness,sadness,neutral,neutral,0
+15738,5fbcd2d4cb503578af9ee970,나도 그렇게 생각해. 도와줘서 고마워.,happiness,sadness,sadness,neutral,happiness,sadness,sad,2
+15739,5fbdd37a576e9378b67ad27b,괜찮은 방법이네. 추천해줘서 고마워.,sadness,neutral,neutral,sadness,neutral,neutral,neutral,0
+15740,5f9228099e04b149046cdc09,단톡방에서 아는 지인이 주식을 추천해줬어.,sadness,neutral,neutral,sadness,sadness,neutral,neutral,0
+15741,5f81c82b9e04b149046cc591,당첨자는 한명 뽑는 거였는데 운이 좋게 내가 당첨되었어!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15742,5fbb11d44c55eb78bd7ce359,완전 좋지. 뭐 추천해줄 거 있어 노래?,happiness,happiness,neutral,neutral,happiness,happiness,happy,1
+15743,5fba16eb44697678c497b2df,사실 나도 힘들어.,neutral,sadness,neutral,neutral,neutral,sadness,neutral,0
+15744,5f60b75754b2361621284af1,그래. 완벽한 것 같애. 고마워.,neutral,happiness,happiness,happiness,happiness,neutral,happy,1
+15745,5f793692d338b948c4e68d22,친구를 강남역에서 만나기로 했는데 뭘 먹을지 모르겠어.,neutral,fear,happiness,sadness,neutral,neutral,neutral,0
+15746,5f7847dfd338b948c4e68c5f,너 고마워. 참고할게.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15747,5f8c1b019e04b149046cd360,프로젝트를 진행하느라고 한 달 동안 친구를 못 만났는데 이번 기회에 만나 봐야 겠어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15748,5fba170c4c55eb78bd7ce198,"하긴. 뭐, 무슨 일만 있으면 경찰 부르니까.",neutral,happiness,neutral,neutral,happiness,neutral,neutral,0
+15749,5f937e23111dfd48d40ff31c,모든 업무가 비대면으로 이루어지다 보니까 밖에 나갈 일이 없어서 그런지 몸이 계속 쳐지고 답답해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15750,5fbb160c4c55eb78bd7ce380,당연하지! 완전 좋아.,happiness,happiness,disgust,angry,surprise,happiness,happy,1
+15751,5fbdd18f44697678c497be0a,아니. 아까 해피 산책시키다가 엄청 놀랐어.,surprise,surprise,fear,surprise,surprise,surprise,surprise,6
+15752,5fbb8ed6cb503578af9ee58f,여행은 아직 몸이 피곤해서 가고싶진 않네.,happiness,angry,neutral,neutral,happiness,neutral,neutral,0
+15753,5f648a269e04b149046cb49d,어 한 30분 정도?,neutral,neutral,fear,neutral,neutral,neutral,neutral,0
+15754,5f600f25b878131628349b96,그래 친구들 만나서 여행 계획 세워 볼게.,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+15755,5f63621f54b2361621284d62,선수처럼 잘 뛰진 않고. 내 기록이 향상이 된 것뿐이야.,happiness,neutral,happiness,happiness,happiness,neutral,happy,1
+15756,5fbcbd16cb503578af9ee8d2,어. 괜찮더라고.,surprise,fear,sadness,neutral,sadness,sadness,sad,2
+15757,5f425a499dd513131eaceff8,나 드디어 프로젝트 끝났어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15758,5f811b30d338b948c4e68f99,혹시나해서 미리 사진을 찍어놨어.,disgust,neutral,angry,sadness,angry,disgust,angry,3
+15759,5f70a5939e04b149046cbf0a,홀가분한 마음으로 신나는 음악을 듣는 것도 좋을 것 같아! ,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15760,5f616a4f2e23c7161accd381,그렇잖아도 바로 묶어서 버렸어.,disgust,disgust,disgust,disgust,disgust,angry,disgust,4
+15761,5f7153baf8fac448cc0a6278,전자 종목이 전망이 좋다고 해서 전자 종목을 구입했어.,sadness,neutral,neutral,neutral,neutral,sadness,neutral,0
+15762,5fbb8e38576e9378b67acc92,미세 먼지 영향도 많지.,angry,disgust,angry,sadness,neutral,sadness,sad,2
+15763,5fbdf0b44c55eb78bd7cecb7,오늘만 이십만원 잃었어.,sadness,sadness,sadness,neutral,neutral,neutral,neutral,0
+15764,5f709148d338b948c4e68a67,그래야지. 냄새가 냄새가 지독해.,disgust,disgust,disgust,sadness,disgust,disgust,disgust,4
+15765,5f85c191d338b948c4e69645,내 선물 보고 싶어? 내가 꼭 보여줄게.,happiness,neutral,happiness,happiness,happiness,happiness,happy,1
+15766,5f8ccf99111dfd48d40fea97,내가 쓰레기통에 버린 음식물 쓰레기가 상해서 냄새가 나는 것 같아.,disgust,disgust,disgust,disgust,disgust,sadness,disgust,4
+15767,5f86b9c5f8fac448cc0a6ed1,나 드디어 프로젝트 끝냈어.,happiness,neutral,happiness,sadness,angry,sadness,sad,2
+15768,5f3df76f8a3c1005aa97cc52,그래주면 정말 고마워. 덕분에 맛있게 먹고 올 수 있을 것 같아.,neutral,happiness,happiness,happiness,happiness,happiness,happy,1
+15769,5fb345c448cdda3a922e4ecf,나 오늘 짭새가 몰려 있길래 궁금해서 구경 다녀왔어.,neutral,neutral,neutral,sadness,neutral,neutral,neutral,0
+15770,5fbe06ce4c55eb78bd7ceceb,"와, 나 짜장면 먹는데 벌레 나왔어!",disgust,disgust,disgust,angry,angry,angry,angry,3
+15771,5fb8cec74c55eb78bd7cde61,나 오늘 짭새가 몰려 있길래 궁금해서 구경 다녀왔어.,neutral,neutral,neutral,sadness,neutral,neutral,neutral,0
+15772,5f6c3d6dd338b948c4e68727,그런 것 같아. 집은 잘 보고 들어가야 될 것 같아.,angry,fear,angry,sadness,disgust,sadness,sad,2
+15773,5fbb8c8e44697678c497b840,선수는 아니고.,happiness,angry,neutral,neutral,neutral,neutral,neutral,0
+15774,5f9808bad338b948c4e6acef,오. 신나는 음악 들으면 더 신나겠다.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15775,5f69a1a9f8fac448cc0a5c8c,축하해 줘 기분 좋은 일이 있어.,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+15776,5f6c7f42f8fac448cc0a5efe,그런 사람들은 양심도 없어서 사과도 억지로 했어.,angry,disgust,angry,angry,angry,angry,angry,3
+15777,5fbb236944697678c497b537,그냥 사소한 일에 경찰 부른 것 같더라고.,neutral,sadness,neutral,neutral,neutral,neutral,neutral,0
+15778,5f8b799e111dfd48d40fe7de,선수는 아니고 내가 달리는 운동을 너무나 좋아해서 매번 열리는 마라톤 대회에 나가고 있어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15779,5fb9c4e74c55eb78bd7cdfa1,어! 그것도 좋은 방법이네. 곰팡이 제거제라.,angry,surprise,neutral,neutral,happiness,neutral,neutral,0
+15780,5f8ad0a0111dfd48d40fe74c,그래. 음악을 좀 들으면서 편하게 휴식을 좀 취해야겠어.,happiness,neutral,happiness,sadness,happiness,happiness,happy,1
+15781,5fb9fbc9576e9378b67ac6da,어 몇 명 같이 뛰는 운동하는 사람들이 있어. 다 같이 성공했지.,happiness,happiness,neutral,neutral,neutral,neutral,neutral,0
+15782,5fb9f91644697678c497b236,어 지금 나 혼자 있어.,fear,fear,fear,sadness,neutral,fear,fear,5
+15783,5f6c14899e04b149046cbbbe,요즘 다 왜 이러는 거지? 정말 이해가 안돼.,angry,angry,angry,angry,angry,angry,angry,3
+15784,5fb9f7ad576e9378b67ac6b9,나 드디어 프로젝트 끝났어.,happiness,happiness,neutral,neutral,happiness,neutral,neutral,0
+15785,5f9015969e04b149046cda49,지나가다가 이벤트 하는 걸 보고 신청했더니 됐어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15786,5f6ffdb3f8fac448cc0a6184,날 위해서 노래와 영화까지 찾아주고 정말 고마워!,sadness,happiness,happiness,happiness,sadness,neutral,happy,1
+15787,5f5c620e2e23c7161accd016,쓰레기통에서 역겨운 냄새가 나고 있어!,disgust,angry,disgust,disgust,disgust,disgust,disgust,4
+15788,5f6f428e111dfd48d40fd2da,주변 사람들한테 이벤트에 당첨 돼서 선물 받았다고 이야기했어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15789,5f6380363bd6941613f6d74c,나 너무 우울해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15790,5f8f6ce6111dfd48d40fee4b,이번에 마라톤 대회 출전했잖아. 내 성적이 우수해.,happiness,neutral,happiness,happiness,happiness,happiness,happy,1
+15791,5f78250a111dfd48d40fd5b1,선물은 평소에 갖고 싶었던 향수인데 비싸서 사지 못했던 제품이야.,happiness,neutral,happiness,happiness,neutral,happiness,happy,1
+15792,5f9924ee111dfd48d40ff7c5,내가 너무나 좋아하는 인플루언서가 진행하는 이벤트가 있었는데 거기에 당첨되었어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15793,5f922cbd9e04b149046cdc1b,나 드디어 프로젝트 끝났어!   ,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+15794,5fb8ccb64c55eb78bd7cde52,어디서 무슨 사건 일어난 거 같던데?,neutral,surprise,neutral,neutral,neutral,neutral,neutral,0
+15795,5f886e27f8fac448cc0a7210,재택근무를 하다 보니까 집 안에만 있으니까 몸이 처지고 기운도 없어.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15796,5fb4cf01cb503578af9ed992,"주변에 사람이 없었어, 근데.",surprise,neutral,disgust,neutral,neutral,disgust,neutral,0
+15797,5f92212c111dfd48d40ff11c,내 선물 보고 싶어? 궁금하구나. 나중에 내가 꼭 보여줄게.,happiness,neutral,happiness,happiness,happiness,happiness,happy,1
+15798,5f850b859e04b149046cc8e0,돈을 보여달라고?,happiness,surprise,happiness,happiness,happiness,happiness,happy,1
+15799,5fbc84b644697678c497b9ee,문은 매일 열고 있는데 그래도 곰팡이가 계속 생기는 거 같아.,angry,neutral,sadness,neutral,neutral,sadness,neutral,0
+15800,5fb8a97f4c55eb78bd7cdd83,어 무슨 일 생긴 건 아니야. 다행히 물지는 않았어.,surprise,happiness,neutral,neutral,neutral,sadness,neutral,0
+15801,5f925241d338b948c4e6a8b4,좋은 음악 있어?,sadness,neutral,sadness,sadness,sadness,neutral,sad,2
+15802,5f63870554b2361621284db6,화장실은 청소를 해도 곰팡이가 없어지질 않아.,angry,disgust,angry,disgust,disgust,angry,disgust,4
+15803,5f66c5a9f8fac448cc0a59af,곰팡이 제거제가 효과가 있을까?,angry,neutral,angry,sadness,disgust,sadness,sad,2
+15804,5fb3880248cdda3a922e4fac,지인이 추천해줘서 시작했어.,sadness,neutral,neutral,sadness,neutral,disgust,neutral,0
+15805,5f5c1ebcb8781316283498a8,맞아. 같이 서로 의지해가면서 뛰는 사람들이 있었어.,happiness,neutral,happiness,happiness,neutral,neutral,neutral,0
+15806,5f9379acf8fac448cc0a80f1, 짜장면에서 벌레가 나와서 더러워서 못 먹겠어. 갖다 버려야할 것 같아!,disgust,disgust,angry,disgust,disgust,disgust,disgust,4
+15807,5f85198ed338b948c4e69499,결승선 들어갈 때는 진짜 기분 완전 좋지!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15808,5f66c4fe9e04b149046cb695,너의 말대로 푹 쉬고 여행 계획도 잡아 볼게.,happiness,neutral,happiness,happiness,happiness,happiness,happy,1
+15809,5f5f6e6b2e23c7161accd214,쓰레기 냄새랑 섞여서 이상하지 않을까?,disgust,fear,disgust,disgust,neutral,sadness,disgust,4
+15810,5fb4b44b4c55eb78bd7cda0d,나 축하해줘. 기분 좋은 일이 있었어.,happiness,happiness,neutral,happiness,happiness,neutral,happy,1
+15811,5f788d5ad338b948c4e68cb3,너가 추천한 곳이니까 믿고 가서 친구랑 먹고 올게. 고마워.,neutral,happiness,happiness,happiness,happiness,neutral,happy,1
+15812,5fba17decb503578af9ee054,"너 지금 공감 못 해주는거야? 아니, 나한테만 지랄한다니까?",angry,angry,neutral,surprise,sadness,angry,angry,3
+15813,5f61f40a54b2361621284bd8,나 오늘 짭새가 몰려 있길래 궁금해서 구경 다녀 왔어.,neutral,neutral,fear,sadness,neutral,neutral,neutral,0
+15814,5fb9cace576e9378b67ac5bc,싸가지가 그냥 너무 없어.,angry,sadness,sadness,sadness,neutral,neutral,sad,2
+15815,5f85c69f9e04b149046ccadd,나 요즘 주식을 시작하게 되었어.,sadness,neutral,neutral,sadness,sadness,sadness,sad,2
+15816,5f97ed309e04b149046ce056,달리는 동안에는 엄청 힘들었는데 결승선을 통과한 순간 기분이 엄청 좋았어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15817,5f9a3b27d338b948c4e6b0e8,아. 그나저나 이거 어떻게 하지? 뭐 좋은 방법 없어?,angry,disgust,angry,sadness,disgust,neutral,disgust,4
+15818,5f79186e9e04b149046cc14f,밖에는 다 물에 잠겨 있어.,fear,fear,fear,sadness,fear,fear,fear,5
+15819,5f6996f5f8fac448cc0a5c79,추천해주면 우리는 고맙지. 일일이 돌아다니지 않아도 되고.,neutral,neutral,happiness,happiness,happiness,neutral,happy,1
+15820,5f8c1ba2d338b948c4e69f3c,나 너무 우울해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15821,5f6ddef2d338b948c4e6885e,아주 유명한 인플루언서가 이벤트를 하더라고.,happiness,neutral,happiness,happiness,happiness,sadness,happy,1
+15822,5f8ea2929e04b149046cd7d5,너무 마음에 들지. 내가 그 전부터 갖고 싶었던 향수야.,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+15823,5fbc9ce844697678c497ba93,응. 다치지 않아서 다행이야.,surprise,neutral,neutral,neutral,neutral,happiness,neutral,0
+15824,5fb88b9844697678c497adf1,한 명이야 한 명!,happiness,neutral,angry,neutral,neutral,angry,neutral,0
+15825,5f992f69f8fac448cc0a85d0,오늘 해피랑 산책시키다가 깜짝 놀랐어!,surprise,surprise,surprise,surprise,disgust,surprise,surprise,6
+15826,5f5cc99c2e23c7161accd054,다행히 천둥 몇 번 치더니 잠잠해지더라고.,surprise,neutral,surprise,sadness,fear,fear,fear,5
+15827,5f5e1d2254b236162128490f,나 요즘에 주식을 시작했는데.,sadness,fear,sadness,sadness,neutral,sadness,sad,2
+15828,5fbb3b51cb503578af9ee351,나 오늘 짭새들 모여있길래 가서 구경하고 왔어.,neutral,sadness,neutral,neutral,neutral,neutral,neutral,0
+15829,5fbe2a004c55eb78bd7cee0c,잘은 모르겠는데 사람들이 뭔 일 있었나봐?,neutral,sadness,neutral,neutral,sadness,neutral,neutral,0
+15830,5fbe35a0576e9378b67ad4d0,그것도 소용이 없더라고.,angry,sadness,neutral,neutral,sadness,sadness,sad,2
+15831,5f6984e9f8fac448cc0a5c5e,내 휴가가 엉망이야!,angry,disgust,angry,sadness,angry,angry,angry,3
+15832,5f62c8c0b878131628349e15,역에서 만나기로 했어요.,neutral,neutral,happiness,sadness,neutral,neutral,neutral,0
+15833,5fbe29674c55eb78bd7cee04,그냥 음 아무거나 다 하고 있어.,sadness,happiness,neutral,neutral,neutral,sadness,neutral,0
+15834,5f6ddf1ad338b948c4e68860,선물은 완전 마음에 들지. 아주 비싼 향수야.,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+15835,5f5e2010b878131628349a35,짭새가 몰려있길래 구경 좀 갔다 왔어.,neutral,neutral,disgust,sadness,disgust,angry,disgust,4
+15836,5fb3422c0fb0f33aa31ca1cb,내가 잘못 생각한 것 같아.,neutral,neutral,neutral,neutral,neutral,neutral,neutral,0
+15837,5f5d76d9b8781316283499a4,못 보고 쫓겨났다고.,neutral,angry,angry,angry,disgust,angry,angry,3
+15838,5fbc7dd84c55eb78bd7ce834,여행권 당첨되었어.,happiness,neutral,neutral,neutral,sadness,neutral,neutral,0
+15839,5f5b59273bd6941613f6d05e,어. 거기로 가야겠다. 너무 좋을 것 같아.,neutral,happiness,happiness,happiness,happiness,neutral,happy,1
+15840,5fb88e8444697678c497ae07,그정도는 아닌데 내 기록을 경신했어.,happiness,neutral,angry,neutral,neutral,happiness,neutral,0
+15841,5f605ca0b878131628349c19,누가 시비를 걸었는지 싸우고 있었어. 그걸 말리는 것 같았어.,neutral,neutral,fear,sadness,neutral,neutral,neutral,0
+15842,5f90d5cbf8fac448cc0a7dfc,나 요즘 주식을 시작하게 되었어.,sadness,neutral,neutral,sadness,sadness,sadness,sad,2
+15843,5f894f669e04b149046cd06e,"와, 짜장면에서 벌레 나왔다.",disgust,disgust,angry,disgust,disgust,disgust,disgust,4
+15844,5fb8e1db44697678c497aff3,지금 전화해야겠다.,fear,happiness,neutral,neutral,neutral,sadness,neutral,0
+15845,5f653feb9e04b149046cb51f,아 짜증나. 이새끼 일끝났으면 집에나 갈 것이지. 남아가지고 나한테 뭐라고 해.,angry,angry,angry,angry,angry,angry,angry,3
+15846,5f3ca01b8a3c1005aa97c4d3,나 요즘 너무 우울해 죽겠어.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15847,5f80871f111dfd48d40fd8a0,그렇게 어떻게 벌레가 나올 수 있지?,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+15848,5fbb634644697678c497b6f3,사진? 사진은 왜?,disgust,surprise,surprise,neutral,neutral,neutral,neutral,0
+15849,5f87c481111dfd48d40fe301,우울한 마음을 음악으로 달래보는 것도 좋을 것 같아.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15850,5f8bbd10d338b948c4e69efb,와. 짜장면에서 벌레가 나왔다?,disgust,disgust,angry,disgust,disgust,disgust,disgust,4
+15851,5f5c14253bd6941613f6d0f5,코로나 관련 주식이야.,sadness,neutral,sadness,sadness,neutral,neutral,neutral,0
+15852,5fbc9e37cb503578af9ee7f8,그거 좋은 생각이겠다. 고마워.,disgust,neutral,sadness,neutral,neutral,neutral,neutral,0
+15853,5f8b79749e04b149046cd2d6,나 축하해줘! 기분 좋은 일이 생겼어. ,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15854,5f60c1bdb878131628349c79,드디어 새로 산 노트북이 오늘 도착했어.,happiness,happiness,happiness,sadness,happiness,neutral,happy,1
+15855,5f9a31bbd338b948c4e6b0b5,선수는 아니고 내가 운동을 좋아해서 시작했어. ,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15856,5f992a84f8fac448cc0a85ba,받으면 사진 찍어서 보내줄게.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15857,5fbb56eb576e9378b67acae6,"아, 그렇긴 한데 상사가 상사 같아야지.",angry,disgust,sadness,neutral,surprise,sadness,sad,2
+15858,5f68cd63111dfd48d40fcd71,"아, 짜증나. 그 새끼는 할일이 없으면 집에나 갈 것이지. 늦게까지 결혼 못 한 히스테리를 나한테 푸는 건가? 왜 항상 나한테만 그럴까?",angry,angry,angry,angry,angry,angry,angry,3
+15859,5fb9fa6b44697678c497b23d,나 프로젝트 끝냈어.,happiness,sadness,neutral,neutral,neutral,neutral,neutral,0
+15860,5fbb31284c55eb78bd7ce421,응. 다친데는 없는데 너무 무서워.,fear,fear,neutral,neutral,happiness,neutral,neutral,0
+15861,5fbcd8f24c55eb78bd7ceaa3,선수까지는 아니고 노력했지.,happiness,neutral,angry,neutral,neutral,happiness,neutral,0
+15862,5f6f5baf9e04b149046cbe20,태풍에 장마가 겹쳐서 엉망이 돼버렸어. 나가지도 못하고.,angry,sadness,angry,sadness,sadness,sadness,sad,2
+15863,5f5d78152e23c7161accd0c3,"아니, 다른 사람들한테는 아무 말 안하면서 나한테만 계속 지적하고 뭐라고 하잖아! 그러니까 화가 나서 자연스럽게 욕이 나오는 거야.",angry,angry,angry,angry,angry,angry,angry,3
+15864,5f67464ad338b948c4e6827b,주변 사람들도 엄청 놀라고 나는 걔 잡으러 엄청나게 뛰어댕겼어!,surprise,surprise,surprise,sadness,disgust,angry,surprise,6
+15865,5fbb8d694c55eb78bd7ce6d5,테마 주를 가지고 있어.,sadness,disgust,neutral,neutral,neutral,neutral,neutral,0
+15866,5fb9e3be4c55eb78bd7ce080,"아무리 한 열 번을 했는데, 거기에 신기록이 나왔어.",happiness,angry,angry,angry,happiness,disgust,angry,3
+15867,5f6b0072f8fac448cc0a5dd8,누군가 싸우는지 시끄럽고 사람들이 너무 많아.,neutral,neutral,fear,angry,neutral,sadness,neutral,0
+15868,5fbb360dcb503578af9ee335,큰 일은 아닌 것 같아.,neutral,neutral,sadness,neutral,neutral,neutral,neutral,0
+15869,5fbdd75b576e9378b67ad2b2,어. 보니까 쓰레기통에 버려뒀던 음식물 쓰레기가 그 사이 썩은 것 같애.,disgust,disgust,fear,sadness,angry,sadness,sad,2
+15870,5f989faed338b948c4e6ad80,"내가 쓰레기통에 음식물 쓰레기를 버렸는데, 그게 상해서 냄새가 나는 거야.",disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+15871,5fba038d4c55eb78bd7ce15e,그거 좋지.,happiness,neutral,neutral,neutral,neutral,happiness,neutral,0
+15872,5fbddb87cb503578af9eeba2,그래. 이해해줘서 고마워. 다신 실수하지 않을려고.,disgust,sadness,sadness,neutral,happiness,sadness,sad,2
+15873,5f6ad340f8fac448cc0a5da6,나 어제 자다가 깜짝 놀랐어.,surprise,surprise,surprise,surprise,neutral,surprise,surprise,6
+15874,5fba3ba24c55eb78bd7ce2bb,"줄이 좀 날라, 낡았었는데 해피가 요즘 산책 못 하다가 갑자기 하니까 너무 신나서 갑자기 달려가서 그래.",surprise,angry,angry,neutral,happiness,surprise,angry,3
+15875,5f620c943bd6941613f6d593,비가 많이 오는줄도 모르고 잤다가 재난 문자를 못봤고 빠져나오지도 못한 거야.,fear,neutral,fear,sadness,fear,angry,fear,5
+15876,5fbc9a9144697678c497ba6b,진짜 나 진짜 내일 가서 엎을지도 몰라. 화가 나가지고 진짜. 짜증나.,angry,angry,angry,neutral,happiness,angry,angry,3
+15877,5f5eb5ca54b2361621284950,그동안 너무 바쁘고 일이 많아서 일년만에 받은 휴가인데 비가 온다고 하니까 아무데도 못 갈 거 같아.,angry,sadness,angry,sadness,disgust,sadness,sad,2
+15878,5f86ba199e04b149046ccc0c,알았어. 친구들과 여행 계획도 세워볼게.,happiness,neutral,happiness,happiness,happiness,sadness,happy,1
+15879,5fb8c2d044697678c497af12,그것도 좋지. 맛있는 것도 많이 먹고싶다.,happiness,happiness,neutral,neutral,neutral,sadness,neutral,0
+15880,5f5f8c343bd6941613f6d3ad,나 짭새가 몰려있어서 구경갔다 왔어.,neutral,neutral,fear,sadness,neutral,neutral,neutral,0
+15881,5f656168111dfd48d40fca3f,화장실은 청소를 해도해도 곰팡이가 사라지질 않아.,angry,disgust,angry,disgust,disgust,angry,disgust,4
+15882,5fba37b2cb503578af9ee159,"몸은 괜찮아. 가끔, 아니 매일 운동하고 있거든?",sadness,happiness,neutral,neutral,happiness,neutral,neutral,0
+15883,5f5d8960b8781316283499c6,나 오늘 짭새가 몰려있어서 구경다녀왔어.,neutral,neutral,disgust,angry,neutral,neutral,neutral,0
+15884,5fbc709a576e9378b67acdcd,"아, 이 새끼 또 아는 척 하기는. 야, 짭새나 경찰이나 거기서 거기지.",neutral,disgust,angry,neutral,surprise,disgust,disgust,4
+15885,5f6a15219e04b149046cb9f5,내 휴가가 엉망이야.,angry,disgust,angry,sadness,sadness,sadness,sad,2
+15886,5fb48889cb503578af9ed7c6,나 너무 우울해.,sadness,sadness,neutral,neutral,sadness,sadness,sad,2
+15887,5f8d6d4c111dfd48d40feb81,나 드디어 프로젝트가 끝났어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15888,5f983fccf8fac448cc0a8457,헐. 나 이벤트에 당첨 되었어.,happiness,happiness,surprise,happiness,happiness,happiness,happy,1
+15889,5f601197b878131628349ba0,아침에 일어나 보니 주변이 다 물바다야 나갈 수가 없어.,fear,surprise,fear,sadness,fear,fear,fear,5
+15890,5f851c459e04b149046cc8fc,에휴! 다시 오르겠지. 고마워.,sadness,neutral,sadness,sadness,sadness,sadness,sad,2
+15891,5f8b04ab111dfd48d40fe7d1,아주 폭락해버렸어.,sadness,fear,sadness,sadness,sadness,angry,sad,2
+15892,5fb8c4ba4c55eb78bd7cddf9,나 너무 우울해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15893,5fb4cf6d4c55eb78bd7cdab9,너무 무서워. 어떡해야될지 모르겠어.,fear,fear,sadness,sadness,fear,fear,fear,5
+15894,5f698483d338b948c4e68467,집에 물도 안 들어왔는데 그냥 무서워 죽겠어.,fear,fear,fear,fear,fear,sadness,fear,5
+15895,5f8cdafef8fac448cc0a784e,조금만 더 기다려보고 정 안되면 팔아야지.,sadness,neutral,sadness,sadness,sadness,sadness,sad,2
+15896,5f9933f8d338b948c4e6aeef,그래야할 것 같아.,angry,disgust,angry,sadness,disgust,neutral,disgust,4
+15897,5f71417bf8fac448cc0a6265,습기 때문에 곰팡이가 생기니까 너무나 신경이 쓰여. 어떡하지?,angry,fear,angry,sadness,disgust,sadness,sad,2
+15898,5f9a1d4e9e04b149046ce41d,그래 알겠어. 너무 실망스러워.,disgust,angry,angry,sadness,angry,sadness,angry,3
+15899,5f5d7ef154b236162128488a,코로나 때문에 밖에 못나가서 너무 짜증나.,sadness,disgust,angry,angry,disgust,angry,angry,3
+15900,5f70895c111dfd48d40fd3ca,정말 음악 들으면 기분이 좋아질까?,sadness,surprise,sadness,sadness,sadness,sadness,sad,2
+15901,5fbc82f54c55eb78bd7ce86b,"아, 진짜 짜증나. 그 새끼는 나한테만 지랄이야!",angry,angry,angry,disgust,happiness,angry,angry,3
+15902,5fb88870cb503578af9edb55,으응! 완전히 끝났어. 그래서 지금 너무 행복해.,happiness,happiness,neutral,neutral,happiness,happiness,happy,1
+15903,5fbb87bfcb503578af9ee55f,그래야겠어. 사진 꼭 찍어서 항의 전화를 해야겠어.,disgust,neutral,neutral,neutral,sadness,angry,neutral,0
+15904,5f5c665d2e23c7161accd020,이제 나이가 있어서 그런가 걱정이 되기는 해. 그래도 아직은 큰 무리는 없으니까.,neutral,neutral,neutral,sadness,sadness,neutral,neutral,0
+15905,5fb8e72144697678c497b031,아. 짜증 나. 그 새끼는 왜 맨날 나한테만 그래.,angry,angry,neutral,neutral,angry,neutral,neutral,0
+15906,5fb4b3b644697678c497ab3e,갑자기 해피가 목줄을 끊고 도망갔거든.,surprise,neutral,neutral,angry,sadness,surprise,neutral,0
+15907,5fb3874648cdda3a922e4fa3,해피는 무사해.,surprise,neutral,neutral,neutral,sadness,sadness,neutral,0
+15908,5fbdd97d576e9378b67ad2c1,그랬으면 좋겠다. 어디 가서 얘기하지도 못하고.,sadness,neutral,sadness,sadness,sadness,neutral,sad,2
+15909,5f5c0d0254b2361621284742,코로나 때문에 밖에도 못나가고 답답해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15910,5fbd0b534c55eb78bd7ceae6,응. 이제 완전히 다 끝났어. 주말에 쉴 수 있겠다.,happiness,happiness,sadness,disgust,neutral,happiness,happy,1
+15911,5f9012d4d338b948c4e6a673,그래. 친구도 만나고 수다도 떨고 맛있는 것도 먹고 그래야겠어.,happiness,happiness,happiness,happiness,happiness,sadness,happy,1
+15912,5f6829bf9e04b149046cb802,애피타이저 푸짐하게 주는 집도 있어? 그런 집은 완전 좋지!,neutral,surprise,happiness,happiness,happiness,happiness,happy,1
+15913,5fbdf70b576e9378b67ad311,올라갔다가 내려갔다가 왔다갔다 했다가. 그랬네요.,sadness,sadness,sadness,neutral,neutral,sadness,sad,2
+15914,5f5f0dd0b878131628349ade,그런 것 같아. 나는 무서워서 뒤에서 조금 보다가 그냥 왔어.,neutral,neutral,fear,sadness,fear,fear,fear,5
+15915,5f8a3b58f8fac448cc0a7437,쓰레기통에서 역겨운 냄새가 나기 시작했어.,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+15916,5f68d7ab111dfd48d40fcd7d,난 게임보다는 영화보는 걸 더 즐거워 해.,angry,neutral,happiness,sadness,sadness,sadness,sad,2
+15917,5f6a922c9e04b149046cba2f,나 축하해 줘. 정말 기분 좋은 일이 있었어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15918,5fbe34cc4c55eb78bd7ceea0,너무 많이 떨어져서 이걸 어떻게 해야할지 모르겠어.,sadness,neutral,sadness,sadness,sadness,neutral,sad,2
+15919,5f6015c5b878131628349bb8,친구가 좋은 주식 있다고 해서 시작하게 되었어.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15920,5fbdd55e4c55eb78bd7cec58,확인하고 집 들어왔어야 됐는데 내가 바보였어.,angry,sadness,neutral,sadness,sadness,sadness,sad,2
+15921,5f696bf69e04b149046cb939,화가 나는 내 마음을 달래줄 영상이 있어?,angry,surprise,angry,angry,angry,sadness,angry,3
+15922,5f77eeb0f8fac448cc0a63a0,강남역 주변에서.,neutral,neutral,happiness,sadness,neutral,neutral,neutral,0
+15923,5f65e114f8fac448cc0a58b0,나 너무 우울해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15924,5f6b42f19e04b149046cbafc,내가 버려야 되는 순간에 안 버리고 있었더니 그러는 거야.,disgust,sadness,disgust,sadness,disgust,sadness,sad,2
+15925,5f922452d338b948c4e6a85e,와. 짜장면에서 벌레 나왔어.,disgust,disgust,angry,disgust,disgust,disgust,disgust,4
+15926,5f901af0f8fac448cc0a7d75,그래야할 것 같아. 방향제가 역시 냄새빠지기는 좋아.,disgust,neutral,angry,sadness,disgust,sadness,sad,2
+15927,5fb37ea70fb0f33aa31ca22e,코로나 때문에 취업이 안돼.,sadness,neutral,neutral,neutral,happiness,neutral,neutral,0
+15928,5f866b8c111dfd48d40fe075,갑자기 해피의 목줄이 끊어지면서 해피가 막 도망갔어.,surprise,neutral,surprise,surprise,fear,sadness,surprise,6
+15929,5fba34b644697678c497b3ab,나 아까 짭새 새끼들이 몰려 있길래 신기해서 구경 갔다 왔어.,neutral,angry,angry,angry,neutral,happiness,angry,3
+15930,5fb8c976576e9378b67ac3eb,아 진짜 내가 왜 그랬을까.,disgust,angry,neutral,angry,angry,angry,angry,3
+15931,5fbca30c4c55eb78bd7ce955,짱아가 신나가지고 목줄을 끊어버렸어.,surprise,surprise,neutral,neutral,surprise,surprise,surprise,6
+15932,5f9a1cf6111dfd48d40ff968,와! 짜장면에서 벌레가 나왔다?,disgust,disgust,angry,disgust,disgust,neutral,disgust,4
+15933,5fba368d44697678c497b3ca,그것도 좋을 거 같애. 근데 음악 추천해주면 안 될까?,happiness,fear,sadness,sadness,happiness,neutral,sad,2
+15934,5f6213f32e23c7161accd438,알았어. 사용 설명서 보고 꼼꼼히 챙겨볼게.,happiness,neutral,happiness,happiness,happiness,neutral,happy,1
+15935,5f5e14c8b878131628349a10,요즘 다 왜들 이러는지 모르겠어.,angry,angry,sadness,angry,disgust,angry,angry,3
+15936,5f6375bf3bd6941613f6d72d,코로나 때문에 답답해서.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15937,5f6dde5cf8fac448cc0a6020,밤 중에 그렇게 비가 많이 올 줄 누가 알았겠어. 나 자느라고 대피도 못했어.,fear,fear,fear,sadness,fear,sadness,fear,5
+15938,5f9a26eef8fac448cc0a8776,맞아. 그런 것 같아. 결국엔 환기가 문제였어.,angry,neutral,angry,sadness,disgust,disgust,disgust,4
+15939,5f786cd2111dfd48d40fd5d5,나 영화부터 찾아줘. 영화 너무 보고싶어.,sadness,neutral,sadness,sadness,sadness,sadness,sad,2
+15940,5f8997bbd338b948c4e69c95,우리 동네 짭새가 몰려와서 사람들이 구경가고 난리였어!,neutral,neutral,fear,angry,disgust,angry,angry,3
+15941,5f87cb77d338b948c4e69975,우산이 있으니 비 맞을 일은 없어. 건강도 괜찮아.,neutral,neutral,happiness,sadness,neutral,neutral,neutral,0
+15942,5fb4d8cc44697678c497ac4e,"아니, 그렇게 흔하지가 않잖아. 그 짭새들 모여 있는게. 그래가지고 가서 봤더니 한 사람 누워 있고 한 사람 되게 막 씩씩거리고 있고 그러던데?",neutral,surprise,disgust,neutral,surprise,surprise,surprise,6
+15943,5f6368623bd6941613f6d713,드디어 구매한 노트북이 도착했어. 뜯어야지!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15944,5fbded35576e9378b67ad2ec,맞아. 요즘 다이어트 쉬었더니. 고마워!,sadness,happiness,neutral,neutral,neutral,neutral,neutral,0
+15945,5f6e913c9e04b149046cbda1,지금 당장 팔 수도 없어. 손해가 너무 크거든.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15946,5f92d3e6d338b948c4e6a9b0,내가 너무나 좋아하는 인플루언서가 진행하는 이벤트에 당첨되었어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15947,5f826fef9e04b149046cc5d6,그래? 그럼 바로 사진 찍어놓을게.,disgust,neutral,angry,sadness,angry,disgust,angry,3
+15948,5f5b790e3bd6941613f6d0c4,해피의 목줄이 갑자기 끊어져서 해피가 막 달려나갔어.,surprise,surprise,surprise,surprise,fear,surprise,surprise,6
+15949,5f900beef8fac448cc0a7d4c,해피 목줄이 갑자기 끊어진거야.,surprise,surprise,surprise,surprise,fear,fear,surprise,6
+15950,5fb86e064c55eb78bd7cdbe8,나 드디어 끝났어.,happiness,happiness,neutral,neutral,happiness,happiness,happy,1
+15951,5f9a17f6f8fac448cc0a873d,아! 무슨 벌레야.,disgust,disgust,angry,disgust,disgust,disgust,disgust,4
+15952,5f6d5d19111dfd48d40fd19c,시간을 가지고 지켜보다보면 떨어진 주식도 오르겠지?,sadness,fear,sadness,sadness,sadness,sadness,sad,2
+15953,5f67eac0f8fac448cc0a5a98,아니. 자랑하지 않았어.,happiness,happiness,happiness,sadness,happiness,angry,happy,1
+15954,5fb8915a4c55eb78bd7cdd20,청소년들이 길가에서 담배를 피고 있더라고.,neutral,neutral,neutral,neutral,angry,sadness,neutral,0
+15955,5fba17b0cb503578af9ee052,나도 모르겠어.,surprise,sadness,neutral,neutral,neutral,sadness,neutral,0
+15956,5fb8c77fcb503578af9edcd9,그래. 고마워.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15957,5fba3ea5cb503578af9ee1b7,벌써 해서 환불 받았어.,disgust,neutral,neutral,neutral,neutral,angry,neutral,0
+15958,5fbe087d4c55eb78bd7cecf7,아니? 혼자 열심히 연습한 거야.,happiness,neutral,neutral,neutral,neutral,sadness,neutral,0
+15959,5fbb34ba44697678c497b5a1,몰라. 빨리 욕이나 하고 스트레스나 풀고 싶어 나.,angry,neutral,angry,sadness,neutral,disgust,neutral,0
+15960,5f8505f6f8fac448cc0a6c03,너무너무 마음에 들어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15961,5fbdca6acb503578af9eeaf8,나 축하해줘. 기분 좋은 일이 있어.,happiness,neutral,neutral,happiness,happiness,happiness,happy,1
+15962,5fbe0c6ccb503578af9eec56,이번 마라톤 대회에서 내 기록을 훨씬 갱신했지 뭐야.,happiness,surprise,happiness,neutral,happiness,happiness,happy,1
+15963,5fbe2a5344697678c497c001,그렇게 해도 안되는데 어떡하지?,angry,surprise,surprise,disgust,sadness,surprise,surprise,6
+15964,5f5ec3de2e23c7161accd17d,실제로는 폭탄이 아니라 그냥 천둥만 몇 번 울렸어.,surprise,neutral,surprise,sadness,disgust,neutral,neutral,0
+15965,5fb9bfcbcb503578af9ede39,배달시켰는데 벌레가 나왔어.,disgust,sadness,angry,neutral,neutral,neutral,neutral,0
+15966,5fb8a922cb503578af9edc43,내가 평소에 정말 갖고싶던 향수야. 심지어 비싸기도 하고. 한 15만원 하는건데?,happiness,angry,neutral,neutral,neutral,neutral,neutral,0
+15967,5f8af7b79e04b149046cd290,나 오늘 짭새가 몰려와서 정말 깜짝 놀랐잖아.,neutral,surprise,surprise,surprise,disgust,sadness,surprise,6
+15968,5f69471dd338b948c4e6842e,나 너무 우울해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+15969,5fb898394c55eb78bd7cdd4d,나 오늘 짭새가 몰려 있길래 구경하다가 왔어.	,neutral,surprise,angry,neutral,neutral,happiness,neutral,0
+15970,5fb4d5c4cb503578af9ed9e7,무슨 일인지 궁금하네.,neutral,neutral,neutral,neutral,neutral,neutral,neutral,0
+15971,5f4147619dd513131eacee61,드디어 구매한 노트북이 도착했어.,happiness,neutral,happiness,happiness,happiness,happiness,happy,1
+15972,5fb33f1175b0a9389bf39699,계속 떨어지고 있어.,sadness,neutral,neutral,neutral,neutral,neutral,neutral,0
+15973,5f92dc7ed338b948c4e6a9c7,나 오늘 짭새가 몰려있길래 궁금해서 구경 다녀왔어.,neutral,neutral,fear,surprise,neutral,neutral,neutral,0
+15974,5f8afb4a9e04b149046cd2a1,집에 갇힌 것 같아.,fear,fear,fear,fear,fear,fear,fear,5
+15975,5f928b0dd338b948c4e6a8de,그런 것 같지는 않던데? 무슨 일이었을까?,neutral,neutral,fear,sadness,neutral,neutral,neutral,0
+15976,5f6385beb878131628349f23,어. 당장 버려야지. 냄새 땜에 죽겠다.,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+15977,5f900714f8fac448cc0a7d43,어 그냥 음식 값 환불만 받으면 좋겠어.,disgust,disgust,angry,sadness,angry,angry,angry,3
+15978,5fb3848f48cdda3a922e4f78,매우 떨어지고 있어.,sadness,neutral,neutral,neutral,sadness,neutral,neutral,0
+15979,5f6c167e111dfd48d40fd085,일이 너무 많고 바빠서 일 년만에 받은 휴가인데 비 때문에 망했어!,angry,sadness,angry,sadness,sadness,sadness,sad,2
+15980,5fb8795a576e9378b67ac210,그래. 걱정해줘서 고마워.,disgust,neutral,angry,neutral,neutral,neutral,neutral,0
+15981,5fbb5e1744697678c497b6e4,그래 알았어. 내가 고칠게.,neutral,neutral,neutral,neutral,happiness,neutral,neutral,0
+15982,5fbcc392cb503578af9ee925,아니 안 그럴거니까 좀 그만 좀 해.,neutral,disgust,neutral,neutral,happiness,angry,neutral,0
+15983,5f5e1b282e23c7161accd116,다행히 천둥으로만 끝난 것 같아.,surprise,neutral,happiness,sadness,fear,fear,fear,5
+15984,5f6e98fdf8fac448cc0a6099,내가 좋아하는 인플루언서가 진행하는 이벤트가 있었는데 거기에 당첨 되었어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15985,5f8eaa91d338b948c4e6a41e,날씨는 언제나 다양해. 변덕스러워서 걱정 안 해.,neutral,neutral,angry,sadness,neutral,neutral,neutral,0
+15986,5f8cc6eb9e04b149046cd54f,나 갇히게 된 거 같아!,fear,fear,fear,fear,sadness,fear,fear,5
+15987,5fb88c874c55eb78bd7cdcef,나 향수 이벤트 1등 당첨됐어!,happiness,surprise,angry,neutral,happiness,happiness,happy,1
+15988,5f86e2a3111dfd48d40fe149,집 안에 갇혀있어. 밖에는 물이 많이 차올라있고.,fear,fear,fear,sadness,fear,fear,fear,5
+15989,5f98a7bcf8fac448cc0a84c9,단톡방에서 아는 지인이 주식을 추천해줘서 시작하게 되었어.,sadness,neutral,neutral,sadness,sadness,neutral,neutral,0
+15990,5fb4b1d144697678c497ab2c,그러게. 빨리 백신이 나오면 좋겠다.,sadness,neutral,neutral,neutral,sadness,neutral,neutral,0
+15991,5fbb2ead4c55eb78bd7ce403,나 엘리베이터 갇혀서 너무 무서워.,fear,neutral,fear,neutral,happiness,neutral,neutral,0
+15992,5f3fe7839dd513131eace936,바로 묶어서 버렸는데 냄새는 없어지지를 않아.,disgust,sadness,disgust,disgust,disgust,disgust,disgust,4
+15993,5fb9c64a44697678c497b0fe,갑자기 배추 목줄이 풀린거야. 아 그래가지고 그때 진짜 큰일나는 줄 알았어.,surprise,surprise,fear,sadness,neutral,sadness,sad,2
+15994,5f8a5153111dfd48d40fe6e7,곰팡이 제거제를 한 번 써볼까?,angry,neutral,angry,sadness,disgust,sadness,sad,2
+15995,5fb38c020fb0f33aa31ca2d2,나 오늘 짭새가 몰려 있길래 구경 갔다 왔어.,neutral,neutral,neutral,sadness,neutral,happiness,neutral,0
+15996,5f6012433bd6941613f6d3d3,여유를 갖고 음악을 듣는 것도 좋겠다.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+15997,5fbcc4e44c55eb78bd7cea32,그래서 내가 지금 쓰레기를 버리고 있잖아. 냄새가 너무 심해.,disgust,neutral,angry,disgust,neutral,neutral,neutral,0
+15998,5f5c574e2e23c7161acccffd,정말 실망스러워. 진짠줄 알고 잘 봐왔는데 이렇게 딴 소리가 나오니까 말이야.,angry,angry,angry,sadness,disgust,angry,angry,3
+15999,5f6aecf59e04b149046cbac4,전화가 여러 번 왔는데도 모르고 잠이 들었어.,fear,fear,fear,sadness,fear,sadness,fear,5
+16000,5fb8e6864c55eb78bd7cdefe,맞아. 버리는 게 좋겠어.,disgust,angry,neutral,neutral,neutral,sadness,neutral,0
+16001,5f9847a7111dfd48d40ff69b,내일 집에서 나갈 때 우산을 챙겨가면 비 안 맞을거야. 건강은 괜찮지.,neutral,neutral,happiness,happiness,neutral,neutral,neutral,0
+16002,5f9a2f469e04b149046ce473,나는 잘 못 봤는데 주위에 사람들이 싸움이 나서 경찰들이 온 거래!,neutral,neutral,fear,sadness,neutral,neutral,neutral,0
+16003,5f90c978111dfd48d40feffb,나 프로젝트 드디어 끝냈어.,happiness,happiness,happiness,sadness,happiness,happiness,happy,1
+16004,5fbe08d944697678c497bef6,나 너무 우울해.,sadness,sadness,sadness,sadness,sadness,angry,sad,2
+16005,5fb8c618cb503578af9edccd,그냥 평소에 좋아해서 했는데 잘 나왔어.,happiness,happiness,angry,neutral,neutral,sadness,neutral,0
+16006,5fb4b35b44697678c497ab3b,너무 무섭지.,fear,neutral,neutral,neutral,fear,fear,neutral,0
+16007,5f6770aa111dfd48d40fcc27,오늘부터 일주일 동안 휴가 기간인데 휴가 기간 내내 비 소식이 있어.,angry,disgust,angry,sadness,sadness,sadness,sad,2
+16008,5fbdbd97cb503578af9eeabf,짭새가 몰려있길래 가서 구경하고 왔어.,neutral,neutral,disgust,neutral,neutral,neutral,neutral,0
+16009,5f5ec63a2e23c7161accd183,비싼 건 사지 못했어. 용돈을 아껴서 샀거든.,happiness,neutral,neutral,sadness,neutral,sadness,neutral,0
+16010,5f40a0a29dd513131eacebb3,회사도 재택근무로 바뀌어서 통 밖을 나갈 수가 없어. 그래서 몸이 더 지치고 힘든 것 같애.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+16011,5f8e25c3f8fac448cc0a7a24,내일 비 소식이 있어? 사무실에 우산 있어.,neutral,surprise,happiness,sadness,surprise,neutral,surprise,6
+16012,5fb8e8624c55eb78bd7cdf0d,딱히 궁금한 건 없었어.,neutral,neutral,neutral,neutral,neutral,angry,neutral,0
+16013,5f8a5bebf8fac448cc0a748b,확인하지 아무튼 고마워.,sadness,happiness,sadness,sadness,sadness,sadness,sad,2
+16014,5fbdcf49576e9378b67ad241,무슨 상황인진 잘 모르겠는데 갑자기 엘리베이터가 안 움직여서 정전인 것 같아.,fear,surprise,neutral,fear,sadness,sadness,sad,2
+16015,5fb8e0034c55eb78bd7cdeb9,무기력하고 힘들어.,sadness,sadness,neutral,neutral,sadness,neutral,neutral,0
+16016,5f62c862b878131628349e14,내일 친굴 만나는데 뭘 먹을지 모르겠어.,neutral,neutral,happiness,sadness,neutral,neutral,neutral,0
+16017,5f6c330af8fac448cc0a5ed4,나 드디어 프로젝트 끝났어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+16018,5fb9c84bcb503578af9edeab,주식은 원래 했었고 너무 무리했다고 투자를. 투자를 무리했어 내가.,sadness,fear,disgust,neutral,neutral,sadness,neutral,0
+16019,5f98c57a111dfd48d40ff704,그런 거 같애. 나도 자세히는 모르겠어.,neutral,neutral,fear,sadness,neutral,neutral,neutral,0
+16020,5f693cb6111dfd48d40fcd83,나 갇힌 것 같아.,fear,fear,fear,sadness,fear,fear,fear,5
+16021,5fbdbf4044697678c497bd93,소매치기 사건이 있었나봐.,neutral,neutral,neutral,neutral,sadness,surprise,neutral,0
+16022,5f5cb3d12e23c7161accd024,신나는 음악을 듣는 것도 너무 좋을 것 같아.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+16023,5fb38a9c48cdda3a922e4fba,그건 아니지만 너 말이 기분이 나빠.,neutral,neutral,neutral,sadness,neutral,neutral,neutral,0
+16024,5f3e93899dd513131eace394,시작한지 얼마 되지 않아서 나도 지켜봐야할 거 같애. 손해가 계속 나니까 오기가 생겨서 원금은 받아야 할 거 같은 생각이 들어.,sadness,neutral,sadness,sadness,sadness,neutral,sad,2
+16025,5f886aa8111dfd48d40fe45c,내가 음식물 쓰레기를 쓰레기통에 버려서 냄새가 나는거야.,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+16026,5f3f38229dd513131eace714,프로젝트를 하느라고 한달동안 친구를 못만났는데 못만났던 친구들을 만날 약속을 잡아야겠어.,happiness,neutral,happiness,happiness,happiness,happiness,happy,1
+16027,5f99235cd338b948c4e6ae86,하 짜증나! 그 새끼는 할 일 없으면 집에나 갈 것이지 결혼 늦게까지 못한 히스테리 부리는 건가? 왜 나한테만 그래!,angry,disgust,angry,angry,angry,angry,angry,3
+16028,5fbccc6b576e9378b67ad086,엄청 무기력해. 어떻게해야 좋아질까?,sadness,neutral,angry,sadness,happiness,sadness,sad,2
+16029,5f5c5fca54b23616212847d9,나 어제 자다가 깜짝 놀랬어!,surprise,surprise,surprise,surprise,surprise,surprise,surprise,6
+16030,5fbc6bd14c55eb78bd7ce7c7,에이 그 정도는 아니야.,happiness,neutral,angry,neutral,neutral,disgust,neutral,0
+16031,5f78184c111dfd48d40fd5ac,나 오늘 짭새가 몰려 있길래 궁금해서 구경 다녀왔어.,neutral,neutral,fear,sadness,neutral,neutral,neutral,0
+16032,5fbe0c8b576e9378b67ad367,에이 그정도는 아니지만 그래도 나 진짜 많이 는 것 같아.,happiness,disgust,happiness,happiness,happiness,happiness,happy,1
+16033,5f6d58a8d338b948c4e687fa,곰팡이 제거제 쓰면 괜찮아질까?,angry,fear,angry,sadness,disgust,sadness,sad,2
+16034,5fbe0f0144697678c497bf47,짭새나 경찰이나 똑같잖아.,neutral,disgust,angry,neutral,angry,angry,angry,3
+16035,5f425f4e9dd513131eacf04b,나 요즘 주식을 새로 시작했는데 정말 우울해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+16036,5f83ca84111dfd48d40fdc5d,코로나로 인해서 재택 근무를 시작하면서 집 안에만 있어서 그런지 마음이 우울해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+16037,5f8eab7cd338b948c4e6a41f,어디서 싸움이 일어났나봐. 시끄럽고 소리 치고 난리가 아니야.,neutral,fear,fear,sadness,disgust,fear,fear,5
+16038,5f992996111dfd48d40ff7dd,혼자 집 안에 갇히게 되니까 엄청 무섭지!,fear,fear,fear,fear,fear,fear,fear,5
+16039,5f3fed569dd513131eace9db,"아니, 요즘 다 왜 그러는 거야? 정말 이해가 안 돼.",angry,disgust,angry,angry,disgust,angry,angry,3
+16040,5fbdbf8fcb503578af9eead1,그래. 그게 좋겠다.,angry,neutral,sadness,neutral,neutral,neutral,neutral,0
+16041,5f62b2f2b878131628349dda,나 프로젝트 드디어 끝났어.,happiness,happiness,happiness,happiness,happiness,surprise,happy,1
+16042,5fbcdef0cb503578af9ee9d6,기분 나쁜걸 어떻게 해?,angry,neutral,angry,neutral,happiness,disgust,neutral,0
+16043,5f9a37e6f8fac448cc0a87b7,아 다행히 다친 사람은 없어서 너무 다행이지.,surprise,surprise,surprise,sadness,neutral,surprise,surprise,6
+16044,5fb9c663cb503578af9ede93,요즘 코로나때문에 마스크.,sadness,fear,neutral,sadness,neutral,neutral,neutral,0
+16045,5f81caefd338b948c4e69121,쓰레기통에서 역겨운 냄새가 나고 있어.,disgust,disgust,disgust,disgust,disgust,disgust,disgust,4
+16046,5fbdbd1b576e9378b67ad1e9,"알았어, 미안해. 욕은 안할게.",angry,happiness,happiness,happiness,neutral,happiness,happy,1
+16047,5f62c01454b2361621284c99,갑자기 짭새가 몰려들어서 구경갔다왔어.,neutral,neutral,fear,angry,neutral,surprise,neutral,0
+16048,5fb8a73444697678c497ae8e,헐 나 이벤트 당첨됐어.	,happiness,happiness,disgust,neutral,happiness,happiness,happy,1
+16049,5fbb4cba4c55eb78bd7ce4be,이거 한 명만 되는거거든? 그래서 기대 하나도 안 했는데 내가 됐어.,happiness,neutral,neutral,neutral,neutral,neutral,neutral,0
+16050,5fbdf07d576e9378b67ad2fb,나 요즘 주식을 시작했어.,sadness,neutral,neutral,neutral,neutral,neutral,neutral,0
+16051,5f6012d63bd6941613f6d3d4,아니 아직 안 했어 선물 오면 해야지.,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+16052,5f656876f8fac448cc0a587e,알았어. 지금 노트북에 이상이 없는지 꼼꼼하게 살펴볼게.,happiness,neutral,happiness,happiness,happiness,neutral,happy,1
+16053,5f6bedc09e04b149046cbb8e,요즘 다들 왜 그러는 거지? 이해가 안 가네.,angry,disgust,angry,angry,angry,sadness,angry,3
+16054,5f6eb2189e04b149046cbdcf,드디어 구매한 노트북이 도착했어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+16055,5fbcaa3e4c55eb78bd7ce994,난 그런 적으로 말한 적 없어.,neutral,neutral,angry,neutral,neutral,sadness,neutral,0
+16056,5fba3dbf4c55eb78bd7ce2d7,아니 화장실 청소를 해도 곰팡이가 없어지지가 않아.,angry,neutral,neutral,neutral,happiness,disgust,neutral,0
+16057,5fb489a144697678c497aa40,아니 아까 해피 산책시키다가 엄청 놀랬어.,surprise,surprise,neutral,sadness,surprise,surprise,surprise,6
+16058,5f9a2113111dfd48d40ff97b,코로나 때문에 밖에 나가지도 너무 답답해!,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+16059,5f8ea59bf8fac448cc0a7adf,"그래, 조금만 더 지켜보다가 팔아야겠지.",sadness,neutral,sadness,sadness,sadness,sadness,sad,2
+16060,5f6080c72e23c7161accd2e6,나 어제 자다가 깜짝 놀랐어!,surprise,surprise,surprise,surprise,neutral,surprise,surprise,6
+16061,5f6c1ffc111dfd48d40fd091,역겨운 냄새랑 날파리 때문에 집안이 너무 지저분한데 얼른 청소해야지.,disgust,neutral,disgust,disgust,disgust,sadness,disgust,4
+16062,5fbdef5344697678c497be9a,어. 운전자 분이 갑자기 멈추셨어.,surprise,sadness,surprise,neutral,angry,neutral,neutral,0
+16063,5f8d00bed338b948c4e6a1d2,나 축하해줘. 기분 좋은 일 있었어.,happiness,happiness,happiness,happiness,happiness,surprise,happy,1
+16064,5f5f64853bd6941613f6d368,난 양식이 더 좋아. 내 친구는 뭔지 모르겠어.,neutral,neutral,happiness,sadness,neutral,neutral,neutral,0
+16065,5f621f60b878131628349d7e,어. 그래야겠다. 주말에 친구들이랑 만나야겠다.,happiness,neutral,happiness,happiness,happiness,happiness,happy,1
+16066,5f677b399e04b149046cb777,나 너무 우울해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+16067,5f5fd8262e23c7161accd254,어제는 너무 놀라서 무섭고 두려워서 잠도 못 잘 정도였어. 하지만 지금은 괜찮아졌어.,surprise,neutral,fear,sadness,neutral,surprise,neutral,0
+16068,5f697ed09e04b149046cb951,장마라서 조금 우울한 거 빼고는 괜찮아.,neutral,neutral,sadness,sadness,neutral,neutral,neutral,0
+16069,5f6560c2d338b948c4e68085,괜찮지 않아. 자다가 폭탄이 터지는 소리가 나는 거야.,surprise,fear,surprise,sadness,fear,fear,fear,5
+16070,5f83cae4111dfd48d40fdc5f,모든 업무가 비대면으로 이루어지다보니까 외출할 일이 없어서 몸이 쳐지는 것 같아. ,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+16071,5fb8ab33cb503578af9edc52,친구는 오른다고 했는데 계속 오르지도 않고 떨어지기만 해.,sadness,sadness,angry,sadness,sadness,sadness,sad,2
+16072,5f681a309e04b149046cb7e1,오랜만에 가족들이랑 동해 바다에 가서 놀다 오기로 했어. 근데 비가 와서 망했어.,angry,sadness,angry,sadness,sadness,sadness,sad,2
+16073,5fbb5a6244697678c497b6dc,몰라. 대낮부터 싸움난 것 같던데?,neutral,surprise,fear,neutral,happiness,neutral,neutral,0
+16074,5f8ad3ac111dfd48d40fe75e,헐. 나 이벤트 당첨됐어.,happiness,happiness,happiness,happiness,surprise,surprise,happy,1
+16075,5f902684f8fac448cc0a7d9b,에휴. 그래. 너 말대로 음악이나 들으면서 기분 풀어야겠다. 나는 신나는 음악이 좋아.,angry,neutral,angry,sadness,happiness,neutral,neutral,0
+16076,5f68d5069e04b149046cb8da,유명한 유튜버들이 다들 돈 받고 뒷광고 하고 있었어.,angry,disgust,angry,angry,angry,angry,angry,3
+16077,5fbb85f24c55eb78bd7ce696,달리기 대회에서 좋은 기록을 냈어요.,happiness,happiness,angry,surprise,happiness,happiness,happy,1
+16078,5fbb7ba7576e9378b67acc14,완전 무서워.,fear,fear,neutral,neutral,neutral,neutral,neutral,0
+16079,5fb4dd55576e9378b67ac13b,무슨 일이 있는지 짭새들이 다 모여있더라고.,neutral,neutral,neutral,neutral,angry,neutral,neutral,0
+16080,5fbb33ba4c55eb78bd7ce436,좋은 생각이야. 아직 방향제가 없어서 얼른 주문해야겠다.,disgust,fear,sadness,neutral,happiness,neutral,neutral,0
+16081,5f9a759fd338b948c4e6b16b,헐! 나 이벤트에 당첨이 됐어요.,happiness,happiness,happiness,happiness,happiness,surprise,happy,1
+16082,5fbcaa254c55eb78bd7ce993,아니야. 싫다고 욕한 적은 없어.,neutral,disgust,neutral,neutral,sadness,neutral,neutral,0
+16083,5fb4b0df576e9378b67abfb6,프로젝트 끝났다. 나 드디어 프로젝트 끝났다.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+16084,5fbc7b54cb503578af9ee6df,당연히 사진은 다 찍어두었어.,disgust,neutral,sadness,neutral,neutral,neutral,neutral,0
+16085,5fb8e2fa576e9378b67ac498,응. 평소에 가지고 싶었던 거야.,happiness,neutral,neutral,neutral,neutral,sadness,neutral,0
+16086,5fba14dbcb503578af9ee02e,조폭들이 싸워가지고 경찰들이 온 것 같애.,neutral,sadness,disgust,sadness,neutral,fear,sad,2
+16087,5f8e1f5a111dfd48d40fec5c,"달리는 동안에는 너무 지치고 힘들었는데, 결승선을 통과하는 순간 엄청 기분이 좋았어.",happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+16088,5fb3857f0fb0f33aa31ca29d,응. 다행히 아무 일도 없었어.,surprise,neutral,neutral,neutral,neutral,neutral,neutral,0
+16089,5fba3f384c55eb78bd7ce2e7,모르겠어. 그냥 사람들 막 몰려 있던데?,neutral,surprise,neutral,surprise,surprise,neutral,surprise,6
+16090,5fb385ff48cdda3a922e4f89,걔는 왜 나한테만 그래?,angry,angry,angry,angry,neutral,disgust,angry,3
+16091,5f886bbfd338b948c4e69af7,단톡방에서 아는 지인이 주식을 추천해줘서 시작하게 되었어.,sadness,neutral,neutral,sadness,sadness,neutral,neutral,0
+16092,5f93803dd338b948c4e6aa14,몸이 처지다 못해 좀 아플 거 같애.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+16093,5f5fd7e32e23c7161accd252,간신히 잠이 들었는데 갑자기 천둥소리가 나서 놀라서 깨게 됐어.,surprise,surprise,surprise,surprise,neutral,surprise,surprise,6
+16094,5fbe0af94c55eb78bd7ced1e,딱 한 명이라니까?,happiness,surprise,surprise,neutral,neutral,surprise,surprise,6
+16095,5fbe085f576e9378b67ad341,그것도 나쁘지 않지. 좋은 생각이야.,happiness,disgust,happiness,happiness,happiness,happiness,happy,1
+16096,5fba198e576e9378b67ac77b,니 말대로 해봐야겠다.,angry,sadness,neutral,sadness,neutral,sadness,sad,2
+16097,5fbdd988cb503578af9eeb92,니가 그렇게 말하니까 꼭 내가 나쁜 사람이 된 것 같다? 내가 뭘 그렇게 잘못했어?,neutral,angry,angry,sadness,sadness,angry,angry,3
+16098,5fba1b464c55eb78bd7ce1c9,장난해? 니가 한 번 겪어봐.,angry,surprise,neutral,sadness,neutral,angry,neutral,0
+16099,5fbc83b344697678c497b9ea,나 요즘 주식 시작했어.,sadness,sadness,neutral,sadness,neutral,sadness,sad,2
+16100,5fb9dfa5cb503578af9edf17,조금 놀랐을 뿐이고 몸은 괜찮아 너무 힘들어.	,fear,surprise,neutral,sadness,happiness,sadness,sad,2
+16101,5f62dbbe54b2361621284ce3,대답 고마워.,happiness,happiness,happiness,happiness,happiness,neutral,happy,1
+16102,5fb8abda4c55eb78bd7cdd91,환기도 자주 확인하는데 창문이 너무 작은가 봐.	,angry,neutral,neutral,neutral,sadness,angry,neutral,0
+16103,5f92884ad338b948c4e6a8dc,아유 어쩔 수 없지 뭐. 고마워.,disgust,disgust,happiness,sadness,disgust,disgust,disgust,4
+16104,5f9a39b0111dfd48d40ff9df,내 기분을 풀어줄 만한 음악이 있어?,sadness,neutral,sadness,sadness,sadness,neutral,sad,2
+16105,5f6019a32e23c7161accd286,니가 안 당해봐서 그래. 그 새끼가 얼마나 악랄한데!,angry,angry,angry,angry,angry,angry,angry,3
+16106,5f712523d338b948c4e68a8e,그런 보험 있으면 당장 가입해줘야지.,happiness,neutral,happiness,happiness,happiness,neutral,happy,1
+16107,5fbb71724c55eb78bd7ce63c,아니 글쎄. 짭새가 공원 앞에 잔뜩 서 있지 뭐야?,neutral,neutral,neutral,surprise,neutral,neutral,neutral,0
+16108,5f9a2897111dfd48d40ff9a5,음악을 들으면 좀 나아질려나.,sadness,neutral,sadness,sadness,sadness,sadness,sad,2
+16109,5f830227f8fac448cc0a6990,비가 너무 많이 와서 집에 갇힌 거 같애.,fear,sadness,fear,sadness,fear,sadness,sad,2
+16110,5f60b7b354b2361621284af4,나 드디어 프로젝트 끝냈어!,happiness,happiness,happiness,sadness,happiness,happiness,happy,1
+16111,5f92d7239e04b149046cdd89,곰팡이 제거제가 효과가 있을까? ,angry,disgust,angry,sadness,disgust,neutral,disgust,4
+16112,5f5b4a2b54b23616212846a1,가족들이랑 동해 바다에 가서 놀고 오기로 했는데 비 땜에 망했어.,angry,sadness,angry,sadness,sadness,sadness,sad,2
+16113,5f620a5454b2361621284bee,신나는 음악 듣는 거 정말 좋아요!,happiness,neutral,happiness,happiness,happiness,angry,happy,1
+16114,5f983fdf9e04b149046ce137,내가 너무나 좋아하는 인플루언서가 진행하는 이벤트에 당첨되었어!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+16115,5f88444a111dfd48d40fe3d0,요즘 주식하는데 정말 속상해!,sadness,neutral,sadness,sadness,sadness,sadness,sad,2
+16116,5fbdcce7cb503578af9eeb00,나 너무 우울해.,sadness,sadness,disgust,sadness,sadness,sadness,sad,2
+16117,5f786be49e04b149046cc0e8,그럼 한 달간 얼마나 고생했는지 알어?,happiness,sadness,happiness,sadness,happiness,sadness,sad,2
+16118,5f5b74942e23c7161acccf4f,헐! 나 이벤트에 당첨 되었어!,happiness,happiness,happiness,happiness,surprise,happiness,happy,1
+16119,5f8aeb47f8fac448cc0a7511,와. 짜장면에서 벌레가 나왔다!,disgust,disgust,angry,disgust,disgust,surprise,disgust,4
+16120,5f8e6f61f8fac448cc0a7a51,에휴. 너의 말 대로 음악이나 들으면서 기분 풀어야겠어. 나는 신나는 음악이 좋아.,angry,neutral,happiness,sadness,angry,sadness,sad,2
+16121,5f8b9fc9d338b948c4e69eb4,나 드디어 프로젝트 끝냈어.,happiness,happiness,happiness,happiness,happiness,surprise,happy,1
+16122,5fbdbf2c576e9378b67ad1fe,나 오늘 짭새가 몰려있길래 궁금해서 구경갔다왔어.,neutral,surprise,neutral,neutral,neutral,surprise,neutral,0
+16123,5fb4ccb4576e9378b67ac078,나 드디어 프로젝트 끝났어!,happiness,happiness,neutral,happiness,happiness,neutral,happy,1
+16124,5fb4cb40cb503578af9ed967,내가 이걸 어떡하면 좋을까?,disgust,surprise,neutral,neutral,neutral,fear,neutral,0
+16125,5f70ae399e04b149046cbf1a,잠을 자고 있었는데 갑자기 천둥이 쳐서 깜짝 놀라서 깼어.,surprise,surprise,surprise,fear,neutral,surprise,surprise,6
+16126,5fbb147b44697678c497b4db,귀찮아서 안 할것 같긴한데 고마워.,sadness,happiness,neutral,neutral,neutral,happiness,neutral,0
+16127,5fb89028cb503578af9edbad,응. 친구 소개로 했는데 잘 안오르네.,sadness,neutral,neutral,neutral,neutral,sadness,neutral,0
+16128,5f6e9959111dfd48d40fd263,주변 사람들한테 이벤트에 당첨돼서 향수를 선물로 받았다고 자랑했어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+16129,5fb48a0e4c55eb78bd7cd903,위로해줘서 고마워.,disgust,neutral,neutral,neutral,neutral,neutral,neutral,0
+16130,5f6f42fb9e04b149046cbdf9,화장실은 아무리 청소를 해도 곰팡이가 없어지지 않아.,angry,disgust,angry,disgust,disgust,sadness,disgust,4
+16131,5f8317d2111dfd48d40fdc16,나 드디어 프로젝트가 마감되었어!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+16132,5f5efd0e2e23c7161accd1b2,강남에서 만나는데 그 주변에 음식들을 잘 모르겠어. 어디서 잘 하는지.,neutral,fear,neutral,sadness,neutral,neutral,neutral,0
+16133,5f992b4a9e04b149046ce28d,나 오늘 짭새가 몰려 있길래 궁금해서 구경 다녀왔어.  ,neutral,neutral,fear,surprise,neutral,neutral,neutral,0
+16134,5fb8878fcb503578af9edb42,응. 진짜 기분 별로였어.,disgust,sadness,neutral,neutral,sadness,sadness,sad,2
+16135,5fb9f0ec576e9378b67ac69e,바로 버리려고 해.,disgust,neutral,neutral,sadness,neutral,sadness,neutral,0
+16136,5f5e1c1d2e23c7161accd117,지금 당장에 구매하고 싶어.,angry,neutral,sadness,sadness,disgust,sadness,sad,2
+16137,5f5ec87d54b2361621284971,나 아까 짭새 새끼들 몰려 있길래 구경 갔다 왔어.,neutral,neutral,angry,angry,disgust,angry,angry,3
+16138,5fba3fd3576e9378b67ac89d,나 축하해줘! 기분 좋은 일 있어.,happiness,happiness,angry,sadness,happiness,neutral,happy,1
+16139,5fb8cae54c55eb78bd7cde37,오르지도 않고 그냥 그대로야.,sadness,fear,angry,neutral,neutral,sadness,neutral,0
+16140,5f81378c9e04b149046cc4a5,바닥을 보고 있는 것 같아. 속상해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+16141,5f3fe6269dd513131eace913,나 자다가 정말 깜짝 놀랐어!,surprise,surprise,surprise,surprise,disgust,surprise,surprise,6
+16142,5f6f60caf8fac448cc0a6130,집 주변까지 물이 차올라서 바깥으로 나갈 수가 없어!,fear,sadness,fear,sadness,fear,fear,fear,5
+16143,5f5d7d6eb8781316283499ad,나는 양식이 더 좋을 것 같아.,neutral,neutral,happiness,happiness,neutral,neutral,neutral,0
+16144,5fb3423075b0a9389bf396b4,나 오늘 짭새가 몰려 있길래 궁금해서 구경 갔다 왔어.,neutral,neutral,neutral,sadness,neutral,neutral,neutral,0
+16145,5f901d5fd338b948c4e6a69f,나 오늘 짭새가 몰려있길래 궁금해서 구경 다녀왔어.,neutral,neutral,fear,sadness,neutral,neutral,neutral,0
+16146,5f68d6da9e04b149046cb8de,당연히 선물은 맘에 들지. 비싼 향순데.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+16147,5f9009dd9e04b149046cda26,지금은 그러는 수밖에 없어.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+16148,5f6e09f2111dfd48d40fd236,나 혼자 집 안에 갇히게 돼서 너무 두려워.,fear,fear,fear,fear,fear,fear,fear,5
+16149,5f682af4111dfd48d40fcca7,나 너무 우울해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+16150,5f68186c111dfd48d40fcc85,화장실은 아무리 청소를 해도 곰팡이가 안 없어져.,angry,neutral,angry,sadness,disgust,sadness,sad,2
+16151,5f77c7b5111dfd48d40fd54b,당연히 있지. 같이 운동하고 같이 대회에 나가 그 사람들이랑.,happiness,neutral,happiness,happiness,happiness,neutral,happy,1
+16152,5fbb4ae3576e9378b67aca48,좋은 생각이야. 그럼 신나는 음악 추천해줄래?,happiness,happiness,neutral,neutral,happiness,neutral,neutral,0
+16153,5fbb8a58576e9378b67acc77,정전까지 돼서 너무 무서워.,fear,fear,fear,fear,neutral,fear,fear,5
+16154,5f937df3111dfd48d40ff31a,나 너무 우울해.,sadness,sadness,sadness,sadness,sadness,sadness,sad,2
+16155,5f60303c54b2361621284a97,아니. 그 정도는 아니야.,happiness,happiness,happiness,sadness,happiness,neutral,happy,1
+16156,5f60d7503bd6941613f6d4b3,어 비가 너무 많이 와서.,angry,sadness,angry,sadness,neutral,sadness,sad,2
+16157,5f602fb42e23c7161accd2a0,어. 사람들도 괜찮았어.,surprise,neutral,surprise,sadness,neutral,neutral,neutral,0
+16158,5fba34fa576e9378b67ac81c,내가 지금 안 쓰겠다 했는데 왜 이렇게 시비 걸어.,neutral,sadness,disgust,neutral,neutral,neutral,neutral,0
+16159,5fbb53f044697678c497b685,그냥 친구들도 다들 하길래.,sadness,sadness,disgust,neutral,happiness,happiness,happy,1
+16160,5f5d73012e23c7161accd0b1,맞아. 우리 화장실은 환풍기가 없어.,angry,neutral,angry,disgust,disgust,sadness,disgust,4
+16161,5f5d74a52e23c7161accd0b9,내가 깜짝 놀라서 막 달려가서 해피를 잡았기 때문에 아무일도 없었어. 정말 다행이었어.,surprise,neutral,surprise,sadness,surprise,surprise,surprise,6
+16162,5fbc677444697678c497b904,나 레포트 다 끝났다니까? 너무 좋아.,happiness,neutral,sadness,surprise,neutral,angry,neutral,0
+16163,5fbc6d894c55eb78bd7ce7de,뭐 그럭저럭.,neutral,neutral,neutral,sadness,neutral,neutral,neutral,0
+16164,5f6fe2a4d338b948c4e689df,당연히 아직 자랑 안 했지! 향수 오면 할려고.,happiness,neutral,happiness,happiness,happiness,neutral,happy,1
+16165,5fbb6f64cb503578af9ee4f1,맞아. 일을 나한테만 시키고 또 나를 믿지를 않고 감시하려고만 해. 그리고 자기는 일을 안 해.,angry,sadness,neutral,neutral,happiness,angry,neutral,0
+16166,5f630a7eb878131628349e9b,화장실은 자주 청소를 해도 곰팡이가 없어지지 않아.,angry,disgust,angry,disgust,disgust,angry,disgust,4
+16167,5f9807359e04b149046ce0db,그래 꼭 보여줄게. 얼마나 예쁘고 고급진 향수인지.,happiness,happiness,happiness,sadness,happiness,neutral,happy,1
+16168,5f983eb1111dfd48d40ff685,"아, 맞다. 너의 말대로 증거로 벌레가 나온 짜장면을 사진 찍어놔야겠어.",disgust,disgust,angry,disgust,angry,disgust,disgust,4
+16169,5f893c57111dfd48d40fe544,짜장면에서 벌레가 나오는 순간 너무 더럽고 지저분해서 먹을 수가 없었어.,disgust,disgust,angry,disgust,disgust,sadness,disgust,4
+16170,5f8841a6111dfd48d40fe3c2,한 명 뽑는 거야. 근데 그게 내가 된 거지!,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+16171,5f93812ad338b948c4e6aa18,시간을 두고 지켜보다 보면 주식이 오를 날이 있겠지?,sadness,neutral,sadness,sadness,sadness,neutral,sad,2
+16172,5f5cc91054b236162128480f,나 어제 자다가 정말 깜짝 놀랐어!,surprise,surprise,surprise,surprise,surprise,surprise,surprise,6
+16173,5fbdb4bc4c55eb78bd7ceb4d,너는 집에서 뭐하고 지내?,sadness,sadness,angry,neutral,surprise,sadness,sad,2
+16174,5f3e96399dd513131eace3c5,축하해줘. 나 기분 좋은 일이 생겼어.,happiness,happiness,happiness,happiness,happiness,happiness,happy,1
+16175,5fbb7d154c55eb78bd7ce669,나한테 좋은 방향제 있어!,disgust,happiness,neutral,neutral,happiness,happiness,happy,1
+16176,5f984d469e04b149046ce147,당연히 끝났지! 한 달간 얼마나 고생 많았는데.,happiness,happiness,happiness,sadness,happiness,neutral,happy,1
+16177,5fbb1e1a576e9378b67ac959,알았어. 앞으로 안 사용하도록 할게.,neutral,happiness,neutral,happiness,happiness,neutral,happy,1
+16178,5f8a1e23f8fac448cc0a740a,짜장면에서 벌레가 나왔어!,disgust,disgust,angry,disgust,disgust,disgust,disgust,4
+16179,5f87c9f79e04b149046cce20,그래. 좋은 생각이야. 냄새는 없애야 하니까. ,disgust,disgust,disgust,sadness,disgust,sadness,disgust,4
+16180,5f6777229e04b149046cb768,나 오늘 짭새가 몰려있길래 궁금해서 구경 다녀왔어.,neutral,neutral,fear,happiness,neutral,sadness,neutral,0
+16181,5f7001b99e04b149046cbea3,단톡방에서 아는 지인이 주식을 추천해줘서 시작하게 되었어.,sadness,neutral,neutral,sadness,sadness,sadness,sad,2
