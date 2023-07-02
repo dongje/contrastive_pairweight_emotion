@@ -1,6 +1,7 @@
 # contrastive_pairweight_emotion
 
-<<<<<<< HEAD
+this is the implement about my first paper
+
 
 the emotion should be uniformed in data and not label (order not relevant)
 (neutral , sad , angry , surprise , happy , fear , disgust)
